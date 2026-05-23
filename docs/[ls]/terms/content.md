@@ -2,7 +2,6 @@
 
 > Fastagram, Fast Roleplay evreninde karakterlerin sosyal yaşamını geliştirmesi, etkileşim kurması ve IC hikâyelerini desteklemesi amacıyla kullanılan tamamen IC bir sosyal medya platformudur. Platform üzerinde yapılan tüm paylaşımlar karakterinizin dijital izi olarak değerlendirilir ve buna göre sonuç doğurur.
 
-
 - Fastagram’da oluşturulan her hesap aktif bir karaktere ait olmak zorundadır. Sunucuda kabul edilmemiş, silinmiş veya mevcut olmayan karakterler adına açılan hesaplar askıya alınır ya da tamamen kaldırılır. Bir karakter için kullanılan hesabın başka bir karaktere devredilmesi veya kullanıcı adı değiştirilerek tekrar kullanılması yasaktır. Her karakterin kendine ait ayrı bir dijital kimliği bulunmalıdır.
 
 - Platform üzerindeki tüm içerikler IC kabul edilir. Yapılan paylaşımlar, atılan story’ler, yorumlar ve etkileşimler oyun içerisindeki olaylara doğrudan etki edebilir. Bunun yanında OOC sebeplerle karakter hedeflemek, oyuncular arasında kişisel meseleleri IC’ye taşımak veya sosyal medya üzerinden organize biçimde baskı oluşturmak ağır ihlal olarak değerlendirilir. Fastagram hiçbir şekilde OOC hesaplaşma alanı değildir.
@@ -46,8 +45,6 @@
 - Gizlilik ihlali, taciz, doxxing gibi acil durumlarda yetkililerle doğrudan iletişime geçilmelidir. 
 - Tüm talepler IC/OOC ayrımına uygun, net ve saygılı bir dil ile iletilmelidir.
 
-
-
 # Ek Platform Kuralları
 
 - Fastagram tamamen IC bir platformdur. Platform üzerindeki tüm paylaşımlar roleplay kapsamında değerlendirilir.
@@ -72,6 +69,6 @@
 - CK olmuş karakterler adına paylaşım yapılamaz.
 - Anma veya hatıra hesapları için özel izin alınmalıdır.
 - Mevcut IC markalar (oyunun kendi markaları) kişisel marka gibi tanıtılamaz. Oyunun kendi markalarını kullanmak için RPQM’den izin almalısınız.
-- Adres, özel fotoğraf, kişisel veri paylaşımı ve hesap hackleme yasaktır.
+- Adres, özel fotoğraf, kişisel veri paylaşımı ve hesap hackleme yasaktır. Moderasyon ekibi ile iletişime geçmelisiniz.
 - Sorunlu içerikler raporlanmalıdır.
 - İtirazlar yalnızca resmî kanallar üzerinden yapılabilir.
