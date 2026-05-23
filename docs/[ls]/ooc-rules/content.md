@@ -1,4 +1,4 @@
-# FORUM KURALLARI
+# FAST ROLEPLAY | FORUM KURALLARI
 
 > Fast Roleplay forumları, topluluğun düzenli şekilde iletişim kurabilmesi, bilgi paylaşabilmesi ve oyun dışı işlemlerini sürdürebilmesi amacıyla kullanılmaktadır. Forum üzerinde gerçekleştirilen tüm işlemler topluluk düzeni kapsamında değerlendirilir ve kullanıcıların buna uygun hareket etmesi beklenir.
 
