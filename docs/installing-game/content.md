@@ -16,8 +16,6 @@ Kurulum için lisanslı bir GTA:V'e sahip olmalısınız. Mevcut bir GTA:V hesab
 Lisanslı GTA:V'yi [Epic Games](https://store.epicgames.com/tr/p/grand-theft-auto-v), [Steam](https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/) veya [Rockstar Games](https://store.rockstargames.com/game/buy-gta-v?utm_source=chatgpt.com) üzerinden satın alabilirsiniz.  
 Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 
-**UYARI: Rage:MP şu anda Enhanced sürümünü desteklemediği için indirmeniz gereken sürüm Grand Theft Auto V Legacy Edition'dır.**
-
 ---
 
 ## 🛠️ Rockstar Games Kurulumu
