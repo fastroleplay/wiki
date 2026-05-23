@@ -10,7 +10,6 @@ Fast Roleplay bünyesinde karakter oluşturan her oyuncu, karakter başvurusunda
 
 Tüm ihlallerin tek tek örneklendirilmesi mümkün değildir. Oyunculardan beklenen; kuralların yalnızca yazılı kısmını değil, amacını da anlayarak hareket etmeleri ve olası boşluklardan faydalanmaya çalışmamalarıdır. Yönetim ekibi, kuralları açıkça ihlal eden veya kuralların amacını dolanmayı hedefleyen davranışlarla karşılaştığında gerekli müdahaleyi gerçekleştirme yetkisine sahiptir.
 
-
 # 1) OOC Davranışlar, Rol ve Oyun Bütünlüğü
 
 > Oyun dışı iletişim (OOC), topluluğun sağlıklı ve sürdürülebilir kalabilmesi için en az oyun içi rol kadar önemlidir. Bu nedenle tüm oyuncuların Fast Roleplay topluluğunun bir üyesi olduklarını unutmadan, her durumda sakin, saygılı ve yapıcı bir iletişim dili kullanmaları beklenir.
