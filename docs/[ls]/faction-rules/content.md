@@ -88,9 +88,8 @@ Tüm ihlallerin tek tek örneklendirilmesi mümkün değildir. Oyunculardan bekl
 
 Bu kuralın amacı; tüm oyuncuların eşit şartlarda, sürprizlerin ve keşfin korunabildiği, gerçekçi bir rol deneyimi yaşamasını sağlamaktır.
 
-```diff
-IC ve OOC ayrımını korumak, hem bireysel rol kalitesini hem de topluluğun genel rol standardını doğrudan etkiler. Bu ayrımı ihlal eden davranışlar ciddi kural ihlali olarak değerlendirilir.
-```
+> IC ve OOC ayrımını korumak, hem bireysel rol kalitesini hem de topluluğun genel rol standardını doğrudan etkiler. Bu ayrımı ihlal eden davranışlar ciddi kural ihlali olarak değerlendirilir.
+
 
 
 # 4) Kaos Ortamı, Düşük Seviyeli Rol Bilgisi, Deathmatching
@@ -111,9 +110,8 @@ IC ve OOC ayrımını korumak, hem bireysel rol kalitesini hem de topluluğun ge
 
 - Ani, sebepsiz veya yalnızca “öldürmek için öldürme” mantığıyla yapılan eylemler kabul edilmez. Bu tür davranışlar hem rol kalitesini düşürür hem de diğer oyuncuların deneyimini doğrudan olumsuz etkiler.
 
-```diff 
-Başka bir oyuncuya geçerli bir rol sebebi olmaksızın saldırmak, onu etkisiz hale getirmek veya öldürmek kesin olarak yasaktır. Her ölüm veya saldırı eylemi, rol içerisinde mantıklı bir gerekçeye, geçmiş bir çatışmaya ya da gelişen bir olay zincirine dayanmak zorundadır. 
-```
+> Başka bir oyuncuya geçerli bir rol sebebi olmaksızın saldırmak, onu etkisiz hale getirmek veya öldürmek kesin olarak yasaktır. Her ölüm veya saldırı eylemi, rol içerisinde mantıklı bir gerekçeye, geçmiş bir çatışmaya ya da gelişen bir olay zincirine dayanmak zorundadır. 
+
 
 # 4.1) Çatışma Devamlılığı ve Saldırı Süreçleri
 
