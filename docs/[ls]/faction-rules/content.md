@@ -87,11 +87,11 @@ Tüm ihlallerin tek tek örneklendirilmesi mümkün değildir. Oyunculardan bekl
 - Rolün gidişatı yalnızca rol içindeki eylemlerle belirlenmelidir.
 
 Bu kuralın amacı; tüm oyuncuların eşit şartlarda, sürprizlerin ve keşfin korunabildiği, gerçekçi bir rol deneyimi yaşamasını sağlamaktır.
-<br><br>
-<div style="background:#2a0b0b; border-left:5px solid #ff4d4d; padding:16px; border-radius:8px;">
+
+```diff
 IC ve OOC ayrımını korumak, hem bireysel rol kalitesini hem de topluluğun genel rol standardını doğrudan etkiler. Bu ayrımı ihlal eden davranışlar ciddi kural ihlali olarak değerlendirilir.
-</div>
-<br><br>
+```
+
 
 # 4) Kaos Ortamı, Düşük Seviyeli Rol Bilgisi, Deathmatching
 
