@@ -35,7 +35,7 @@
 
 # Fastagram Destek ve Moderasyon Süreçleri
 
-<div style="background:#2a0b0b; border-left:5px solid #ff4d4d; padding:16px; border-radius:8px; margin:20px 0;">
+<div style="background:#0b2a16; border-left:5px solid #37ff7b; padding:16px; border-radius:8px; margin:20px 0;">
 Fastagram ile ilgili yaşadığınız tüm sorunlar, kural ihlalleri veya şüpheli paylaşımlar için öncelikli olarak Fastagram yetkili ekibi ile iletişime geçmeniz gerekmektedir.
 </div>
 
@@ -45,8 +45,9 @@ Fastagram ile ilgili yaşadığınız tüm sorunlar, kural ihlalleri veya şüph
 - Raporlarda açıklama alanı zorunludur.
 - Açıklama içermeyen veya yetersiz bulunan raporlar dikkate alınmayabilir.
 - Acil olmayan durumlarda moderatörlere özel mesaj veya Discord yerine forum kullanılmalıdır.
-- Gizlilik ihlali, taciz, doxxing gibi acil durumlarda yetkililerle doğrudan iletişime geçilmelidir.
+- Gizlilik ihlali, taciz, doxxing gibi acil durumlarda yetkililerle doğrudan iletişime geçilmelidir. 
 - Tüm talepler IC/OOC ayrımına uygun, net ve saygılı bir dil ile iletilmelidir.
+
 
 
 # Ek Platform Kuralları
