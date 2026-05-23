@@ -1,48 +1,29 @@
-## ⛅ Yeni Bir Hikaye
+# 🏙️ LOS SANTOS BÖLGE HİKAYELERİ
 
-- Rehberleri okudum, karakterimi oluşturdum, biraz meslek yaptım ve paramı kazandım: **E şimdi ben ne yapacağım?**
+>**İstihbarat Notu:** Bu doküman, Los Santos sokaklarında hayatta kalmak, doğru ittifaklar kurmak ve kimin damarına basmamanız gerektiğini anlamanız için hazırlanmış resmi olmayan bir yeraltı rehberidir. Şehre yeni ayak bastıysanız, adımlarınızı buradaki yazılmayan kurallara göre atın.
 
-### 🏬 Kamu Görevleri
+---
 
-Saygın ve prestijli karakter gelişimi imkanı sunan kamu oluşumlarına katılabilir, Fast V evreninde İstanbul şehrine hizmet edebilirsin!
+### 💎 Hawick: Lüksün Arkasındaki Kirli Camlar
+Hawick, dışarıdan bakıldığında lüks giyim mağazaları, premium kuaförleri ve caddelerinde turlayan son model spor arabalarıyla Los Santos’un en ışıltılı vitrinidir. Ancak bu parlak vitrinin arkası, sosyetenin kirli sırlarını saklayan bambaşka bir dünyaya açılır. Son yıllarda şehrin üst düzey iş insanları, yozlaşmış politikacıları ve lüks meraklısı uyuşturucu bağımlıları, Hawick’in elit mekanlarını birer kara para aklama merkezi olarak kullanmaya başlamıştır. Burada sokak çetelerinden ziyade takım elbiseli beyaz yaka suç örgütleri, gizli kapılar ardında dönen finansal dolandırıcılıklar ve elit kesime hitap eden pahalı uyuşturucu ticareti hakimdir. Siviller için sosyete dedikoduları, magazin muhabirliği, lüks mağaza işletmeciliği ve podyum etkinlikleri gibi zengin bir sosyalleşme alanı sunan bölge, görkemli yaşamların arkasındaki yozlaşmayı görmek isteyen insanlar için biçilmiş kaftandır[cite: 1, 2].
 
-#### 🔗 Kolluk Kuvvetleri
-- 👮🏻👮🏻‍♀️ Bir polis olabilir, devletin sert yumruğunu sokaklardaki kanunsuzlara götürebilirsin. [Polis Akademisine başvuru gönder](https://hub.fast-rp.com/ist/forum/category/polis-meslek-egitim-merkezi), komisyonun senin önüne koyduğu zorlu sözlü ve fiziksel mülakatları geçerek kendini kanıtla, derslerinden başarıyla geç ve bir İstanbul Emniyet Müdürlüğünde polis memuru olarak göreve başla!![alt text](<https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/polis%20doblo.png>)
+---
 
-- 🪖 Kamu düzenini korumak veya bozulan kamu düzenini tekrar düzeltmekle görevlendirilmek ilgini mi çekiyor? Jandarma Genel Komutanlığına katılıp kırsal bölgelerin güvenliğinden sorumlu olabilirsin. Asayiş, operasyon ve dağ operasyonları gibi görevlerde yer alıp ülkene hizmet etmek istiyorsan tam yerindesin!![alt text](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/jandarmatrafik.jpg)
-**Ek not:** Jandarma Genel Komutanlığı beta süreci kapsamında henüz aktif değil. İlerleyen süreçlerde aktif edilecek.
+### 🌊 Vespucci: Güneş, Kum ve Gizli Hesaplaşmalar
+Vespucci Canals ve sahil şeridi, eskiden sadece turistlerin, patencilerin ve sörfçülerin uğrak noktasıyken, şimdilerde Los Santos'un en tehlikeli gri bölgelerinden birine dönüşmüştür. Kanalların labirent gibi uzanan karmaşık yapısı ve dar sokakları, kolluk kuvvetlerinin devriye atmasını zorlaştırdığı için illegal faaliyetlere mükemmel bir kaçış zemini hazırlar. Gündüzleri sahil kafelerinde kahve içip güneşin tadını çıkaran insanlar varken, geceleri kanalların kuytu köşektedir deniz yoluyla şehre sokulan kaçak silah ve mühimmatların gizli dağıtımı yapılmaktadır. Bölge, sahil şeridini mesken tutmuş hırçın sörfçü çetelerine, denizyolu kaçakçılarına ve kanalları sığınak olarak kullanan suç şebekelerine ev sahipliği yapar. Aynı zamanda beach club işletmeciliği, dövmecilik, cankurtaranlık ve sokak sanatçılığı gibi kültürlere en çok denk gelinen dinamik bölgedir.
 
-#### ⚕️ Sağlık Çalışanları
-- 🚑 İstanbul Eğitim ve Araştırma Hastanesine katılarak ambulans şoförü olabilirsin. Zor ama ödüllendirici bir kariyerde aşama katederek insan hayatını kurtaran, her yere zamanında yetişmeyi bilen bir kahraman olabilirsin.
-- 🩺 İlk müdahalelerde uzmanlaşmış ve sağlık sektörünün bel kemiklerini oluşturan hemşire veya paramedik olabilir, insanları hayatta tutmak için elinden gelenin fazlasını yaparak para kazanabilirsin!![alt text](<https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/mdistasyon.png>)
+---
 
-- 👨🏻‍⚕️ Bir doktor olabilir, hastalanan insanları muayene edip teşhis koyduktan sonra onlara tedavi skalası yazabilirsin. Kim bilir, belki ileride şehirde herkesin tanıdığı bir doktor olursun ve konferanslarda söyleşi verirsin. Burada doktorluk sadece iğne vurmaktan ibaret değildir. Psikiyatrist mi? Kardiyolog mu? Travma cerrahı mı? Ne alanda uzmanlaşacağın tamamen sana bağlı!
+### 🎡 Del Perro: Kayıp Hayaller ve Büyük Kumar
+Del Perro, ünlü iskelesi, devasa plajı ve neon ışıklı eğlence merkezleriyle şehrin hiç uyumayan kalbidir. Ancak son dönemde bölgeye dikilen devasa finans gökdelenleri ve lüks rezidanslar, burayı tam bir "büyük balık, küçük balığı yer" arenasına çevirmiştir. İskelenin altındaki evsizlerin ve çaresizlerin dramı ile birkaç yüz metre ötedeki ultra lüks yaşamın ihtişamı arasındaki uçurum, bölgedeki suç oranını ve acımasızlığı körüklemektedir. Kumarbazlar, profesyonel dolandırıcılar, tefeciler ve zenginleri gözüne kestiren hırsızlık şebekeleri, Del Perro’nun kalabalığından faydalanarak avlanır. Finans danışmanlığı, emlakçılık, lunapark ve restoran işletmeciliği ya da avukatlık büroları gibi yüksek profilli temiz işler için harika bir merkez olan bu bölge, paranın getirdiği güç ve yasadışı kumar organizasyonlarının getirdiği tehlike arasında ince bir çizgide yürür.
 
-#### ⚖️ Adalet Bakanlığı
-- Adaletin şaşmaz terazisini tutan kişi mi olmak istiyorsun? Baroya kayıt ol, yeteri kadar kalifiye olduğunu kanıtla ve avukatlığa adım at! Meslek içerisinde deneyimlendikçe bir savcı, hatta bir hakim bile olabilirsin!
-**Ek not:** Adalet Bakanlığı beta süreci kapsamında henüz aktif değil. İlerleyen süreçlerde aktif edilecek.
+---
 
-### 💼 Ticaret Dünyası
+### ⛓️ Davis: Sokağın Kurallarını Yazan Topraklar
+Davis, Los Santos’un en sert, en acımasız ama kendi içinde en sadık ve adil bölgesidir. Polis sirenlerinin hiç susmadığı, duvarların renkli grafitilerle konuştuğu bu getto, yıllardır süregelen köklü çete savaşlarının ve sokak kültürünün merkez üssüdür. Buradaki insanlar için adalet mahkeme salonlarında değil, sokak köşelerinde ve namluların ucunda aranır; Davis sakinleri dış dünyaya ve yabancılara karşı aşırı mesafeli ve şüphecidir. Bölgede hayatta kalmak isteyen bir kişinin ya sokak çetelerinden birinin rengine sadık olması ya da gözlerini yere dikip sadece kendi işine bakması gerekir. Köşe başı uyuşturucu satıcılığı, gasp, lowrider kültürüyle harmanlanmış illegal sokak yarışları ve çete çatışmaları bölgenin günlük rutiniyken; yerel tamirhaneler, mahalle berberleri, sosyal yardımlaşma rolleri ve burada düzeni sağlamaya çalışan agresif deputylerle Davis, şehirde en gergin anlara ev sahipliği yapar.
 
-- Fast V evreninde önceden yazılmış ve kurgulanmış bir ekonomi değil oyuncuların yarattığı bir ekosistem vardır. Sen de bu ekosisteme katılıp ekonomiye katkı sağlayanlardan olmak istiyorsan bunun için birkaç yol var:
+### 💵 Richman: Dokunulmazların Sığınağı ve İpekten Maskeler
+Richman, Los Santos’un tepelerine kurulmuş, devasa malikaneleri, kusursuz kesilmiş çimleri ve yüksek güvenlik duvarlarıyla adeta şehirden bağımsız bir prensliktir. Burada yaşayan eski paranın sahipleri, teknoloji milyarderleri ve şehir yönetimini parmağında oynatan aileler, aşağı mahallelerdeki kaosun sesini asla duymazlar; çünkü onların dünyası kapalı kapılar ardındaki vakıf geceleri, gizli lobicilik faaliyetleri ve milyar dolarlık ihalelerle döner. Buranın sokaklarında yürürken göreceğiniz tek hareketlilik, lüks spor araçlar ve özel güvenlik ordularıdır; zira Richman sakinleri kendi adaletsizliklerini örtbas etmek için şehrin en iyi hukuk bürolarını ve yüksek rütbeli polis şeflerini resmen maaşa bağlamıştır. Ancak bu sessizlik sizi aldatmasın; malikanelerde dönen yüksek profilli uluslararası kaçakçılık anlaşmaları, şantaj ağları ve siyasi suikast planları, aşağı mahallelerdeki bir çete savaşından çok daha fazla can almaktadır.
 
-**1) ☕ İşletme Açmak:** İstanbul şehrinde yeteri kadar sermayen varsa kafe, bar, tamirhane, gece kulübü, kıyafet mağazası, süpermarket gibi işletmeler açıp oradan kazanç sağlayabilirsin.
-
-- Belediyen izin al, ruhsatını çıkart, işçi al ve maaşlarını öde. 
-- Dilersen bu işletmeyi başka oyunculara devredebilir veya kiralayabilirsin, sen ne istersen o!
-
-**2) 🏡 Emlakçılık:** Emlak piyasası, Fast V evreninin en büyük sermayesini oluşturan kavramlar arasındadır. Yeteri kadar bütçen varsa arazi veya gayrimenküller satın alabilir, bunları diğer oyunculara istediğin fiyattan kiralayabilir veya satabilirsin. Tabii bu şehirde emlak baronu olmak için sağlam bir çevren ve dolu bir cebin olması lazım.
-
-**3) 💒 Organizasyonculuk:** Kalabalık bir ekibin mi var? Bir organizasyon şirketi kurarak diğer oyuncuların etkinliklerinde hizmet verip paza kazanabilir, ya da kendi etkinliklerini düzenleyerek daha az maliyet ile kazanç sağlayabilirsiniz, burada her şey senin yeteneklerine ve pazarlama zekana bağlı.
-
-### 🗡️ Yasa Dışı Yaşam
-- Toplumun dayattığı normlar, şehrin yöneticilerinin kendi yakınlarını kayırıp ezilenleri çöp gibi kenara atmaları... Bunlardan sıkıldıysan karanlık tarafa ilk adımını fark etmeden atmış oluyorsun. 
-
-**1) 🚲 Sokak Çeteleri:** Haraç, gasp, silahlı çatışmalar, fidye, adam kaçırma gibi tüm faaliyetleri yürüten ve korkulan bir çete üyesi olmak istersen bu konuda da özgürsün! Gerekirse kendi bölgeni ilan et ve o bölgeyi canın pahasına koru. Fakat her ne yaparsan yap, bunu göz önünde yapmamalı ve işlerini gizli tutmalısın. Polis veya Jandarma seni bir yakalarsa vay haline...
-
-**2) ♠️ Mafyalar:** Tamamen yasal kılıflarla perdelenmiş bir suç örgütü yönetmek ister misin? Kendi aileni kur, şehirdeki bölgelere hükmet ve çeteleri hakimiyetin altına al. Çeşitli yeraltı organizasyonları, mafya hesaplaşmaları, şantaj ve sabotaj gibi her türlü faaliyet senin uzmanlık alanın! İster bir aileye katıl ve ailede kendini kanıtla, ister kendi aileni kur ve şehrin yeraltı dünyasında söz sahibi ol!
-
-####  ‼️Son Tavsiyeler
-- Her ne yapıyorsan yap, bol bol role gir, karakterini tanıt ve şehirde aktif tanınan isimlerden ol.
-- Fast Hub, oyunun omurgasını oluşturur. Forum üzerinde karakterini tanıt ve oyuncularla tartışmalara katıl, fikir alışverişi yap. Sorun yaşadığında yine forum üzerinde olan teknik destek kategorisinden diğer oyuncularla etkileşim kurarak yardım al.
-- Sakın acele etme, yavaş yavaş Fast V evrenine yayıl ve karakterini büyüt.
+### 🎭 Vinewood Bulvarı: Şöhret Kaldırımları ve Neon Işıklı Kabuslar
+Yıldızların isimlerinin kazındığı o ünlü kaldırımlar, tiyatrolar ve gece kulüpleriyle Vinewood Bulvarı, Los Santos rüyasının doğduğu ama aynı zamanda genç beyinlerin çürüdüğü yerdir. Gündüzleri turist kafilelerinin, sokak taklitçilerinin ve hevesli aktörlerin doldurduğu bu parıltılı cadde, güneş battığı andan itibaren yerini uyuşturucu satıcılarına, şantajcı paparazzilere ve gece kulüplerinin kapısını tutan eski polis memurlarına bırakır. Bulvarın arkasında kalan loş stüdyolar ve VIP localar, şöhret basamaklarını tırmanmak için ruhunu satmaya hazır insanlarla doludur ve bu durum yeraltı dünyası için bitmek bilmez bir insan ticareti, şantaj ve elit fuhuş pazarı yaratır. Eğer burada ayakta kalmak istiyorsanız ya o neon ışıkların altında spot ışıklarını üzerinize çeken popüler bir figür olmalı ya da o ışıkların kör ettiği insanları gölgelerden izleyen bir avcı olmayı öğrenmelisiniz.
