@@ -1,4 +1,4 @@
-# Fast Roleplay Mülk & İşletme Yönetimi Kuralları
+# FAST ROLEPLAY | Mülk & İşletme Yönetimi Kuralları
 
 > Fast Roleplay içerisinde bulunan tüm evler, işletmeler, depolar, ofisler ve ticari alanlar; oyuncuların karakter gelişimini desteklemek, gerçekçi senaryolar oluşturmak ve sunucu ekonomisini dengeli tutmak amacıyla yönetilmektedir.
 
