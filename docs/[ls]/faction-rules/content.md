@@ -1,4 +1,4 @@
-# FAST ROLEPLAY | KURALLAR
+# FAST ROLEPLAY | GENEL OYUN KURALLARI
 
 # 0) Kural Bütünlüğü, Yönetici İnisiyatifi, Fast Roleplay
 
