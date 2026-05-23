@@ -209,10 +209,23 @@ Bu kural;
 - Libya,
 - Birleşik Arap Emirlikleri,
 - Suriye,
-- Filistin
+- Filistin,
+- Afganistan,
+- Tacikistan,
+- Çin (Doğu Türkistan / Sincan Uygur Özerk Bölgesi),
+- Kosova,
+- Arnavutluk,
+- Kuzey Makedonya,
+- Bulgaristan ve Yunanistan (Sadece Batı Trakya ve Rodoplar bölgeleri)
+- Mısır (Kahire kökenli bir karakter yaratabilirsiniz fakat bu karakterde Türk kültürüne ait özellikler taşıyamazsınız.)
+- Irak,
+- Ürdün,
+- Tunus,
+- Pakistan,
+- Gürcistan (Sadece Ahıska ve Acara Özerk Cumhuriyeti)
 
-gibi Türk ve İslam kültür havzasına dahil bölgeleri de kapsamaktadır.
 
+gibi Türk ve İslam kültür havzasına dahil tüm bölgeleri kapsamaktadır. Dünya üzerinde Türk ve İslam kültürünü benimsemiş ve bu kültürlere bağlı yaşayan her bir bölgeyi isimlendirmek imkansızdır. Dolayısıyla listede olmasa bile bu kültürel kimliği benimsemiş karakterler yaratamazsınız.
 
 - Aynı şekilde, karakterlerin Türkçe kökenli olup İngilizce karşılığı bulunmayan kelimeleri, argoları veya yerel deyimleri kullanması da yasaktır.
 
