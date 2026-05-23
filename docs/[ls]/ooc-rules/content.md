@@ -1,157 +1,99 @@
-# OOC Rules
+# FAST ROLEPLAY | FORUM KURALLARI
+
+> Fast Roleplay forumları, topluluğun düzenli şekilde iletişim kurabilmesi, bilgi paylaşabilmesi ve oyun dışı işlemlerini sürdürebilmesi amacıyla kullanılmaktadır. Forum üzerinde gerçekleştirilen tüm işlemler topluluk düzeni kapsamında değerlendirilir ve kullanıcıların buna uygun hareket etmesi beklenir.
+
+---
+
+# Topluluk Hassasiyetleri ve Saygı Kuralları
+
+> Fast Roleplay topluluğu içerisinde Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk başta olmak üzere ülkenin milli ve manevi değerlerine yönelik aşağılayıcı, provoke edici veya küçük düşürücü içeriklere kesinlikle izin verilmez.
+
+- Fast Roleplay topluluğu içerisinde Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk başta olmak üzere ülkenin milli ve manevi değerlerine yönelik aşağılayıcı, provoke edici veya küçük düşürücü içeriklere kesinlikle izin verilmez. Forum üzerinde Atatürk’e hakaret edilmesi, dalga geçilmesi, bilinçli şekilde provoke amaçlı içerik paylaşılması veya toplum hassasiyetlerini hedef alan söylemler ağır ihlal kapsamında değerlendirilir.
+
+- Türk bayrağı, milli marş, devlet kurumları veya toplum açısından hassas kabul edilen değerlerin aşağılayıcı şekilde kullanılması yasaktır. Mizah amacı taşıdığı iddia edilse bile nefret söylemi, siyasi provokasyon veya topluluğu kışkırtmaya yönelik paylaşımlar kaldırılır ve gerekli yaptırımlar uygulanır.
+
+- Dini değerlere yönelik hakaret, kutsal kabul edilen kavramlarla alay edilmesi veya oyuncuların inançlarını hedef alan söylemler de aynı şekilde topluluk düzenini bozucu davranış olarak değerlendirilir. Kullanıcıların siyasi, dini veya kültürel görüşleri üzerinden aşağılanması kabul edilmez.
+
+- Topluluğun huzurunu bozabilecek etnik ayrımcılık, ırkçılık veya nefret söylemleri; ister ciddi ister mizah amacıyla yapılmış olsun, forum içerisinde yer alamaz. Özellikle Türkçe topluluk yapısını hedef alan provoke edici söylemler doğrudan yaptırım sebebidir.
+
+- Fast Roleplay yönetimi, topluluğun genel hassasiyetlerini koruma amacıyla gerekli gördüğü durumlarda herhangi bir içerik hakkında doğrudan işlem uygulama hakkını saklı tutar.
+
+# Hesap Kullanımı
+
+> Forum hesapları tamamen kişiseldir. Bir hesabın başka bir kişiye verilmesi, ortak kullanılması, satılması veya ödünç paylaşılması yasaktır.
+
+- Forum hesapları tamamen kişiseldir. Bir hesabın başka bir kişiye verilmesi, ortak kullanılması, satılması veya ödünç paylaşılması yasaktır. Yasaklı bir kullanıcının başka bir kişinin hesabı üzerinden foruma erişmeye çalışması hem kullanılan hesabın hem de ilgili kullanıcıların kalıcı şekilde uzaklaştırılmasıyla sonuçlanabilir. Aynı amaçla açılan alternatif hesaplar da bu kapsamda değerlendirilir.
+
+- Yasaklanan kullanıcıların yalnızca itiraz sürecini yürütmek amacıyla yeni hesap oluşturmasına izin verilebilir. Bunun dışındaki çoklu hesap kullanımları ihlal sayılır.
 
 
-> ## Önemli not
-> Şu an görüntülediğiniz sunucu politikaları henüz tamamlanmamıştır. Bu, başlangıç niteliğinde bir taslaktır ve ilerleyen süreçte birçok ekleme ve düzenleme yapılacaktır.
->Lütfen güncellenmemiş veya eksik maddelerle ilgili herhangi bir işlem yapılmadan önce nihai sürümün duyurulmasını bekleyin. Güncellemeler için bizi takip etmeye devam edin!
+# Forum Dili ve Genel İletişim
 
+> Forumun temel dili Türkçedir.
 
-### Hesap Paylaşımı
-#### Açıklama: 
-* Üyeler; açmış oldukları ana hesabı başka bir üyeye devredemez, satamaz ve hesap bilgilerini (parola vb.) paylaşamaz. Üye hiçbir gerekçeyle farklı bir üyenin ana hesabına veya ana hesabına bağlı hizmetlere giriş yapamaz.
-#### İhlalinde:
-- Tespit edilen ilgili ana hesaplar yasaklanır.
+- Forumun temel dili Türkçedir. Açılan konuların, verilen yanıtların ve yapılan açıklamaların anlaşılır Türkçe ile yazılması gerekir. İçeriğin yapısı gereği kullanılan yabancı kelimeler veya teknik terimler bu durumun dışında tutulabilir. Türkçe dışında herhangi bir dil kullanılmasına izin verilmez.
 
-### Hesap Güvenliği
-#### Açıklama:
-* Hesap güvenliği tamamen hesap sahibinin sorumluluğundadur. Yönetim ekibi parolaları şifreli bir şekilde saklı tutar, hiçbir yetkili sizden parola talep etmez.
-#### Çalındığında:
-* Üyelerin hesap güvenliği kendisinde olmasına rağmen hesap güvenliğinin tehlikeye girmesi durumunda çalan ilgili kişinin tüm hesapları sunucudan yasaklanır ve hesap sahibine iade edilir, çalındığı süre boyunca hesap içerisinde yapılan işlemlerden yönetim sorumlu değildir, iade yapılmaz.
+- Küfür, aşağılama, hedef gösterme, provoke etme veya kullanıcıları rahatsız etmeye yönelik davranışlara izin verilmez. Bu durum yalnızca yazılı mesajları değil; görselleri, videoları, imzaları ve profil içeriklerini de kapsar.
 
-### Yetkili İnisiyatifi
-#### Açıklama:
-* Tüm oyun kuralları için cezanın şekli, süresi üst yönetim tarafından farklı uygulanabilir. Verilen bir karar geri alınabilir, değiştirilebilir veya yükseltilebilir.
+# Yasaklı İçerikler
 
+> Forum üzerinde başka toplulukların reklamını yapmak, siyasi propaganda paylaşmak, korsan içerik dağıtmak, zararlı bağlantılar paylaşmak veya rahatsız edici materyaller yayınlamak yasaktır.
 
-### Yönetime / Yetkiliye Karşı Tutum
+- Forum üzerinde başka toplulukların reklamını yapmak, siyasi propaganda paylaşmak, korsan içerik dağıtmak, zararlı bağlantılar paylaşmak veya rahatsız edici materyaller yayınlamak yasaktır. Erotik içerikler, çıplaklık barındıran paylaşımlar, aşırılıkçı söylemler ve nefret içerikleri doğrudan kaldırılır.
 
-#### Açıklama:
-* Belirli bir olay veya işlem sonrasında yetkiliye veya yönetime karşı olumsuz tutum sergilenmesi durumudur.
+- Gerçek para karşılığında oyun içi eşya, karakter, para veya hesap ticareti yapılmasına izin verilmez. Oyun ekonomisini etkileyebilecek tüm satış ve takas girişimleri yaptırım sebebidir.
 
-#### İhlalinde:
-* Yetkili inisiyatifine bağlı olarak oyuncu süreli olarak sunucudan yasaklanır.
+- Discord adresleri, telefon numaraları, ev adresleri veya kullanıcıların özel bilgileri forum üzerinde paylaşılamaz. Özel konuşmaların izinsiz yayınlanması da aynı şekilde ihlal kapsamındadır. Kanıt amacıyla kullanılan içerikler moderasyon değerlendirmesine tabidir.
 
-### Şikayet Zaman Aşımı
-#### Açıklama:
-* Sunucu içerisinde yapılan şikayet ve talepler 72 saat içerisinde yanıtsız kalırsa zaman aşımına uğrar ve geçersiz kabul edilir. Yönetim inisiyatifinde ihlale bağlı olarak kabul edilebilir (3. parti yazılım vb.).
+# Spam ve Konu Düzeni
 
-### OOC Irkçılık, Nefret Söylemleri
-#### Açıklama:
-* Oyun içerisinde çok çeşitli roller canlandırılmaktadır. Bu çeşitlilik doğrultusunda farklı dinî, ırksal, siyasi ve benzeri IC oluşumlar açılmaktadır. OOC olarak karşıt görüşte olduğunuz bir gruba karşı OOC olarak sorgulamada ve söylemlerde bulunamazsınız.
-#### İhlalinde:
-* Yetkili inisiyatifine göre cezalandırılır.
+> Forum içerisinde spam yapılmasına izin verilmez.
 
-### OOC Kin
-#### Açıklama:
-* Rol sonucunda karşınızdaki oyuncuya/oyunculara OOC kin beslemek ve onun/onların oyun zevkini bozmak yasaktır.
-#### İhlalinde:
-* İlgili oyuncu sunucudan yasaklanır.
+- Forum içerisinde spam yapılmasına izin verilmez. Konuya katkı sağlamayan kısa mesajlar, yalnızca emoji içeren yanıtlar veya gereksiz tekrarlar spam olarak değerlendirilebilir.
 
-### OOC Küfür & Hakaret
-#### Açıklama: 
-* Sunucuda herhangi bir oyuncuya OOC olarak küfür etmek veya hakarette bulunmak kesinlikle yasaktır.
-#### İhlalinde: 
-- Yetkili inisiyatifine göre süreli veya süresiz olarak yasaklanabilir, oyun içi işlem uygulanabilir.
+- Açılan konular ilgili bölümler içerisinde kalmalıdır. Konu dışı sohbetler yalnızca bunun için ayrılmış alanlarda yapılabilir. Bir tartışmayı farklı yöne çekmek veya konuyu gereksiz şekilde dağıtmak moderasyon müdahalesine sebep olabilir.
 
-### OOC Reklam ve Provoke
-#### Açıklama:
-* Sunucu içindeki oyuncuları oyun içi veya oyun dışı provoke etmek ya da başka bir yere yönlendirmek kesinlikle yasaktır.
+- Son mesajın üzerinden kısa süre geçmesine rağmen yalnızca konuyu üste taşımak amacıyla tekrar mesaj göndermek yasaktır. Aynı şekilde art arda gereksiz çift mesaj gönderimi de ihlal sayılır. Kullanıcıların mümkün olduğunca mesaj düzenleme özelliğini kullanması beklenir.
 
-#### İhlalinde:
-* İlgili oyuncu süreli veya süresiz olarak yasaklanır.
+# Mesaj Biçimi ve Görsel Düzen
 
-### OOC Üslup
-#### Açıklama:
-* Sunucu içerisinde OOC konuşmalar yalnızca OOC sohbet, birlik sohbeti ve özel mesaj yoluyla yapılabilir. Roleplay dışında herhangi bir olay beraberinde OOC konuşmak zorunda kalınırsa üsluba kesinlikle dikkat edilmelidir. OOC konuşmalarda bilinçli olarak kişisel saldırılarda (rencide edici konuşmalar, küfür, hakaret, aşağılama vb.) bulunmak, tartışmaları kavgaya sürüklemek, ortamı kışkırtıcı üslup ve yazışmalar yasaktır.
-#### İhlalinde: 
-* Süreli olarak yasaklanabilir veya oyun içi cezalandırılabilir.
+> Forum okunabilirliğini bozacak aşırı büyük yazılar, dikkat dağıtıcı biçimlendirmeler, gereksiz CAPS LOCK kullanımı veya abartılı görseller uygun değildir.
 
-### Üzerinde Olan/Olmayan Ekipmanlar
-#### Açıklama:
-* Üzerinizde olmayan herhangi bir eşyaya göre rol gerçekleştiremezsiniz. Üzerinizde olan ekipmana veya eşyaya da yokmuş gibi rol yapamazsınız.
-### İhlalinde:
-* Oyun içi cezalandırılır.
+- Forum okunabilirliğini bozacak aşırı büyük yazılar, dikkat dağıtıcı biçimlendirmeler, gereksiz CAPS LOCK kullanımı veya abartılı görseller uygun değildir. İçeriği karmaşık hâle getiren mesaj düzenleri moderasyon tarafından düzenlenebilir veya kaldırılabilir.
 
-### Karakter İsimleri
-#### Açıklama:
-Oyun içerisinde bazı karakter isimlerinin seçilmesi yasaklanmıştır. Yasaklı bir ismin seçilip yetkili tarafından gözden kaçırılması durumunda bu isim tespit edilince karakter yasaklanır. Karakter yaratma esnasında bu sorumluluğun kullanıcıya ait olduğu belirtilmiştir.
-#### Örnek:
-* Ünlü isimleri seçilemez. (Sanatçılar, film ve oyun karakterleri vb. Örn: Michael Jackson, Jon Snow, Lara Croft)
-* Gerçek dışı isimler.
-* Dalga geçmek amaçlı isimler. (Okunuşu veya yazılışı itibarıyla komik gelebilecek isimler. Örn: Jhon_Bhon, Yar_Rock.)
-* Türk ve Arap kökenli isimler seçilemez. (Ahmet, Osman, Muhammed gibi)
-* Eskiden size ait olan/olmayan isimlerin birkaç harfi değiştirilerek benzer isim seçilemez. (Örn: John_Doe > John_Dae)
-#### İhlalinde:
-* Yetkili inisiyatifine göre karakter yasaklanması uygulanabilir.
+- Spoiler sistemi kuralları gizlemek veya ihlal içeriklerini saklamak amacıyla kullanılamaz. Spoiler içerisinde bulunan içerikler de normal mesajlarla aynı şekilde değerlendirilir.
 
-### Türk, Müslüman Rolleri
-#### Açıklama:
-* Oyun içerisinde Türk veya Müslüman rollerin yapılması yasaktır. Oyuncuların bu karakterleri temsil edecek isimleri seçmeleri yasaktır. Sonrasından İslamiyet'e dönme hikayesiyle Müslüman olma rolü yasaktır. Herhangi bir Admin size bu izni veremez.
-#### İhlalinde:
-* Yönetim inisiyatifinde cezalandırılır.
+# Kullanıcı Davranışları
 
-### Türkçe Terim
-#### Açıklama:
-* Rol içerisinde Türk ve Müslüman rollerin yasaklanması sebebiyle bazı terimlerin kullanımı kesinlikle yasaktır. "lan", "inşallah", "maşallah" ve "hayırlısı/hayırlı olsun" gibi Müslüman rollerine uygun terimler kesinlikle kullanılamaz. Alışkanlıkları gereği kullanan kişiler uyarılır, süreklilik durumlarında yasaklanmaya kadar gidebilir.
+> Kullanıcıların birbirine karşı saygılı davranması gerekir.
 
-### IC Konuşma ve Dil Kullanım Kuralları
-#### Açıklama: 
-* Oyun içerisinde kullanılan dil Türkçe olsa da, İngilizce konuşulduğu esas alınır. Yazımlar esnasında bazı dil kurallarına dikkat etmeniz gerekir.
-#### Örnek:
-* Kısaltmalar kullanılamaz. (Örn: "slm", "mrb", "vb" gibi.)
-* İngilizce çevirisi olmayan kelimeler ve Türkiye yörelerinde oluşmuş terimler yasaktır. (Örn: "panpa" vb.)
-* Türklere özgü sokak ağzı kullanımı yasaktır. Türk rolü kapsamında ceza verilir. (Örn: "ne bakıyon birader?")
-#### İhlalinde: 
-* Oyun içi cezalandırma uygulanır.
+- Kullanıcıların birbirine karşı saygılı davranması gerekir. Ağır tahrik, kişisel saldırı veya sistematik hedef göstermeler uyarıdan kalıcı yasaklamaya kadar ilerleyebilecek yaptırımlarla sonuçlanabilir.
 
-### Sunucuda Var Olmayan Birlik/Kişi Rolü Yapmak
-### Açıklama:
-* Sunucu içerisinde var olmayan birlik/oluşum üyeleri gibi hareket edip rol yapılamaz. Bu tarz roller sadece yöneticiler tarafından belirli role questlerinde yapılabilir.
-#### Örnekler:
-* Query kendini FBI ajanı olarak tanıtamaz.
-* Cleopatra kendini CIA ajanı olarak tanıtamaz.
+- Başka bir kullanıcı adına mesaj yazmak, yasaklı biri adına forumda paylaşım yapmak veya yetkili ekip üyelerini taklit etmek yasaktır. Buna sahte yetkili isimleri, yönetici ifadeleri veya yanıltıcı profil düzenlemeleri de dahildir.
 
-### Olmayan Karakter Özellikleri Belirtmek
-#### Açıklama:
-* Kullandığınız karakterinizin özelliklerini (karakter ismi, cinsiyet, yaş, ten rengi, uyruk vb.) oyuna ilk girişinizde belirleyebilirsiniz. Sunucuda karakterinizle oynarken bu özelliklere göre hareket etmelisiniz. Karakter özelliklerinin daha sonradan değiştirilmesi söz konusu değildir.
-#### İhlalinde:
-* Yetkili insiyatifine göre oyuncu cezalandırılır.
+- Başka kullanıcıların özel olarak hazırladığı avatarları, imzaları veya kimlik niteliği taşıyan görselleri izinsiz kullanmak yasaktır. Taklit amaçlı yapılan hesap düzenlemeleri doğrudan ağır ihlal kapsamında değerlendirilir.
 
-### AFK Kalmak/alt+tab/Boşta Beklemek
-#### Açıklama:
-* Oyun içerisinde rol bölgelerinde 5 dakikadan fazla AFK kalmanız yasaktır.
-* Aktif roldeyken 1 dakikanın üstünde AFK kalmanız yasaktır.
-#### İhlalinde:
-* Oyun içi işlem uygulanır.
+# Rapor Sistemi ve Moderasyon
 
-### Rol Sırasında Oyundan Çıkmak
-#### Açıklama: 
-* Role-play devam ederken oyundan "kasıtlı" olarak çıkmak kesinlikle yasaktır.
-* Bağlantı kopması durumunda yeniden giriş yaptıktan sonra role kaldığınız yerden devam etmelisiniz. Bağlantı kopmasından dolayı rolü reddetmek kesinlikle yasaktır. 
-#### İhlalinde:
-* Yetkili insiyatifine göre oyuncu cezalandırılır.
+> Rapor sistemi yalnızca gerçek ihlaller veya moderasyon işlemleri için kullanılmalıdır.
 
-### Spam/Flood Kuralı
-#### Açıklama:
-* Sohbet ekranını kullanırken arka arkaya sürekli "aynı mesajı" tekrar etmek (Spam) yasaktır. PM (Özel Mesaj) gibi OOC sohbet kanallarında da spam/flood yapılması yasaktır.
-* Rapor ve benzeri alanlarda "aynı gereksiz iletilerle" (spam) alanı meşgul etmek veya yetkilileri rahatsız etmek yasaktır.
+- Rapor sistemi yalnızca gerçek ihlaller veya moderasyon işlemleri için kullanılmalıdır. Gereksiz rapor oluşturmak, sistematik şekilde spam raporlama yapmak veya moderasyon sürecini meşgul etmeye çalışmak yaptırım sebebidir.
 
-### Cinsel Taciz / Tecavüz Kuralı
-#### Açıklama:
-* Sunucuda tecavüz rolleri ancak karşı tarafın izni olması halinde izin verilir. Mağdur karaktere yönelik rızasız cinsel saldırı yapılması yasaktır. Kişileri bu tip bir mağduriyete uğratmadan önce izin istenilmesi zorunludur. İzin verilmemesi halinde rollerin yapılmaması/durdurulması zorunludur.
-* Bu tip roller başlatılmadan önce kişiden izin alınması gerekir. Aksi halde zorlatılmaz.
-* Taciz/Tecavüze uğrayan kişi rolü reddetme veya uymama hakkına sahiptir.
-* İzin alan kişilerin, izin aldığına dair ekran görüntüsünü mutlaka alması gerekir.
-* Güvenli bölgeler, şehir içi yol kenarlarında taciz ve/veya tecavüz rolleri yapılamaz.
-#### İhlalinde:
-* Yetkili inisiyatifine göre cezalandırılabilir, süreli veya süresiz olarak yasaklanabilir.
+- Forum düzenini koruma amacıyla moderasyon ekibi gerekli gördüğü durumlarda konuları taşıyabilir, arşivleyebilir, kapatabilir veya düzenleyebilir. Bazı durumlarda kullanıcı raporu beklenmeden işlem uygulanabilir.
 
-### Money Farming
-#### Açıklama:
-* Kullanıcı, bir karakterindeki herhangi bir/birden fazla eşyayı (para, karakter  görünümü, silah, uyuşturucu, araç, mülk vb.) başka karakterine aktaramaz.
-* Örneğin: Chloe_Ross karakterinizdeki bir silahı, alt karakteriniz olan Alfie_Crew'e aktaramazsınız.
+- Fast Roleplay yönetim ekibine yönelik hakaret, küçümseme veya organize şekilde itibarsızlaştırma girişimleri ciddi ihlal olarak değerlendirilir ve forum ile oyun hesabına yansıyabilecek yaptırımlara sebep olabilir.
 
+# Yasaklamalar ve İtirazlar
 
+> Forum veya oyun yasaklamalarıyla ilgili tartışmalar genel forum alanlarında yürütülemez.
 
+- Forum veya oyun yasaklamalarıyla ilgili tartışmalar genel forum alanlarında yürütülemez. Bunun için yalnızca ilgili itiraz bölümleri kullanılmalıdır. Açılan uygunsuz konular kaldırılabilir veya kilitlenebilir.
 
-**Devam edecek...**
+- Topluluğu rahatsız etmek amacıyla forum sistemlerini kullanan, özel mesajlar üzerinden ciddi ihlaller gerçekleştiren veya sürekli huzursuzluk yaratan kullanıcıların hesapları kalıcı olarak kapatılabilir. Gerekli görülürse bu yaptırımlar oyun hesabına da uygulanabilir.
+
+# Son Bilgilendirme
+
+> Forum üzerinde paylaşılan tüm görüşler ve içerikler onları paylaşan kullanıcıların sorumluluğundadır.
+
+Forum üzerinde paylaşılan tüm görüşler ve içerikler onları paylaşan kullanıcıların sorumluluğundadır. Fast Roleplay yönetimi gerekli gördüğü durumlarda kuralları değiştirme, güncelleme veya yeniden düzenleme hakkını saklı tutar. Kurallarda açık şekilde belirtilmeyen durumlarda son karar yönetim ekibi tarafından verilir.
+
