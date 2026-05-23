@@ -1,7 +1,7 @@
 # ⚡İlk Giriş
-### KARAKTER OLUŞTURMA
-🚀 **Fast'e hoş geldin!**
-1. Fast Hub üzerinden ilk karakter başvurunu doldur ve bize yolla. Biz başvurunu incelerken sen de sunucudaki rol planın için rahat rahat düşünmeye devam edebilirsin! Karakter başvurun onaylandığında sonraki aşamaya geçmeye hazırsın demektir.
+### Hesap Oluşturma
+🚀 Fast'e hoş geldin!
+1. RageMP üzerinden ``ls.fast-rp.com`` ile Fast'e giriş yap ve hesabını oluştur!
 ## Karakterini Oluştur
 1. Kayıt olup hesabına giriş yaptıktan sonra ise karakter oluşturma bölümüne gireceksin, işte uzun süre kullanacağın o yüzü belirleme ekranı karşında!
 
