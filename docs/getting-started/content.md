@@ -1,11 +1,11 @@
-# ⚡ Fast:V Başlangıç Elkitabı
+# ⚡ Fast:V BAŞLANGIÇ EL KİTABI
 ---
-### 📘 Başlangıç Elkitabı nedir?
+### 📘 BAŞLANGIÇ EL KİTABI NEDİR?
 
-Senin için hazırladığımız bu elkitabı, Fast:V dünyasına sorunsuz bir giriş yapmanı sağlar. Oyun kurulumundan karakter oluşturma sürecine, ilk mesleğinden, sosyal hayatına kadar her aşamayı sade ve rehber niteliğinde anlattık.
+Senin için hazırladığımız bu el kitabı, Fast:V dünyasına sorunsuz bir giriş yapmanı sağlar. Oyun kurulumundan karakter oluşturma sürecine, ilk mesleğinden, sosyal hayatına kadar her aşamayı sade ve rehber niteliğinde anlattık.
 
 
-#### 🖥️ Sunucuya nasıl giriş yapabilirim?
+#### 🖥️ SUNUCUYA NASIL GİRİŞ YAPABİLİRİM?
 Oluşturduğumuz bu kategorilerle sunucuya nasıl giriş yapılacağını A'dan Z'ye, adım adım ve görsellerle destekleyerek anlattık. Şimdi hangi sayfada hangi kurulumu yapabileceğini özetleyelim:
 
 - 🎮 [GTA:V, Rockstar Games ve RageMP:](https://hub.fast-rp.com/wiki/installing-game) Oyun dosyalarını nasıl indirip hazırlayacağını öğren.
@@ -20,12 +20,9 @@ Karakterini oluşturarak ilk adımı atalım!
 
 - [🧍‍♂️Karakter Oluştur:](https://hub.fast-rp.com/wiki/first-login) Karakterini nasıl oluşturacağını görüntüle ve sonraki adıma geçelim.
 
-#### 🛠️ Meslekler
-Sunucuya giriş yaptın, karakterini oluşturdun ve artık Fast için hazırsın. Yaşayan her insan gibi, geçimini sağlamak için çalışmalısın. Bugün karnını doyurmak için çalışacaksın, dünyaya adımını yeni attın. İşte para kazanabileceğin meslekler:
-[💼 Meslekler:](https://hub.fast-rp.com/wiki/jobs) Mesleklere göz at ve biraz alın teri dök, bu sayede temel ihtiyaçlarını giderebileceksin. Kim bilir, belki bugün balık tuttuğun yere bir gün spor araç ile gelirsin.
-
-#### ⚡Hikayeni yaz
-"Kısa vadeli işlerden sıkıldın mı? Artık daha saygın ve prestijli bir meslek mi arıyorsun? Belki polis, sağlık çalışanı ya da jandarma olmak istiyorsun… Ya da tam tersi, kirli oynamayı mı tercih edersin? [Buraya bir göz at](https://hub.fast-rp.com/wiki/after-life), aradığını bulacaksın. Listeye çizgi atmayı unutma!
+#### ⚡HİKAYENİ YAZ!
+Kısa vadeli işlerden sıkıldın mı? Artık daha saygın ve prestijli bir meslek mi arıyorsun? Belki polis, sağlık çalışanı, belediye personeli; emlakçı, bir işletme sahibi ya da suç dünyasında yükselmeye çalışan bir profil gibi sayısız alternatiften birisi olmak istiyorsun. Foruma göz at. Aradığını bulacaksın. Listeye çizgi atmayı unutma!
+####
 💖 Kim bilir, belki listede kalan son maddeye de atacak bir çizgi bulursun.
 ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/list.png)
 
