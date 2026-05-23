@@ -110,11 +110,10 @@ IC ve OOC ayrımını korumak, hem bireysel rol kalitesini hem de topluluğun ge
 - Tüm saldırı ve çatışma senaryolarında temel ilke; role dayalı gerekçe, mantıklı gelişim ve karşılıklı etkileşim olmalıdır.
 
 - Ani, sebepsiz veya yalnızca “öldürmek için öldürme” mantığıyla yapılan eylemler kabul edilmez. Bu tür davranışlar hem rol kalitesini düşürür hem de diğer oyuncuların deneyimini doğrudan olumsuz etkiler.
-<br><br>
-<div style="background:#2a0b0b; border-left:5px solid #ff4d4d; padding:16px; border-radius:8px;">
-Başka bir oyuncuya geçerli bir rol sebebi olmaksızın saldırmak, onu etkisiz hale getirmek veya öldürmek kesin olarak yasaktır. Her ölüm veya saldırı eylemi, rol içerisinde mantıklı bir gerekçeye, geçmiş bir çatışmaya ya da gelişen bir olay zincirine dayanmak zorundadır.
-</div>
-<br><br>
+
+```diff 
+Başka bir oyuncuya geçerli bir rol sebebi olmaksızın saldırmak, onu etkisiz hale getirmek veya öldürmek kesin olarak yasaktır. Her ölüm veya saldırı eylemi, rol içerisinde mantıklı bir gerekçeye, geçmiş bir çatışmaya ya da gelişen bir olay zincirine dayanmak zorundadır. 
+```
 
 # 4.1) Çatışma Devamlılığı ve Saldırı Süreçleri
 
@@ -139,11 +138,9 @@ Aşağıdaki davranışlar yasaktır:
 - Hikâye oluşturmak,
 - Karakter gelişimi sağlamak,
 - Rol devamlılığı yaratmaktır.
-<br><br>
-<div style="background:#2a0b0b; border-left:5px solid #ff4d4d; padding:16px; border-radius:8px;">
-Sadece silahlı aksiyon üretmek amacıyla yapılan çatışmalar, rol kalitesini düşüren davranış olarak değerlendirilir ve ağır yaptırımlarla sonuçlanır.
-</div>
-<br><br>
+
+> Sadece silahlı aksiyon üretmek amacıyla yapılan çatışmalar, rol kalitesini düşüren davranış olarak değerlendirilir ve ağır yaptırımlarla sonuçlanır.
+
 
 # 5) Düşmanlık Gerekçeleri, Ofansif Roller ve Kısıtlamaları
 
