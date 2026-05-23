@@ -22,74 +22,74 @@
 
 > Forum hesapları tamamen kişiseldir. Bir hesabın başka bir kişiye verilmesi, ortak kullanılması, satılması veya ödünç paylaşılması yasaktır.
 
-Forum hesapları tamamen kişiseldir. Bir hesabın başka bir kişiye verilmesi, ortak kullanılması, satılması veya ödünç paylaşılması yasaktır. Yasaklı bir kullanıcının başka bir kişinin hesabı üzerinden foruma erişmeye çalışması hem kullanılan hesabın hem de ilgili kullanıcıların kalıcı şekilde uzaklaştırılmasıyla sonuçlanabilir. Aynı amaçla açılan alternatif hesaplar da bu kapsamda değerlendirilir.
+- Forum hesapları tamamen kişiseldir. Bir hesabın başka bir kişiye verilmesi, ortak kullanılması, satılması veya ödünç paylaşılması yasaktır. Yasaklı bir kullanıcının başka bir kişinin hesabı üzerinden foruma erişmeye çalışması hem kullanılan hesabın hem de ilgili kullanıcıların kalıcı şekilde uzaklaştırılmasıyla sonuçlanabilir. Aynı amaçla açılan alternatif hesaplar da bu kapsamda değerlendirilir.
 
-Yasaklanan kullanıcıların yalnızca itiraz sürecini yürütmek amacıyla yeni hesap oluşturmasına izin verilebilir. Bunun dışındaki çoklu hesap kullanımları ihlal sayılır.
+- Yasaklanan kullanıcıların yalnızca itiraz sürecini yürütmek amacıyla yeni hesap oluşturmasına izin verilebilir. Bunun dışındaki çoklu hesap kullanımları ihlal sayılır.
 
 
 # Forum Dili ve Genel İletişim
 
 > Forumun temel dili Türkçedir.
 
-Forumun temel dili Türkçedir. Açılan konuların, verilen yanıtların ve yapılan açıklamaların anlaşılır Türkçe ile yazılması gerekir. İçeriğin yapısı gereği kullanılan yabancı kelimeler veya teknik terimler bu durumun dışında tutulabilir. Türkçe dışında herhangi bir dil kullanılmasına izin verilmez.
+- Forumun temel dili Türkçedir. Açılan konuların, verilen yanıtların ve yapılan açıklamaların anlaşılır Türkçe ile yazılması gerekir. İçeriğin yapısı gereği kullanılan yabancı kelimeler veya teknik terimler bu durumun dışında tutulabilir. Türkçe dışında herhangi bir dil kullanılmasına izin verilmez.
 
-Küfür, aşağılama, hedef gösterme, provoke etme veya kullanıcıları rahatsız etmeye yönelik davranışlara izin verilmez. Bu durum yalnızca yazılı mesajları değil; görselleri, videoları, imzaları ve profil içeriklerini de kapsar.
+- Küfür, aşağılama, hedef gösterme, provoke etme veya kullanıcıları rahatsız etmeye yönelik davranışlara izin verilmez. Bu durum yalnızca yazılı mesajları değil; görselleri, videoları, imzaları ve profil içeriklerini de kapsar.
 
 # Yasaklı İçerikler
 
 > Forum üzerinde başka toplulukların reklamını yapmak, siyasi propaganda paylaşmak, korsan içerik dağıtmak, zararlı bağlantılar paylaşmak veya rahatsız edici materyaller yayınlamak yasaktır.
 
-Forum üzerinde başka toplulukların reklamını yapmak, siyasi propaganda paylaşmak, korsan içerik dağıtmak, zararlı bağlantılar paylaşmak veya rahatsız edici materyaller yayınlamak yasaktır. Erotik içerikler, çıplaklık barındıran paylaşımlar, aşırılıkçı söylemler ve nefret içerikleri doğrudan kaldırılır.
+- Forum üzerinde başka toplulukların reklamını yapmak, siyasi propaganda paylaşmak, korsan içerik dağıtmak, zararlı bağlantılar paylaşmak veya rahatsız edici materyaller yayınlamak yasaktır. Erotik içerikler, çıplaklık barındıran paylaşımlar, aşırılıkçı söylemler ve nefret içerikleri doğrudan kaldırılır.
 
-Gerçek para karşılığında oyun içi eşya, karakter, para veya hesap ticareti yapılmasına izin verilmez. Oyun ekonomisini etkileyebilecek tüm satış ve takas girişimleri yaptırım sebebidir.
+- Gerçek para karşılığında oyun içi eşya, karakter, para veya hesap ticareti yapılmasına izin verilmez. Oyun ekonomisini etkileyebilecek tüm satış ve takas girişimleri yaptırım sebebidir.
 
-Discord adresleri, telefon numaraları, ev adresleri veya kullanıcıların özel bilgileri forum üzerinde paylaşılamaz. Özel konuşmaların izinsiz yayınlanması da aynı şekilde ihlal kapsamındadır. Kanıt amacıyla kullanılan içerikler moderasyon değerlendirmesine tabidir.
+- Discord adresleri, telefon numaraları, ev adresleri veya kullanıcıların özel bilgileri forum üzerinde paylaşılamaz. Özel konuşmaların izinsiz yayınlanması da aynı şekilde ihlal kapsamındadır. Kanıt amacıyla kullanılan içerikler moderasyon değerlendirmesine tabidir.
 
 # Spam ve Konu Düzeni
 
 > Forum içerisinde spam yapılmasına izin verilmez.
 
-Forum içerisinde spam yapılmasına izin verilmez. Konuya katkı sağlamayan kısa mesajlar, yalnızca emoji içeren yanıtlar veya gereksiz tekrarlar spam olarak değerlendirilebilir.
+- Forum içerisinde spam yapılmasına izin verilmez. Konuya katkı sağlamayan kısa mesajlar, yalnızca emoji içeren yanıtlar veya gereksiz tekrarlar spam olarak değerlendirilebilir.
 
-Açılan konular ilgili bölümler içerisinde kalmalıdır. Konu dışı sohbetler yalnızca bunun için ayrılmış alanlarda yapılabilir. Bir tartışmayı farklı yöne çekmek veya konuyu gereksiz şekilde dağıtmak moderasyon müdahalesine sebep olabilir.
+- Açılan konular ilgili bölümler içerisinde kalmalıdır. Konu dışı sohbetler yalnızca bunun için ayrılmış alanlarda yapılabilir. Bir tartışmayı farklı yöne çekmek veya konuyu gereksiz şekilde dağıtmak moderasyon müdahalesine sebep olabilir.
 
-Son mesajın üzerinden kısa süre geçmesine rağmen yalnızca konuyu üste taşımak amacıyla tekrar mesaj göndermek yasaktır. Aynı şekilde art arda gereksiz çift mesaj gönderimi de ihlal sayılır. Kullanıcıların mümkün olduğunca mesaj düzenleme özelliğini kullanması beklenir.
+- Son mesajın üzerinden kısa süre geçmesine rağmen yalnızca konuyu üste taşımak amacıyla tekrar mesaj göndermek yasaktır. Aynı şekilde art arda gereksiz çift mesaj gönderimi de ihlal sayılır. Kullanıcıların mümkün olduğunca mesaj düzenleme özelliğini kullanması beklenir.
 
 # Mesaj Biçimi ve Görsel Düzen
 
 > Forum okunabilirliğini bozacak aşırı büyük yazılar, dikkat dağıtıcı biçimlendirmeler, gereksiz CAPS LOCK kullanımı veya abartılı görseller uygun değildir.
 
-Forum okunabilirliğini bozacak aşırı büyük yazılar, dikkat dağıtıcı biçimlendirmeler, gereksiz CAPS LOCK kullanımı veya abartılı görseller uygun değildir. İçeriği karmaşık hâle getiren mesaj düzenleri moderasyon tarafından düzenlenebilir veya kaldırılabilir.
+- Forum okunabilirliğini bozacak aşırı büyük yazılar, dikkat dağıtıcı biçimlendirmeler, gereksiz CAPS LOCK kullanımı veya abartılı görseller uygun değildir. İçeriği karmaşık hâle getiren mesaj düzenleri moderasyon tarafından düzenlenebilir veya kaldırılabilir.
 
-Spoiler sistemi kuralları gizlemek veya ihlal içeriklerini saklamak amacıyla kullanılamaz. Spoiler içerisinde bulunan içerikler de normal mesajlarla aynı şekilde değerlendirilir.
+- Spoiler sistemi kuralları gizlemek veya ihlal içeriklerini saklamak amacıyla kullanılamaz. Spoiler içerisinde bulunan içerikler de normal mesajlarla aynı şekilde değerlendirilir.
 
 # Kullanıcı Davranışları
 
 > Kullanıcıların birbirine karşı saygılı davranması gerekir.
 
-Kullanıcıların birbirine karşı saygılı davranması gerekir. Ağır tahrik, kişisel saldırı veya sistematik hedef göstermeler uyarıdan kalıcı yasaklamaya kadar ilerleyebilecek yaptırımlarla sonuçlanabilir.
+- Kullanıcıların birbirine karşı saygılı davranması gerekir. Ağır tahrik, kişisel saldırı veya sistematik hedef göstermeler uyarıdan kalıcı yasaklamaya kadar ilerleyebilecek yaptırımlarla sonuçlanabilir.
 
-Başka bir kullanıcı adına mesaj yazmak, yasaklı biri adına forumda paylaşım yapmak veya yetkili ekip üyelerini taklit etmek yasaktır. Buna sahte yetkili isimleri, yönetici ifadeleri veya yanıltıcı profil düzenlemeleri de dahildir.
+- Başka bir kullanıcı adına mesaj yazmak, yasaklı biri adına forumda paylaşım yapmak veya yetkili ekip üyelerini taklit etmek yasaktır. Buna sahte yetkili isimleri, yönetici ifadeleri veya yanıltıcı profil düzenlemeleri de dahildir.
 
-Başka kullanıcıların özel olarak hazırladığı avatarları, imzaları veya kimlik niteliği taşıyan görselleri izinsiz kullanmak yasaktır. Taklit amaçlı yapılan hesap düzenlemeleri doğrudan ağır ihlal kapsamında değerlendirilir.
+- Başka kullanıcıların özel olarak hazırladığı avatarları, imzaları veya kimlik niteliği taşıyan görselleri izinsiz kullanmak yasaktır. Taklit amaçlı yapılan hesap düzenlemeleri doğrudan ağır ihlal kapsamında değerlendirilir.
 
 # Rapor Sistemi ve Moderasyon
 
 > Rapor sistemi yalnızca gerçek ihlaller veya moderasyon işlemleri için kullanılmalıdır.
 
-Rapor sistemi yalnızca gerçek ihlaller veya moderasyon işlemleri için kullanılmalıdır. Gereksiz rapor oluşturmak, sistematik şekilde spam raporlama yapmak veya moderasyon sürecini meşgul etmeye çalışmak yaptırım sebebidir.
+- Rapor sistemi yalnızca gerçek ihlaller veya moderasyon işlemleri için kullanılmalıdır. Gereksiz rapor oluşturmak, sistematik şekilde spam raporlama yapmak veya moderasyon sürecini meşgul etmeye çalışmak yaptırım sebebidir.
 
-Forum düzenini koruma amacıyla moderasyon ekibi gerekli gördüğü durumlarda konuları taşıyabilir, arşivleyebilir, kapatabilir veya düzenleyebilir. Bazı durumlarda kullanıcı raporu beklenmeden işlem uygulanabilir.
+- Forum düzenini koruma amacıyla moderasyon ekibi gerekli gördüğü durumlarda konuları taşıyabilir, arşivleyebilir, kapatabilir veya düzenleyebilir. Bazı durumlarda kullanıcı raporu beklenmeden işlem uygulanabilir.
 
-Fast Roleplay yönetim ekibine yönelik hakaret, küçümseme veya organize şekilde itibarsızlaştırma girişimleri ciddi ihlal olarak değerlendirilir ve forum ile oyun hesabına yansıyabilecek yaptırımlara sebep olabilir.
+- Fast Roleplay yönetim ekibine yönelik hakaret, küçümseme veya organize şekilde itibarsızlaştırma girişimleri ciddi ihlal olarak değerlendirilir ve forum ile oyun hesabına yansıyabilecek yaptırımlara sebep olabilir.
 
 # Yasaklamalar ve İtirazlar
 
 > Forum veya oyun yasaklamalarıyla ilgili tartışmalar genel forum alanlarında yürütülemez.
 
-Forum veya oyun yasaklamalarıyla ilgili tartışmalar genel forum alanlarında yürütülemez. Bunun için yalnızca ilgili itiraz bölümleri kullanılmalıdır. Açılan uygunsuz konular kaldırılabilir veya kilitlenebilir.
+- Forum veya oyun yasaklamalarıyla ilgili tartışmalar genel forum alanlarında yürütülemez. Bunun için yalnızca ilgili itiraz bölümleri kullanılmalıdır. Açılan uygunsuz konular kaldırılabilir veya kilitlenebilir.
 
-Topluluğu rahatsız etmek amacıyla forum sistemlerini kullanan, özel mesajlar üzerinden ciddi ihlaller gerçekleştiren veya sürekli huzursuzluk yaratan kullanıcıların hesapları kalıcı olarak kapatılabilir. Gerekli görülürse bu yaptırımlar oyun hesabına da uygulanabilir.
+- Topluluğu rahatsız etmek amacıyla forum sistemlerini kullanan, özel mesajlar üzerinden ciddi ihlaller gerçekleştiren veya sürekli huzursuzluk yaratan kullanıcıların hesapları kalıcı olarak kapatılabilir. Gerekli görülürse bu yaptırımlar oyun hesabına da uygulanabilir.
 
 # Son Bilgilendirme
 
