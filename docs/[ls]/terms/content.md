@@ -35,9 +35,7 @@
 
 # Fastagram Destek ve Moderasyon Süreçleri
 
-<div style="background:#0b2a16; border-left:5px solid #37ff7b; padding:16px; border-radius:8px; margin:20px 0;">
-Fastagram ile ilgili yaşadığınız tüm sorunlar, kural ihlalleri veya şüpheli paylaşımlar için öncelikli olarak Fastagram yetkili ekibi ile iletişime geçmeniz gerekmektedir.
-</div>
+> Fastagram ile ilgili yaşadığınız tüm sorunlar, kural ihlalleri veya şüpheli paylaşımlar için öncelikli olarak Fastagram yetkili ekibi ile iletişime geçmeniz gerekmektedir.
 
 - Bir gönderi, yorum veya hesap hakkında işlem talep ediyorsanız ilgili içeriği raporlamanız zorunludur.
 - Raporlama yapılmadan herhangi bir işlem başlatılmaz.
