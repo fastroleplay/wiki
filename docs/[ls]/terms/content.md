@@ -1,4 +1,4 @@
-# FASTAGRAM KURALLARI
+# FAST ROLEPLAY | FASTAGRAM KURALLARI
 
 > Fastagram, Fast Roleplay evreninde karakterlerin sosyal yaşamını geliştirmesi, etkileşim kurması ve IC hikâyelerini desteklemesi amacıyla kullanılan tamamen IC bir sosyal medya platformudur. Platform üzerinde yapılan tüm paylaşımlar karakterinizin dijital izi olarak değerlendirilir ve buna göre sonuç doğurur.
 
