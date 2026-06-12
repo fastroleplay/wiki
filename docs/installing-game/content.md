@@ -5,8 +5,8 @@
 | 🔗 Bağlantılar | 📄 Açıklama |
 |---------------|------------|
 | [💿 GTA 5 Kurulumu](#gta-v-kurulumu) | Buradan nasıl GTA:V kurulumu yapabileceğinizi görüntüleyebilirsiniz. |
-| [🧩 RageMP Kurulumu](#ragemp-kurulumu) | Buradan RageMP kurulumunu görüntüleyebilirsiniz. |
-| [🚀 Son](#son) | RageMP üzerinden sunucuya nasıl giriş yapabileceğinizi görüntüleyebilirsiniz. |
+| [🧩 FiveM Kurulumu](#fivem-kurulumu) | Buradan FiveM kurulumunu görüntüleyebilirsiniz. |
+| [🚀 Son](#son) | FiveM üzerinden sunucuya nasıl giriş yapabileceğinizi görüntüleyebilirsiniz. |
 
 ---
 
@@ -37,26 +37,17 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 
 ---
 
-## 🧩 RageMP Kurulumu
+## 🧩 FiveM Kurulumu
 
-1. 🔗 Linke tıklayarak RageMP'yi yükleyin.
-[RAGE Multiplayer İndir](https://rage.mp)
-2. 📥 Açılan pencereden devam edin.  
-    ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragempsetup.png)
-
-
-    
-3. 📃 Lisans anlaşmasını okuyup kabul edin.  
-    ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/license.png)
-
-4. 🗂️ Kurulum için hedef dosyayı seçin ve kurulumu tamamlayın. Varsayılan olarak kullanmanız tavsiye edilir.  
-    ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/destination.png)
+1. 🔗 Linke tıklayarak "Download Client" üzerinden FiveM'i yükleyin.
+[FiveM İndir](https://fivem.net/)
+2. 📥 Açılan pencereden devam edin. Kurulum dosyasını çalıştırın ve dosyanın istediği etapları takip edin.
+![](<../../images/fivem installation.png>)
 
 ---
 
 ## 🚀 Son
 
-🔓 Sağ üstte bulunan "**Hızlı Bağlantı**" butonuna tıklayın. Ardından aşağıdaki IP'yi girerek Fast'in tadını çıkarın:
-```ist.fast-rp.com```
-![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/ragemplogin.png)
-
+🔓 Artık FiveM'e girdiğinize göre ister "Browse Server" sekmesinden, ister F8> 'connect 185.73.125.30' şeklinde Fast'in tadını çıkarabilirsiniz:
+```185.73.125.30```
+![alt text](../../images/fivemf8.png)
