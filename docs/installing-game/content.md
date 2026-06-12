@@ -48,6 +48,6 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 
 ## 🚀 Son
 
-🔓 Artık FiveM'e girdiğinize göre ister "Browse Server" sekmesinden, ister F8> 'connect 185.73.125.30' şeklinde Fast'in tadını çıkarabilirsiniz:
-```185.73.125.30```
+🔓 Artık FiveM'e girdiğinize göre ister "Browse Server" sekmesinden, ister F8> 'connect xxx.xx.xxx.xx' şeklinde Fast'in tadını çıkarabilirsiniz:
+```xxx.xx.xxx.xx```
 ![alt text](../../images/fivemf8.png)
