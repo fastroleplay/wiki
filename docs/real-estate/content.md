@@ -23,16 +23,16 @@ Property Management Başvuruları
 
 <br>
 
-- **Modern Apartment 1**![alt text](modernapt1-2.jpg)![alt text](../../images/realestate/modernapt1.jpg)
-- **Mody 1 Apartment**![alt text](../../images/realestate/mody1apartment.png)![alt text](../../images/realestate/mody1apartment2.png)
-- **Vibrant 1**![alt text](../../images/realestate/vibrant1.png)![alt text](../../images/realestate/vibrant1-2.png)
-- **Sharp 1**![alt text](../../images/realestate/sharp1.png)![alt text](../../images/realestate/sharp1-2.png)
-- **Monochrome**![alt text](../../images/realestate/monochrome.png)![alt text](../../images/realestate/monochrome2.png)
-- **Seduttive**![alt text](../../images/realestate/seduttive.png)![alt text](../../images/realestate/seduttive2.png)
-- **Aqua**![alt text](../../images/realestate/aqua.png)![alt text](../../images/realestate/aqua2.png)
-- **Integrity Way Apt**![alt text](../../images/realestate/integrity28.png)![alt text](../../images/realestate/integrity28-2.png)
-- **Del Perro Heights Apt 1**![alt text](../../images/realestate/delperroapt4.png)![alt text](../../images/realestate/delperroapt4-2.png)
-- **Del Perro Heights Apt 2**![alt text](../../images/realestate/delperroapt7.png)![alt text](../../images/realestate/delperroapt7-2.png)
+- **Modern Apartment 1** ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt1.jpg)![a](https://github.com/fastroleplay/wiki/blob/main/images/realestate/modernapt1-2.jpg?raw=true)
+- **Mody 1 Apartment**  ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/mody1apartment.png) ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/mody1apartment2.png)
+- **Vibrant 1**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/vibrant1.png) ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/vibrant1-2.png)
+- **Sharp 1**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/sharp1.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/sharp1-2.png)
+- **Monochrome**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/monochrome.png)![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/monochrome2.png)
+- **Seduttive**![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/seduttive.png)![alt text](../../images/realestate/seduttive2.png)
+- **Aqua**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/aqua.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/aqua2.png)
+- **Integrity Way Apt**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/integrity28.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/integrity28-2.png)
+- **Del Perro Heights Apt 1**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/delperroapt4.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/delperroapt4-2.png)
+- **Del Perro Heights Apt 2**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/delperroapt7.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/delperroapt7-2.png)
 
 </details>
 
@@ -41,10 +41,10 @@ Property Management Başvuruları
 
 <br>
 
-- **2 Car Garage:** 2 araç kapasitesi, temel garaj çözümleri.![alt text](../../images/realestate/2cargarage.png)![alt text](../../images/realestate/2cargarage2.png)
-- **6 Car Garage:** 6 araç kapasitesi, orta ölçekli kullanım.![alt text](../../images/realestate/6cargarage.png)![alt text](../../images/realestate/6cargarage2.png)
-- **10 Car Garage:** 10 araç kapasitesi, koleksiyon ve işletme amaçlı kullanım.![alt text](../../images/realestate/10garage.png)![alt text](../../images/realestate/10garage2.png)
-- **Warehouse Garage:** Devasa araç kapasitesi, depolama amaçlı endüstriyel tasarım.![alt text](../../images/realestate/warehouse2.png)![alt text](../../images/realestate/warehouse2-1.png)![alt text](../../images/realestate/warehouse2-2.png)
+- **2 Car Garage:** 2 araç kapasitesi, temel garaj çözümleri.![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/2cargarage.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/2cargarage2.png)
+- **6 Car Garage:** 6 araç kapasitesi, orta ölçekli kullanım.![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/6cargarage.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/6cargarage2.png)
+- **10 Car Garage:** 10 araç kapasitesi, koleksiyon ve işletme amaçlı kullanım.![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/10garage.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/10garage2.png)
+- **Warehouse Garage:** Devasa araç kapasitesi, depolama amaçlı endüstriyel tasarım.![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2-1.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2-2.png)
 
 </details>
 
@@ -54,11 +54,11 @@ Property Management Başvuruları
 
 <br>
 
-- **Executive Rich:** Yönetici ofisi, lüks tasarım.![alt text](../../images/realestate/executiverich02b.png)![alt text](../../images/realestate/executiverich02b-2.png)
-- **Executive Cool** Modern, ferah tasarım.![alt text](../../images/realestate/executivecool02c.png)![alt text](../../images/realestate/executivecool02c-2.png)
-- **Executive Contrast:** Kurumsal tasarım. ![alt text](../../images/realestate/executivecontrast02a.png)![alt text](../../images/realestate/executivecontrast02a-2.png)
-- **Solomon Office:** Genel kullanım, medya ve işletme konseptleri.![alt text](../../images/realestate/solomon.png)![alt text](../../images/realestate/solomon2.png)
-- **Psychiatrist's Office:** Psikolog / Psikiyatrist konsepti![alt text](../../images/realestate/Psychiatrist.png)![alt text](../../images/realestate/Psychiatrist2.png)
+- **Executive Rich:** Yönetici ofisi, lüks tasarım.![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/executiverich02b.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/executiverich02b-2.png)
+- **Executive Cool** Modern, ferah tasarım.![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/executivecool02c.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/executivecool02c-2.png)
+- **Executive Contrast:** Kurumsal tasarım. ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/executivecontrast02a.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/executivecontrast02a-2.png)
+- **Solomon Office:** Genel kullanım, medya ve işletme konseptleri.![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/solomon.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/solomon2.png)
+- **Psychiatrist's Office:** Psikolog / Psikiyatrist konsepti![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/Psychiatrist.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/Psychiatrist2.png)
 
 </details>
 
@@ -67,14 +67,14 @@ Property Management Başvuruları
 
 <br>
 
-- **Warehouse 1**![alt text](../../images/realestate/warehouse.png)![alt text](../../images/realestate/warehouse1-1.png)
-- **Warehouse 2**![alt text](../../images/realestate/warehouse2.png)![alt text](../../images/realestate/warehouse2-2.png)![alt text](../../images/realestate/warehouse2-1.png)
-- **Warehouse 3**![alt text](../../images/realestate/warehouse3.png)
-- **Warehouse 4**![alt text](../../images/realestate/warehouse4.png)
-- **Warehouse 5**![alt text](../../images/realestate/warehouse5.png)
-- **Warehouse Small**![alt text](../../images/realestate/warehousesmall.png)
-- **Warehouse Medium**![alt text](../../images/realestate/warehousemedium.png)
-- **Warehouse Large**![alt text](../../images/realestate/warehouselarge.png)![alt text](../../images/realestate/warehouselarge2.png)
+- **Warehouse 1**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse1-1.png)
+- **Warehouse 2**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2-2.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2-1.png)
+- **Warehouse 3**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse3.png)
+- **Warehouse 4**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse4.png)
+- **Warehouse 5**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse5.png)
+- **Warehouse Small**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehousesmall.png)
+- **Warehouse Medium**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehousemedium.png)
+- **Warehouse Large**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouselarge.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouselarge2.png)
 
 </details>
 
@@ -83,8 +83,8 @@ Property Management Başvuruları
 
 <br>
 
-- **Jewel Store**![alt text](../../images/realestate/jewelstore.png)![alt text](../../images/realestate/jewelstore2.png)
-- **Nightclub**![alt text](../../images/realestate/nightclub.png)![alt text](../../images/realestate/nightclub2.png)
+- **Jewel Store**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/jewelstore.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/jewelstore2.png)
+- **Nightclub**![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/nightclub.png)![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/nightclub2.png)
 
 </details>
 

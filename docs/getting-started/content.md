@@ -22,8 +22,7 @@ Karakterini oluşturarak ilk adımı atalım!
 
 #### ⚡HİKAYENİ YAZ!
 Kısa vadeli işlerden sıkıldın mı? Artık daha saygın ve prestijli bir meslek mi arıyorsun? Belki polis, sağlık çalışanı, belediye personeli; emlakçı, bir işletme sahibi ya da suç dünyasında yükselmeye çalışan bir profil gibi sayısız alternatiften birisi olmak istiyorsun. Foruma göz at. Aradığını bulacaksın. Listeye çizgi atmayı unutma!
-####
-💖 Kim bilir, belki listede kalan son maddeye de atacak bir çizgi bulursun.
+#### 💖 Kim bilir, belki listede kalan son maddeye de atacak bir çizgi bulursun.
 ![a](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/list.png)
 
 
