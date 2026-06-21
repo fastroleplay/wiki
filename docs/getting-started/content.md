@@ -8,7 +8,7 @@ Senin için hazırladığımız bu el kitabı, Fast:V dünyasına sorunsuz bir g
 #### 🖥️ SUNUCUYA NASIL GİRİŞ YAPABİLİRİM?
 Oluşturduğumuz bu kategorilerle sunucuya nasıl giriş yapılacağını A'dan Z'ye, adım adım ve görsellerle destekleyerek anlattık. Şimdi hangi sayfada hangi kurulumu yapabileceğini özetleyelim:
 
-- 🎮 [GTA:V, Rockstar Games ve RageMP:](https://ucp.fast-rp.com/wiki/installing-game) Oyun dosyalarını nasıl indirip hazırlayacağını öğren.
+- 🎮 [GTA:V, Rockstar Games ve FiveM:](https://ucp.fast-rp.com/wiki/installing-game) Oyun dosyalarını nasıl indirip hazırlayacağını öğren.
 
 - 💾 [Fast:V Cache Kurulumu:](https://ucp.fast-rp.com/wiki/cache-installation) Oyunun yüklemesi tamamlandıysa, sunucu cacheini yükle ve bağlantı sorunlarını önle.
 **Ek not:** Zorunlu değil, sunucuya giriş yaptıktan sonra da yükleyebilirsiniz.

@@ -1,372 +1,124 @@
-# 🏠 Emlak
+<h1><img src="https://i.hizliresim.com/8fj5f8v.png" width="60"> Property Management</h1>
 
-⚡ Fast:V dünyasında sahip olabileceğiniz çeşitli mülklerin (rezidans, garaj, ofis, depo, işletme vb.) interior listesine ve görsellerine bu bölümden ulaşabilirsiniz. Başvurularınızda ilgili interior başlığını kullanarak tercihlerinizi belirtebilirsiniz.
-Aşağıda görüntülediğiniz interiorlar beta sürecinin bitmesi ile birlikte artacak ve çeşitlendirilecektir.
+Los Santos genelinde satın alınabilir veya kiralanabilir mülkler için kullanılabilir iç mekan seçenekler ve galeride satışı olmayan araçlar bu katalog altında listelenmektedir.
 
-<p><strong>Interior Başvuru Durumu:</strong> <span style="color:green;">AÇIK</span></p>
-<p><strong>Interior Başvuru Alanı:</strong> <a href="https://hub.fast-rp.com/ist/forum/topic/288-mulk-basvurulari-sablonu">⚡Fast:V Interior Başvuruları</a></p>
+Property Management Departmanı tarafından yönetilen bu sistem, oyuncuların karakter hikâyelerine ve kullanım amaçlarına uygun mülkleri seçebilmelerini amaçlamaktadır. Tüm rezidanslar, garajlar, ofisler, depolar ve işletmeler aşağıda kategorilere ayrılmış şekilde sunulmuştur.
 
-<hr>
+Mülk ve araç başvurularında tercih edilen iç mekanın adı veya kodunun belirtilmesi zorunludur. Eksik veya hatalı interior bildirimleri başvuru sürecinin uzamasına neden olabilir.
+
+<table>
+<tr>
+<td>
+
+### 📌 Başvuru Bilgileri
+
+**Mülk/Araç Başvuruları:** 🟢 AÇIK
+
+<strong>Başvuru Merkezi:</strong><a href="https://ucp.fast-rp.com/ls/applications/property" target="_blank">
+Property Management Başvuruları
+</a>
+
 <details>
-  <summary><span style="font-size: 1.3em; font-weight: bold;">🏢 Rezidanslar</span></summary><br>
+<summary><strong>🏠 Rezidans İç Mekanları</strong></summary>
 
-<div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
- 
-<h4>🏠 Modern Apartment 1</h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-            <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt1.jpg" width="45%"         style="margin-right:10px;" />
-            <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/modernapt1-2.jpg" width="45%" />
-    </details>
-<hr>
+<br>
 
-<h4>🏠 Mody 1 Apartment</h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-            <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/mody1apartment.png"     width="45%" style="margin-right:10px;" />
-            <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/mody1apartment2.png"    width="45%" />
-        </details>
-<hr>
+- **Modern Apartment 1**![alt text](modernapt1-2.jpg)![alt text](../../images/realestate/modernapt1.jpg)
+- **Mody 1 Apartment**![alt text](../../images/realestate/mody1apartment.png)![alt text](../../images/realestate/mody1apartment2.png)
+- **Vibrant 1**![alt text](../../images/realestate/vibrant1.png)![alt text](../../images/realestate/vibrant1-2.png)
+- **Sharp 1**![alt text](../../images/realestate/sharp1.png)![alt text](../../images/realestate/sharp1-2.png)
+- **Monochrome**![alt text](../../images/realestate/monochrome.png)![alt text](../../images/realestate/monochrome2.png)
+- **Seduttive**![alt text](../../images/realestate/seduttive.png)![alt text](../../images/realestate/seduttive2.png)
+- **Aqua**![alt text](../../images/realestate/aqua.png)![alt text](../../images/realestate/aqua2.png)
+- **Integrity Way Apt**![alt text](../../images/realestate/integrity28.png)![alt text](../../images/realestate/integrity28-2.png)
+- **Del Perro Heights Apt 1**![alt text](../../images/realestate/delperroapt4.png)![alt text](../../images/realestate/delperroapt4-2.png)
+- **Del Perro Heights Apt 2**![alt text](../../images/realestate/delperroapt7.png)![alt text](../../images/realestate/delperroapt7-2.png)
 
-<h4>🏠 Vibrant 1</h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-            <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/vibrant1.png" width="45%" style="margin-right:10px;" />
-            <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/vibrant1-2.png" width="45%" />
-    </details>
- <hr>
-
-<h4>🏠 Sharp 1</h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/sharp1.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/sharp1-2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 Monochrome</h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/monochrome.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/monochrome2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 Seduttive</h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/seduttive.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/seduttive2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 Aqua </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/aqua.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/aqua2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 4 Integrity Way Apt 30 </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/integrity30.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/integrity30-2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 Del Perro Heights Apt 4 </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/delperroapt4.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/delperroapt4-2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 Del Perro Heights Apt 7 </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/delperroapt7.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/delperroapt7-2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 Richard Majestic Apt 2</h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/richard.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/richard2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 2045 North Conker Avenue </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/northconker.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/northconker2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 Mid Apartment (inaktif) </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/mid.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/mid2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏠 Low End Apartment </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/low.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/low2.png" width="45%" />
-    </details>
-<hr>
-
-</div>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.3em; font-weight: bold;">🅿️ Garajlar</span></summary><br>
+<summary><strong>🚗 Sivil Garajlar</strong></summary>
 
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
+<br>
 
-<h4>🚗 Warehouse Garage </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2.png" width="45%" />
-    </details>
-<hr>
+- **2 Car Garage:** 2 araç kapasitesi, temel garaj çözümleri.![alt text](../../images/realestate/2cargarage.png)![alt text](../../images/realestate/2cargarage2.png)
+- **6 Car Garage:** 6 araç kapasitesi, orta ölçekli kullanım.![alt text](../../images/realestate/6cargarage.png)![alt text](../../images/realestate/6cargarage2.png)
+- **10 Car Garage:** 10 araç kapasitesi, koleksiyon ve işletme amaçlı kullanım.![alt text](../../images/realestate/10garage.png)![alt text](../../images/realestate/10garage2.png)
+- **Warehouse Garage:** Devasa araç kapasitesi, depolama amaçlı endüstriyel tasarım.![alt text](../../images/realestate/warehouse2.png)![alt text](../../images/realestate/warehouse2-1.png)![alt text](../../images/realestate/warehouse2-2.png)
 
-<h4>🚗 2 Car Garage </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/2cargarage.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/2cargarage2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🚗 6 Car Garage </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/6cargarage.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/6cargarage2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🚗 6 Car Garage </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/6cargarage.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/6cargarage2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🚗 6 Car Garage </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/6cargarage.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/6cargarage2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🚗 10 Garage </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/10garage.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/10garage2.png" width="45%" />
-    </details>
-<hr>
-
-</div>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.3em; font-weight: bold;">💼 Ofisler</span></summary><br>
 
-<div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
+<summary><strong>🏢 Meslek Ofisleri</strong></summary>
 
-<h4>🏢 Executive Rich </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/rich.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/rich2.png" width="45%" />
-    </details>
-<hr>
+<br>
 
-<h4>🏢 Executive Cool </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/cool.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/cool2.png" width="45%" />
-    </details>
-<hr>
+- **Executive Rich:** Yönetici ofisi, lüks tasarım.![alt text](../../images/realestate/executiverich02b.png)![alt text](../../images/realestate/executiverich02b-2.png)
+- **Executive Cool** Modern, ferah tasarım.![alt text](../../images/realestate/executivecool02c.png)![alt text](../../images/realestate/executivecool02c-2.png)
+- **Executive Contrast:** Kurumsal tasarım. ![alt text](../../images/realestate/executivecontrast02a.png)![alt text](../../images/realestate/executivecontrast02a-2.png)
+- **Solomon Office:** Genel kullanım, medya ve işletme konseptleri.![alt text](../../images/realestate/solomon.png)![alt text](../../images/realestate/solomon2.png)
+- **Psychiatrist's Office:** Psikolog / Psikiyatrist konsepti![alt text](../../images/realestate/Psychiatrist.png)![alt text](../../images/realestate/Psychiatrist2.png)
 
-<h4>🏢 Executive Contrast </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/contrast.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/contrast2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏢 Old Spice Warm </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warm.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warm2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏢 Old Spice Classical </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/classical.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/classical2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏢 Old Spice Vintage </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/vintage.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/vintage2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏢 Power Broke Ice </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/ice.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/ice2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏢 Power Broke Conservative </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/conservative.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/conservative2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏢 Power Broke Polished </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/polished.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/polished2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏢 Solomon Office </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/solomon.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/solomon2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏢 Psychiatrist's Office </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/Psychiatrist.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/Psychiatrist2.png" width="45%" />
-    </details>
-<hr>
-
-</div>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.3em; font-weight: bold;">📦 Depolar</span></summary><br>
+<summary><strong>📦 Çok Amaçlı Depolar</strong></summary>
 
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
+<br>
 
-<h4>🏭 Warehouse 1 </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse1-1.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
+- **Warehouse 1**![alt text](../../images/realestate/warehouse.png)![alt text](../../images/realestate/warehouse1-1.png)
+- **Warehouse 2**![alt text](../../images/realestate/warehouse2.png)![alt text](../../images/realestate/warehouse2-2.png)![alt text](../../images/realestate/warehouse2-1.png)
+- **Warehouse 3**![alt text](../../images/realestate/warehouse3.png)
+- **Warehouse 4**![alt text](../../images/realestate/warehouse4.png)
+- **Warehouse 5**![alt text](../../images/realestate/warehouse5.png)
+- **Warehouse Small**![alt text](../../images/realestate/warehousesmall.png)
+- **Warehouse Medium**![alt text](../../images/realestate/warehousemedium.png)
+- **Warehouse Large**![alt text](../../images/realestate/warehouselarge.png)![alt text](../../images/realestate/warehouselarge2.png)
 
-<h4>🏭 Warehouse 2 </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2-1.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse2-2.png" width="45%" />
-    </details>
-<hr>
-
-<h4>🏭 Warehouse 3 </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse3.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
-
-<h4>🏭 Warehouse 4 </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse4.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
-
-<h4>🏭 Warehouse 5 </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouse5.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
-
-<h4>🏭 Warehouse Small </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehousesmall.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
-
-<h4>🏭 Warehouse Medium </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehousemedium.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
-
-<h4>🏭 Warehouse Large </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouselarge.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/warehouselarge2.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
-</div>
 </details>
-
-
-
 
 <details>
-  <summary><span style="font-size: 1.3em; font-weight: bold;">🏬 İşletmeler</span></summary><br>
+<summary><strong>🏬 Belirli Konseptlere Uygun İşletmeler</strong></summary>
 
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.08); background: #0a0a0a ;">
-  
-<h4> 💍 Jewel Store </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/jewelstore.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/jewelstore2.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
+<br>
 
-<h4> 🎶 Nightclub </h4>
-    <details>
-        <summary>📷 Interior Görselleri</summary><br>
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/nightclub.png" width="45%"     style="margin-right:10px;" />
-        <img src="https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/realestate/nightclub2.png" width="45%"     style="margin-right:10px;" />
-    </details>
-<hr>
+- **Jewel Store**![alt text](../../images/realestate/jewelstore.png)![alt text](../../images/realestate/jewelstore2.png)
+- **Nightclub**![alt text](../../images/realestate/nightclub.png)![alt text](../../images/realestate/nightclub2.png)
 
-</div>
 </details>
+
+</td>
+</tr>
+</table>
+
+## 📖 İç Mekan Kataloğu Hakkında
+
+Bu katalogda yer alan tüm interiorlar aktif kullanım havuzunda bulunan seçeneklerden oluşmaktadır. Property Management Departmanı, sunucunun gelişimi doğrultusunda interior havuzunu düzenli olarak günceller ve yeni seçenekleri kullanıma sunar.
+
+Yeni interiorlar, özel mülk seçenekleri ve farklı kullanım alanları ilerleyen güncellemelerle birlikte kataloğa eklenmeye devam edecektir.
+
+Başvuru sahiplerinin tercih ettikleri interiorları incelemeleri ve taleplerini buna göre oluşturmaları tavsiye edilir.
+
+---
+
+## 📋 Başvuru Süreci
+
+1. Katalogdan uygun interiorı belirleyin.
+2. İlgili iç mekan adını veya kodunu not alın.
+3. Property Management başvuru merkezine gidin.
+4. Başvurunuzu eksiksiz şekilde oluşturun.
+5. Değerlendirme sonucunu bekleyin.
+
+---
+
+## ⚖️ Değerlendirme Politikası
+
+Property Management Departmanı, mülk dağıtım süreçlerinde adil, düzenli ve sürdürülebilir bir yönetim anlayışı benimsemektedir.
+
+Tüm başvurular değerlendirme sırasına göre incelenir ve uygun görülen talepler ilgili prosedürler doğrultusunda sonuçlandırılır. Başvurunun gönderilmiş olması tek başına onay garantisi sağlamaz.
+
+---
+> Katalogda yer alan interiorlar zaman içerisinde Property Management Ekibi tarafından güncellenebilir, değiştirilebilir veya kullanım dışına alınabilir.
+
+> Bir iç mekan tarafınıza tahsis edildiyse ve kullanım dışına alınacaksa; tarafınıza, önlem almanız adına bir hafta öncesinden haber verilir.
