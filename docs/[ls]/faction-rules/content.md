@@ -1,21 +1,24 @@
-# FAST ROLEPLAY | GENEL OYUN KURALLARI[cite: 1]
+# FAST ROLEPLAY | GENEL OYUN KURALLARI
 
 # 0) Kural Bütünlüğü, Yönetici İnisiyatifi, Fast Roleplay
 
 > Bu madde, kuralların nasıl yorumlanıp uygulanacağını oyuncuların net şekilde anlayabilmesi amacıyla oluşturulmuştur
 
+Fast'in temel amacı, yalnızca kurallara uyulan değil; gerçekçi, tutarlı ve uzun soluklu hikâyelerin oluşturulduğu kaliteli bir Roleplay ortamı sağlamaktır. Bu nedenle oyunculardan yalnızca yazılı kurallara uymaları değil, aynı zamanda kuralların amacını ve sunucunun rol anlayışını benimseyerek hareket etmeleri beklenmektedir.
 
-Yönetici inisiyatifi; bir oyuncunun, başka oyuncuların oyun deneyimini olumsuz etkileyen ya da sunucuda hedeflenen gerçekçi rol yapma atmosferine zarar veren davranışları söz konusu olduğunda, yönetim ekibine müdahale yetkisi tanır.
+Fast Roleplay bünyesinde karakter oluşturan her oyuncu, karakter başvurusu sırasında verdiği cevapları bildiğini, bu cevaplara uygun şekilde rol yapacağını ve sunucunun belirlediği Roleplay standartlarını kabul ettiğini beyan etmiş sayılır. Yönetim ekibi, standartların altında kalan rol anlayışını geliştirmek amacıyla oyuncuları yönlendirebilir ve gerekli gördüğü durumlarda yaptırım uygulayabilir.
 
-Fast Roleplay bünyesinde karakter oluşturan her oyuncu, karakter başvurusunda verdiği cevapları biliyor ve cevaplarının bilincinde olarak kabul edilir. Bu kapsamda yöneticiler; standartların altında kalan rol yapmayı cezalandırabilir, oyuncuları rol kalitesini sunucu yapısına uygun hale getirmeleri için yönlendirebilir ve yazılı kurallar arasında açıkça belirtilmemiş olsa bile kuralın ruhuna aykırı davranışlarda bulunan oyuncular hakkında işlem yapabilir.
+Tüm olası ihlallerin yazılı kurallarla tek tek örneklendirilmesi mümkün değildir. Bu nedenle bir davranışın kurallarda açıkça yasaklanmamış olması, o davranışın serbest olduğu anlamına gelmez. Kuralların açıklarını kullanarak avantaj sağlamaya çalışmak, kuralların ruhunu dolanmak veya sunucunun gerçekçilik anlayışına zarar veren davranışlar yönetici inisiyatifi kapsamında değerlendirilir.
 
-Tüm ihlallerin tek tek örneklendirilmesi mümkün değildir. Oyunculardan beklenen; kuralların yalnızca yazılı kısmını değil, amacını da anlayarak hareket etmeleri ve olası boşluklardan faydalanmaya çalışmamalarıdır. Yönetim ekibi, kuralları açıkça ihlal eden veya kuralların amacını dolanmayı hedefleyen davranışlarla karşılaştığında gerekli müdahaleyi gerçekleştirme yetkisine sahiptir.
+Yönetim ekibi, başka oyuncuların oyun deneyimini olumsuz etkileyen, rol kalitesini düşüren veya sunucunun hedeflediği gerçekçi Roleplay atmosferiyle bağdaşmayan davranışlara, yazılı kuralların kapsamına girsin veya girmesin müdahale etme hakkını saklı tutar. Yönetici inisiyatifi her zaman kişisel görüş doğrultusunda değil; adalet, tutarlılık, rol kalitesi ve sunucunun genel çıkarları gözetilerek kullanılır.
+
+Fast Roleplay'de amaç, her koşulda kazanmak değil; karakterlerin doğal gelişimini esas alan, başarının da başarısızlığın da hikâyeye katkı sağladığı gerçekçi bir Roleplay deneyimi oluşturmaktır. Oyunculardan, kendi çıkarlarından önce rolün bütünlüğünü ve sahnenin kalitesini ön planda tutmaları beklenmektedir.
 
 ---
 
-## 1) OOC Davranışlar, Rol ve Oyun Bütünlüğü
+## 1) Rol Bütünlüğü ve OOC Davranışlar
 
-> Oyun dışı iletişim (OOC), topluluğun sağlıklı ve sürdürülebilir kalabilmesi için en az oyun içi rol kadar önemlidir.
+> Oyun dışı iletişim, Fast Roleplay topluluğunun düzenini ve oyuncular arasındaki güven ortamını doğrudan etkiler. Bu nedenle oyun dışındaki davranışlar da oyun içindeki davranışlar kadar önem taşır ve topluluk kuralları kapsamında değerlendirilir.
 
 - Fikir ayrılıkları, tartışmalar veya anlaşmazlıklar yaşanabilir; ancak bu durum hiçbir oyuncuya karşı saldırgan, küçümseyici veya kırıcı bir üslup kullanmayı meşru hale getirmez. Bu nedenle tüm oyuncuların Fast Roleplay topluluğunun bir üyesi olduklarını unutmadan, her durumda sakin, saygılı ve yapıcı bir iletişim dili kullanmaları beklenir. Her oyuncu, bulunduğu ortamda kendisini güvende ve topluluğun bir parçası olarak hissedebilmelidir.
 
@@ -49,38 +52,41 @@ Tüm ihlallerin tek tek örneklendirilmesi mümkün değildir. Oyunculardan bekl
 
 ## 3) Metagaming, Karakter-Oyuncu Ayrımı
 
-> Oyun içi (IC) og oyun dışı (OOC) ayrımı, sağlıklı bir rol ortamının en temel yapı taşlarından biridir. Bu iki alanın birbirine karıştırılması rolün gerçekçilik durumunu, adaletini ve bütünlüğünü doğrudan zedeler. Bu nedenle OOC yöntemleri kullanarak IC bilgi aktarmak veya IC araçları kullanarak OOC bilgi paylaşmak kesin olarak yasaktır.
+> Oyun içi (IC) ve oyun dışı (OOC) süreçlerin birbirinden kesin olarak ayrılması, gerçekçi ve adil bir Roleplay ortamının temel şartlarından biridir. Her karakter yalnızca kendi yaşadığı, gözlemlediği, araştırdığı veya rol içerisinde doğal yollarla öğrendiği bilgiler doğrultusunda hareket edebilir. Oyuncunun sahip olduğu bilgi ile karakterinin sahip olduğu bilgi birbirinden bağımsızdır. Bu ayrımı ihlal eden her davranış Metagaming kapsamında değerlendirilir.
 
-- Hiçbir oyuncu; Discord, özel mesajlar, yayınlar, arkadaş sohbetleri veya oyun dışındaki herhangi bir iletişim kanalı üzerinden elde ettiği bilgileri karakterinin biliyormuş gibi davranamaz. Aynı şekilde oyun içinde edinilen bilgilerin oyun dışına taşınarak avantaj sağlanması da kural ihlalidir. Karakteriniz yalnızca rol içerisinde doğrudan şahit olduğu, araştırdığı veya rol yoluyla öğrendiği bilgilere sahip olabilir.
-- IC bilgi elde etmek amacıyla OOC kanalların kullanılması da yasaktır. Bir oyuncunun konumunu sormak, bir rolün sonucunu öğrenmek, bir karakterin planlarını rol dışında öğrenmeye çalışmak veya oyun içinde henüz ortaya çıkmamış bilgileri dış kaynaklardan edinmek rol bütünlüğünü bozar. Karakterinizin bilmesi gereken her bilgi, rol içinde doğal yollarla öğrenilmelidir.
-- Devam eden veya gerçekleşmiş bir rolü değiştirmek, yönlendirmek ya da sonucunu etkilemek için OOC iletişim kurmak da yasaktır. Rol sırasında veya rol sonrasında oyunculara mesaj atarak sahnenin sonucunu değiştirmeye çalışmak, bir oyuncudan rolünü geri almasını istemek, olayın gidişatını OOC baskı ile değiştirmek veya rolü OOC anlaşmalarla manipüle etmek kabul edilmez. Rolün gidişatı yalnızca rol içindeki eylemlerle belirlenmelidir.
-- Bu kuralın amacı; tüm oyuncuların eşit şartlarda, sürprizlerin ve keşfin korunabildiği, gerçekçi bir rol deneyimi yaşamasını sağlamaktır. IC ve OOC ayrımını korumak, hem bireysel rol kalitesini hem de topluluğun genel rol standardını doğrudan etkiler. Bu ayrımı ihlal eden davranışlar ciddi kural ihlali olarak değerlendirilir.
+- Hiçbir oyuncu; Discord, sosyal medya, özel mesajlar, yayınlar, arkadaş sohbetleri veya oyun dışındaki herhangi bir iletişim kanalı üzerinden elde ettiği bilgileri karakterinin biliyormuş gibi kullanamaz. Aynı şekilde oyun içerisinde edinilen bilgilerin oyun dışına taşınarak avantaj sağlanması da yasaktır.
+- Oyun dışı iletişim kanalları kullanılarak rol içerisinde avantaj elde edilmeye çalışılamaz. Bir oyuncunun konumunu sormak, devam eden bir rolün sonucunu öğrenmek, bir karakterin planlarını rol dışında araştırmak veya henüz rol içerisinde ortaya çıkmamış bilgileri öğrenmeye çalışmak bu kapsamda değerlendirilir.
+- Devam eden veya tamamlanmış bir rolün gidişatını değiştirmek, yönlendirmek ya da sonucunu etkilemek amacıyla OOC iletişim kurulması yasaktır. Oyuncular arasında yapılan OOC anlaşmalar, baskılar veya yönlendirmeler rolün doğal akışına müdahale olarak değerlendirilir.
+- Oyun dışı arkadaşlıklar, husumetler veya kişisel ilişkiler karakter davranışlarını etkileyemez. Aynı şekilde oyun içerisinde yaşanan olaylar da oyun dışındaki iletişime taşınamaz. Oyuncular, karakterlerini kendi duygularından ve kişisel ilişkilerinden bağımsız olarak yönetmekle yükümlüdür.
+- Bir karakterin sahip olmadığı bilgiye dayanarak hareket etmek, olaylara hazırlıklı olmak, risklerden kaçınmak veya avantaj elde etmek Metagaming kapsamında değerlendirilir. Karakteriniz, yalnızca rol içerisinde ulaşabileceği bilgilere göre karar vermelidir.
+> Bu kuralın amacı; tüm oyuncuların eşit şartlarda, sürprizlerin, araştırmanın ve doğal hikâye akışının korunabildiği bir Roleplay ortamı oluşturmaktır. IC ve OOC ayrımının korunması yalnızca bir kural değil, kaliteli Roleplay'in temel prensiplerinden biridir. Bu ayrımı bilinçli veya ihmal sonucu ihlal eden davranışlar ciddi kural ihlali olarak değerlendirilir.
 
 ---
 
-## 4) Kaos Ortamı, Düşük Seviyeli Rol Bilgisi, Deathmatching
+## 4) Kaos Ortamı, Kalitesiz Rol Davranışları, Deathmatching
 
-> Kaos ortamı oluşturmak, düşük seviyeli rol bilgisiyle hareket etmek ve sebepsiz saldırı davranışları sergilemek; sunucudaki rol akışını, oyuncu deneyimini ve gerçekçilik atmosferini doğrudan olumsuz etkiler. Her oyuncu bulunduğu karakterin bilgisi, bakış açısı ve yaşadığı olaylar doğrultusunda hareket etmekle yükümlüdür. Karakterin bilmediği bilgileri kullanmak, ortamı bilinçli şekilde provoke etmek veya rol amacı taşımayan agresif davranışlarda bulunmak, hard roleplay düzenine aykırı kabul edilir. Aşağıdaki kurallar; oyuncular arasındaki etkileşimi daha gerçekçi, dengeli ve sürdürülebilir tutmak amacıyla uygulanmaktadır.
+> Fast Roleplay'de çatışmalar ve agresif etkileşimler, karakterlerin hikâyelerinin doğal bir sonucu olarak ortaya çıkmalıdır. Rol amacı taşımayan, yalnızca aksiyon oluşturmayı hedefleyen veya oyuncuların rol deneyimini olumsuz etkileyen davranışlar kabul edilmez. Her saldırı, tehdit veya çatışma; karakter motivasyonuna, gelişen olaylara ve gerçekçi gerekçelere dayanmalıdır.
 
-- Nedensiz şekilde gerçekleştirilen saldırılar, rol bütünlüğünü bozan ve “deathmatching” kapsamında değerlendirilen ciddi ihlaller arasındadır.
-- Deathmatching yalnızca doğrudan sebepsiz öldürme eylemleriyle sınırlı değildir. Aynı zamanda oyuncuların diğer kişileri bilinçli şekilde provoke ederek, kışkırtarak veya çatışma çıkarmaya zorlayarak saldırı ortamı oluşturması da bu kapsama girer. Bir oyuncuyu sinirlendirmek, tahrik etmek veya kasıtlı olarak çatışma başlatmaya zorlamak ve ardından ateşli silah kullanımı ya da ölümle sonuçlanan saldırı eylemlerine geçmek kurala aykırıdır. Benzer şekilde, karşı tarafın verdiği doğal tepkiler sonucunda ölümle sonuçlanan durumlar da değerlendirme kapsamına alınır.
-- Bir oyuncuyu gereksiz şekilde köşeye sıkıştırmak, geri dönüşsüz bir çatışmaya zorlamak veya rolün doğal akışını bozacak şekilde agresif eylemlere yönlendirmek de deathmatching olarak yorumlanabilir.
-- Tüm saldırı ve çatışma senaryolarında temel ilke; role dayalı gerekçe, mantıklı gelişim ve karşılıklı etkileşim olmalıdır. Ani, sebepsiz veya yalnızca “öldürmek için öldürme” mantığıyla yapılan eylemler kabul edilmez. Bu tür davranışlar hem rol kalitesini düşürür hem de diğer oyuncuların deneyimini doğrudan olumsuz etkiler.
+- Başka bir oyuncuya geçerli bir rol gerekçesi olmaksızın saldırmak, onu etkisiz hâle getirmek veya öldürmek Deathmatching (DM) olarak değerlendirilir ve kesin olarak yasaktır.
+- Deathmatching yalnızca sebepsiz öldürme eylemleriyle sınırlı değildir. Bilinçli şekilde ortamı provoke ederek karşı tarafı çatışmaya zorlamak, yalnızca silahlı çatışma başlatabilmek amacıyla gerginlik oluşturmak veya rol yerine aksiyon üretmeye odaklanan davranışlar da bu kapsamda değerlendirilebilir.
+- Çatışmalar, karakterler arasında gelişen olayların doğal sonucu olmalıdır. Kısa süreli tartışmaların, küçük hakaretlerin veya anlık anlaşmazlıkların doğrudan ölümcül saldırılara dönüşmesi gerçekçi kabul edilmez. Karakterlerin çatışmaya başvurmadan önce durumu farklı yöntemlerle çözmeye çalışması beklenir.
+- Kaos ortamı oluşturmak amacıyla rastgele kişileri rahatsız etmek, çevredeki oyuncuları sebepsiz yere provoke etmek, sürekli kavga veya çatışma çıkarmaya çalışmak ve rol akışını bilinçli şekilde bozmak yasaktır.
 - Başka bir oyuncuya geçerli bir rol sebebi olmaksızın saldırmak, onu etkisiz hale getirmek veya öldürmek kesin olarak yasaktır. Her ölüm veya saldırı eylemi, rol içerisinde mantıklı bir gerekçeye, geçmiş bir çatışmaya ya da gelişen bir olay zincirine dayanmak zorundadır.
+- Karakterinizin bilgi düzeyi, cesareti ve kararları; geçmişi, yaşadığı olaylar ve kişiliğiyle tutarlı olmalıdır. Sırf oyuncu olarak ne yapılacağını bilmeniz nedeniyle karakterinizi gerçek dışı şekilde yönlendirmeniz veya karakterinizin sahip olmadığı tecrübeleri varmış gibi davranmanız düşük seviyeli rol bilgisi kapsamında değerlendirilebilir.
+>Bu kuralın amacı, çatışmaları tamamen yasaklamak değil; her çatışmanın hikâye odaklı, gerçekçi ve diğer oyuncuların rol deneyimine katkı sağlayacak şekilde gelişmesini sağlamaktır. Fast Roleplay'de amaç aksiyon üretmek değil, aksiyonun arkasındaki hikâyeyi oluşturmaktır.
 
 ---
 
 ## 5) Çatışma Devamlılığı ve Saldırı Süreçleri
 
-> Fast Roleplay içerisinde gerçekleşen tüm çatışmalar; rol gelişimi, karakter motivasyonu ve olayın doğal akışı doğrultusunda ilerlemelidir. Çatışmalar yalnızca aksiyon yaratmak amacıyla gerçekleştirilemez. Bir çatışma başladıktan sonra tarafların davranışları da gerçekçilik çerçevesinde değerlendirilir.
+> Fast Roleplay'de gerçekleşen tüm çatışmalar, karakterlerin hikâyelerinin doğal bir sonucu olarak gelişmeli ve rol bütünlüğünü desteklemelidir. Çatışmalar yalnızca silahlı aksiyon üretmek amacıyla değil; karakter motivasyonu, gelişen olaylar ve hikâye devamlılığı doğrultusunda ilerlemelidir. Bir çatışma başladıktan sonra tarafların tüm davranışları gerçekçilik, rol devamlılığı ve karakter tutarlılığı çerçevesinde değerlendirilir.
 
 Aşağıdaki davranışlar yasaktır:
-- Aynı kişi veya gruba kısa süre içerisinde tekrar tekrar saldırmak.
-- Çatışma bittikten hemen sonra karşı tarafı yeniden bulup saldırmak.
-- Çatışma kaybedildikten sonra intikam amacıyla geri dönmek.
+- Aynı kişi veya gruba, yeni ve makul bir rol gerekçesi oluşmaksızın kısa süre içerisinde tekrar saldırmak.
+- Sonuçlanmış bir çatışmayı yalnızca intikam almak amacıyla yeniden başlatmak.
+- Devam eden çatışma sırasında taraf değiştirmek veya rol gerekçesi olmaksızın farklı taraflara destek vermek.
 - Olay bölgesine yeni karakterlerle dahil olmak.
-- Çatışma devam ederken taraf değiştirmek.
-- Çatışma sonrası hiçbir etkilenme yaşamamış gibi davranmak.
+- Çatışmanın sonuçlarını yok sayarak karakterin hiçbir fiziksel veya psikolojik etkilenme yaşamamış gibi davranması.
 - Sırf çatışma çıkması için provoke edici davranışlar sergilemek.
 
 Çatışmaların amacı:
@@ -88,31 +94,37 @@ Aşağıdaki davranışlar yasaktır:
 - Karakter gelişimi sağlamak,
 - Rol devamlılığı yaratmaktır.
 
-> Sadece silahlı aksiyon üretmek amacıyla yapılan çatışmalar, rol kalitesini düşüren davranış olarak değerlendirilir ve ağır yaptırımlarla sonuçlanır.
+Her çatışma, taraflar açısından bir sonuca ulaşmalıdır. Tarafların yaşanan olaylardan etkilenmesi, kararlarını buna göre şekillendirmesi ve gelişen hikâyeyi role yansıtması beklenir. Çatışmaların amacı kazanmak değil; karakter gelişimini desteklemek ve sürdürülebilir hikâyeler oluşturmaktır.
+
+Devam eden bir çatışmaya, karakterinizin rol içerisinde makul şekilde haberdar olması ve olay yerine ulaşabilecek koşullara sahip olması dışında sonradan dahil olamazsınız. Olayı yalnızca OOC yollarla öğrenerek, arkadaşınıza destek olmak amacıyla veya rol içerisinde makul bir gerekçe oluşmaksızın devam eden bir çatışmaya dahil olmanız yasaktır.
+
+> Fast Roleplay'de çatışmalar bir amaç değil, karakter hikâyelerinin doğal sonucudur. Yalnızca aksiyon üretmek, oyuncuları çatışmaya zorlamak veya silahlı etkileşim oluşturmak amacıyla başlatılan tüm süreçler rol kalitesini düşüren davranışlar olarak değerlendirilir ve gerekli yaptırımlara tabi tutulur.
 
 ---
 
 ## 6) Düşmanlık Gerekçeleri, Ofansif Roller ve Kısıtlamaları
 
-> Bu kuralın temel amacı, rol ortamında oyunculara hem ifade özgürlüğü hem de güvenli bir oyun alanı sunarken bu iki unsur arasında dengeli bir yapı kurmaktır. Rol yaparken herkesin kendini rahat hissedebilmesi önemlidir; ancak bu durum tüm etkileşimlerin kısıtlanması anlamına gelmez. Amaç, rol çeşitliliğini ortadan kaldırmak değil, kontrollü ve sınırları olmayan etkileşimlerin önüne geçmektir.
+> Fast Roleplay'de karakterler arasında düşmanlık, tehdit, baskı, hakaret veya psikolojik üstünlük kurmaya yönelik etkileşimler Roleplay'in doğal bir parçasıdır. Ancak bu etkileşimlerin tamamı karakter motivasyonuna, gelişen olaylara ve gerçekçi gerekçelere dayanmalıdır. Hiçbir oyuncu, yalnızca karşı tarafı rahatsız etmek, küçük düşürmek veya oyun deneyimini olumsuz etkilemek amacıyla rol gerçekleştiremez.
 
-- Bu kapsamda belirli durumlar “Ofansif Roller” başlığı altında değerlendirilir. Ancak bu tanım, oyunculara rahatsızlık verebilecek her rolün yasaklandığı anlamına gelmez. Rol ortamında gerilim, çatışma, tartışma veya karakterler arası olumsuz etkileşimler doğal ve kabul edilebilir unsurlardır.
-- Buradaki kritik nokta, bu rollerin mantık sınırları içinde, kurallara uygun şekilde ve karşılıklı rol etkileşimiyle gerçekleştirilmesidir. Ofansif roller yalnızca keyfi, aşırıya kaçan, karşı tarafın rol deneyimini gereksiz şekilde baltalayan veya role katkı sunmayan davranışları kapsar.
-- Oyuncuların birbirine hikâye oluşturacak şekilde etkileşimde bulunması serbesttir; ancak bu etkileşimler kişisel sınırları, sunucu kurallarını ve rol bütünlüğünü ihlal etmemelidir.
-- Özetle bu kural, oyuncuların tamamen kısıtlanmasını değil; rol özgürlüğü ile saygılı ve dengeli bir oyun ortamının aynı anda korunmasını hedefler.
+- Ofansif roller; hikâyeye katkı sağladığı ve gerçekçi gerekçelere dayandığı sürece serbesttir. Ancak bu roller hiçbir zaman oyuncuyu hedef alan kişisel saldırılara, tacize veya rol dışı rahatsızlığa dönüşemez.
+- Hakaret, tehdit, aşağılama, psikolojik baskı, ayrımcılık veya benzeri davranışlar yalnızca karakterler arasında yaşanmalıdır. Bu davranışların oyuncuya yöneltilmesi veya OOC sürece taşınması kesin olarak yasaktır.
+- Karakterler arasında düşmanlık oluşabilmesi için rol içerisinde makul bir gerekçe bulunmalıdır. Geçici anlaşmazlıklar, kişisel hoşnutsuzluklar veya anlık tartışmalar tek başına ağır düşmanlık veya ölümcül saldırılar için yeterli gerekçe oluşturmaz.
+- Oyuncuların karşı tarafın rol deneyimini bilinçli olarak bozacak, sürekli aynı kişiyi hedef alacak veya yalnızca rahatsızlık vermek amacıyla ofansif rol gerçekleştirecek davranışlarda bulunması yasaktır.
+- Her oyuncunun kişisel sınırlarına saygı gösterilmelidir. Yönetim ekibi, rol gerekçesi bulunsa dahi sunucunun huzurunu, oyuncu güvenliğini veya rol kalitesini olumsuz etkilediğini değerlendirdiği ofansif rollere müdahale etme hakkını saklı tutar.
+> Ofansif roller, yalnızca karşı tarafın oyun deneyimini zenginleştirdiği ve gerçekçi sınırlar içerisinde kaldığı sürece Fast Roleplay standartlarına uygundur.
 
 ---
 
 ## 7) Karakter Yönetimi, Özelleştirme, Giyim
 
-> Oyuncuların karakter oluşturma sürecinde gerçekçi, tutarlı ve sunucu atmosferine uygun bir karakter tasarlamaları zorunludur.
+> Oyuncuların oluşturduğu her karakter; gerçekçi, tutarlı ve Fast Roleplay'in atmosferine uygun olmalıdır. Karakterin dış görünüşü, kullandığı kıyafetler ve genel yaşam tarzı; karakterin yaşı, mesleği, ekonomik durumu, yaşam biçimi ve bulunduğu çevreyle uyum göstermelidir. Rol bütünlüğünü bozacak, gerçekçilikten uzak veya sunucu atmosferiyle bağdaşmayan karakter tasarımları kabul edilmez.
 
-- Karakterin görünümü; yaş, meslek, yaşam tarzı ve genel rol evreni ile uyumlu olmalıdır. Aşırı gerçek dışı, ortamla uyuşmayan veya rol bütünlüğünü bozan karakter tasarımları kabul edilmez.
-- Yönetim ekibi, bir karakterin görünüşünü sunucu atmosferine uygun bulmadığı durumlarda, oyuncudan gerekli düzenlemeleri yapmasını talep etme hakkına sahiptir. Bu durum bir cezalandırma aracı değil, rol kalitesini ve genel atmosferi korumaya yönelik bir düzenleme sürecidir. Oyuncuların bu taleplere uygun şekilde karakterlerini güncellemeleri beklenir.
-- Bunun yanında karakterlerin dış görünüşü, rol dünyasının dinamiklerine uygun şekilde değerlendirilmelidir. Oyuncular, karakterlerinin bulunduğu ortamın hava koşullarına uygun giyinmekle yükümlüdür. Uygunsuz kıyafet tercihleri yalnızca görsel bir detay olarak kalmaz; aynı zamanda rol içerisinde sonuçları olan bir durumdur.
-- Örneğin; soğuk, yağmurlu veya sert hava koşullarında ince veya korumasız kıyafetlerle dolaşan bir karakter, bunun sonuçlarını role yansıtmak zorundadır. Bu sonuçlar; hastalanma, performans düşüşü, hareket kabiliyetinde azalma gibi durumlar olabilir. Aynı şekilde sıcak hava koşullarında ağır kıyafetler giymek de karakter üzerinde olumsuz etkiler oluşturabilir ve bu etkiler rol içerisinde işlenmelidir.
-- Mevcut hava durumu bilgisi, oyuncular tarafından telefon sistemi kullanılarak görüntülenebilir ve buna göre karakter davranışları şekillendirilmelidir. Oyuncuların bu sistemi dikkate almaması veya bilinçli şekilde yok sayması, rol gerçekçiliğini zedeler ve kural ihlali olarak değerlendirilebilir. Bu kuralın amacı, yalnızca görsel uyumu sağlamak değil; aynı zamanda rol dünyasında gerçekçilik, tutarlılık ve atmosfer bütünlüğünü korumaktır.
-
+- Karakter görünümünde kullanılan saç modelleri, dövmeler, aksesuarlar, kıyafetler ve benzeri tüm özelleştirmeler rol evreniyle uyumlu olmalıdır. Gerçekçilikten uzak veya yalnızca dikkat çekmek amacıyla oluşturulan karakter tasarımları yönetim tarafından düzenlenebilir.
+- Yönetim ekibi, sunucu atmosferiyle uyumsuz olduğu değerlendirilen karakter görünüşlerinin düzeltilmesini talep etme hakkını saklı tutar. Bu süreç disiplin amacıyla değil, rol kalitesini ve görsel bütünlüğü korumaya yöneliktir.
+- Karakterler, bulundukları ortamın hava koşullarını ve çevresel şartları göz önünde bulundurarak giyinmek ve davranmakla yükümlüdür. Gerçekçi olmayan kıyafet tercihleri yalnızca görsel bir unsur olarak değerlendirilmez; rol içerisinde sonuç doğurabilir.
+- Soğuk, yağışlı veya sert hava koşullarında korumasız kıyafetlerle dolaşan ya da sıcak havalarda karakterini fiziksel olarak zorlayacak ekipmanlar kullanan oyuncular, bunun karakterleri üzerindeki fiziksel etkileri role yansıtmalıdır.
+- Oyuncular, telefon sistemi üzerinden görüntülenebilen güncel hava durumunu dikkate alarak karakterlerini yönetmelidir. Hava koşullarının bilinçli şekilde yok sayılması ve bunun role hiçbir şekilde yansıtılmaması, rol gerçekçiliğini olumsuz etkileyen bir davranış olarak değerlendirilebilir.
+> Karakter yönetiminin amacı yalnızca görsel uyumu sağlamak değil; her karakterin yaşadığı çevreye ve içinde bulunduğu şartlara gerçekçi şekilde tepki vermesini sağlamaktır. Karakter görünümü, davranışları ve yaşam tarzı birbirini desteklemeli; sunucunun genel atmosferine katkıda bulunmalıdır.
 ---
 
 ## 8) Karakter Yaratma Kuralları
@@ -134,256 +146,419 @@ gibi Türk ve İslam kültür havzasına dahil tüm bölgeleri kapsamaktadır. D
 
 ---
 
-## 9) PK/CK/Ölüm Sonrası Rol Kuralları
+## 9) PK/CK ve Ölüm Sonrası Rol Kuralları
 
-> Karakterinizin yaşadığı ağır yaralanmalar veya ölümle sonuçlanan olaylar kalıcı etkiler doğurabilir.
+> Fast Roleplay'de ölüm, yalnızca teknik bir oyun mekaniği değil; karakter hikâyesini doğrudan etkileyen önemli bir Roleplay unsurudur. Karakterinizin yaşadığı ağır yaralanmalar, bilinç kaybı veya ölümle sonuçlanan olaylar rol içerisinde kalıcı sonuçlar doğurabilir. Oyunculardan bu sonuçları gerçekçi şekilde role yansıtmaları beklenmektedir.
 
-PK durumunda karakter:
-- Yaşanan olayın detaylarını unutabilir,
-- Olayla ilgili bilgileri kullanamaz,
-- Çatışmaya geri dönemez,
-- Ölümüne sebep olan olay zincirine tekrar dahil olamaz.
+### Player Kill (PK)
 
-Karakterinizin aldığı ölümcül yaralanmalar hafife alınamaz. Aşağıdaki davranışlar yasaktır:
-- Ölüm alanına geri dönmek,
-- Ölümüne sebep olan kişileri anında tekrar hedef almak,
-- Yaralı halde yeniden çatışmaya katılmak,
-- Hiçbir psikolojik veya fiziksel etki göstermeden role devam etmek.
+Player Kill (PK), karakterinizin ağır yaralanması veya ölüm tehlikesi atlatması sonucunda yaşanan olayın karakter üzerinde kalıcı etkiler bırakmasını ifade eder. PK sonrasında karakteriniz;
 
-CK; karakterin tamamen hikâyeden çıkarılmasıdır, geri dönüşü yoktur. Eğer hatalı bir işlem yapıldığını düşünüyorsanız RPQM’e ulaşabilirsiniz. Aşağıdaki durumlarda CK değerlendirilebilir:
-- Sürekli gerçekçilik ihlali yapmak,
-- Korku rolünü tamamen yok saymak,
-- Ağır suç örgütü içi ihanetler,
-- Çok ağır yaralanmalar,
-- Hikâyesel sonuç doğuran olaylar.
+- Yaşanan olayın tamamını veya bir kısmını hatırlamayabilir.
+- PK'ye sebep olan olaydan edindiği bilgileri kullanamaz.
+- Devam eden çatışmaya veya aynı olay zincirine yeniden dahil olamaz.
+- Yaşadığı fiziksel ve psikolojik etkileri role yansıtmakla yükümlüdür.
+- PK sonrasında yaşanan olayı gerekçe göstererek intikam planı yapamaz, karşı tarafı takip edemez veya olayın sonucunu değiştirmeye yönelik girişimlerde bulunamaz.
 
-CK sonrası:
-- Aynı karakter tekrar açılamaz,
-- Bağlantılı hikâye devam ettirilemez,
-- Aynı konsept farklı isimle tekrar kullanılamaz.
+Aşağıdaki davranışlar kesin olarak yasaktır:
 
----
+- Ölüm veya ağır yaralanma yaşanan olay yerine makul bir rol gerekçesi olmaksızın geri dönmek.
+- PK'ye sebep olan kişileri kısa süre içerisinde tekrar hedef almak.
+- Ağır yaralı olmasına rağmen hiçbir fiziksel veya psikolojik etkilenme yaşamamış gibi role devam etmek.
+- Devam eden çatışmaya yeniden dahil olmak.
 
-##  10) Suç Bölgeleri
+### Character Kill (CK)
 
-> Haritanın belirli bölgelerinde suç seviyeleri sınırlandırılmıştır. Bu sistemin amacı; gerçekçi şehir düzeni oluşturmak, sürekli kaos ortamını önlemek ve kolluk kuvveti yoğunluğunu role yansıtmaktır.
+Character Kill (CK), karakter hikâyesinin kalıcı olarak sona erdirilmesidir. CK uygulanan bir karakter, Fast Roleplay evreninde tamamen ölmüş kabul edilir ve tekrar kullanılamaz. CK kararları; hikâye bütünlüğü, karakter gelişimi ve sunucu standartları doğrultusunda yönetim ekibi tarafından değerlendirilir.
 
-####  10.1) Güvenli Bölgeler
-> Aşağıdaki alanlarda hiçbir suç gerçekleştirilemez:
-- Hastaneler, Polis merkezleri, Devlet binaları, Havalimanları, Metro sistemleri, Bankalar, Silah mağazaları, Resmi kurum çevreleri.
+CK sonrasında;
 
-####  10.2) Kısmi Güvenli Bölgeler
-> Bazı bölgelerde suç işlenebilmesi için gerekçeleriniz olmalıdır, bu gerekçeleri oyun içinde o anda bulunan en yüksek rütbeli yetkiliden izin alarak gerçekleştirebilirsiniz. Örnek bölgeler:
-- Downtown, Turistik bölgeler, Kalabalık plajlar, Aktif işletme çevreleri, Otoyollar, Liman bölgeleri.
+- Aynı karakter tekrar oluşturulamaz.
+- Aynı karaktere ait hikâye doğrudan veya dolaylı şekilde sürdürülemez.
+- Aynı karakteri temsil eden, aynı geçmişe veya aynı konsepte sahip yeni bir karakter oluşturulamaz.
+- CK kararı kesin olup, aksi yönetim tarafından belirtilmediği sürece geri alınmaz.
 
-####  10.3) Serbest Bölgeler
-> Diğer tüm alanlar serbest bölge olarak değerlendirilir. Ancak serbest bölgelerde bile mantıksız suç davranışları kabul edilmez.
+> PK ve CK sistemlerinin amacı oyuncuları cezalandırmak değil; karakter gelişimini, hikâye devamlılığını ve rol bütünlüğünü korumaktır. Bu süreçlere ilişkin nihai değerlendirme, olayın şartları, rol kalitesi ve Fast Roleplay standartları doğrultusunda yönetim ekibi tarafından yapılır.
 
 ---
 
-## 11) OOC Ticaret og Mal Varlığı Transferi
+## 10) Suç Bölgeleri
 
-> Oyun dışı değer taşıyan herhangi bir unsurun oyun içi varlıklarla değiştirilmesi yasaktır.
+> Fast Roleplay'de suç faaliyetleri, karakter motivasyonu, olayın gelişimi ve bulunduğu bölgenin gerçekçiliği doğrultusunda değerlendirilir. Her bölgenin sahip olduğu güvenlik seviyesi, nüfus yoğunluğu ve kolluk kuvveti varlığı farklıdır. Bu nedenle gerçekleştirilecek her suç eyleminin bulunduğu çevreyle uyumlu, rol gerekçesine dayanan ve hikâyeyi destekleyen bir yapıda olması beklenmektedir.
 
-Aşağıdaki davranışlar ağır ihlal kapsamında değerlendirilir:
-- Gerçek para karşılığı oyun içi para satmak.
-- OOC arkadaşına ücretsiz araç vermek.
-- Karakterler arasında sebepsiz para aktarmak.
-- Sunucudan ayrılırken tüm varlıkları dağıtmak.
-- Başka karaktere avantaj sağlamak amacıyla eşya transfer etmek.
-- OOC dostluk nedeniyle piyasa dışı satış yapmak.
+#### 10.1) Güvenli Bölgeler
 
-Karakterler arasında gerçekleştirilen tüm büyük transferlerin IC mantığı, rol geçmişi ve ticari sebebi bulunmalıdır.
+> Güvenli bölgeler, kolluk kuvvetlerinin yoğun olarak bulunduğu ve kamu güvenliğinin en üst seviyede olduğu alanlardır. Yönetim tarafından oluşturulan özel senaryolar veya resmi etkinlikler dışında bu bölgelerde herhangi bir suç faaliyeti gerçekleştirilemez.
+
+- Hastaneler
+- Polis merkezleri
+- Devlet binaları
+- Havalimanları
+- Metro istasyonları
+- Bankalar
+- Silah mağazaları
+- Resmî kurum çevreleri
+
+#### 10.2) Kısmi Güvenli Bölgeler
+
+> Kısmi güvenli bölgelerde suç işlenebilmesi için güçlü ve gerçekçi bir rol gerekçesi bulunmalıdır. Gerçekleştirilecek suç eylemi; bölgenin yoğunluğu, çevresel koşulları ve kolluk kuvvetlerinin olası müdahalesi göz önünde bulundurularak planlanmalıdır. Yönetim veya ilgili yetkili birim tarafından aksi belirtilmediği sürece, bu bölgelerde gerçekleştirilecek yüksek riskli suç eylemleri önceden onaya tabidir.
+
+Örnek bölgeler:
+
+- Downtown
+- Turistik bölgeler
+- Kalabalık plajlar
+- Aktif işletme çevreleri
+- Otoyollar
+- Liman bölgeleri
+
+#### 10.3) Serbest Bölgeler
+
+> Güvenli veya kısmi güvenli bölge kapsamında değerlendirilmeyen tüm alanlar serbest bölge olarak kabul edilir. Ancak serbest bölgeler kuralsız alanlar değildir. Gerçekçi bir rol gerekçesine dayanmayan, yalnızca aksiyon oluşturmayı amaçlayan veya rol bütünlüğünü zedeleyen suç davranışları bu bölgelerde de kural ihlali olarak değerlendirilir.
+
+---
+
+## 11) OOC Ticaret ve Mal Varlığı Transferi
+
+> Fast Roleplay ekonomisi tamamen karakterler üzerinden ilerler. Oyuncuların değil, karakterlerin sahip olduğu maddi imkânlar esas alınır. Bu nedenle oyun dışı ilişkiler, kişisel dostluklar veya farklı karakterler arasında avantaj sağlamaya yönelik ekonomik işlemler rol bütünlüğünü zedeler ve kesin olarak yasaktır.
+
+Aşağıdaki davranışlar ağır kural ihlali kapsamında değerlendirilir:
+
+- Gerçek para veya oyun dışı herhangi bir değer karşılığında oyun içi para, eşya, araç veya mülk alım-satımı yapmak.
+- Oyun dışı arkadaşlık veya kişisel ilişkilere dayanarak karakterlere haksız ekonomik avantaj sağlamak.
+- Karakterler arasında rol gerekçesi bulunmaksızın para, araç, mülk veya eşya transferi gerçekleştirmek.
+- Başka bir karakterin gelişimini hızlandırmak veya ekonomik avantaj sağlamak amacıyla mal varlığı aktarmak.
+- Sunucudan ayrılmadan önce sahip olunan tüm mal varlığını başka karakterlere veya oyunculara dağıtmak.
+- Oyun dışı anlaşmalar doğrultusunda piyasa değerinin açıkça dışında alım-satım gerçekleştirmek.
+- Farklı karakterler arasında doğrudan veya dolaylı şekilde ekonomik destek sağlayarak karakter bağımsızlığını ihlal etmek.
+
+Karakterler arasında gerçekleştirilen yüksek değerli para, araç, mülk veya eşya transferlerinin tamamı rol geçmişi, karakter ilişkileri ve gerçekçi bir ticari gerekçeye dayanmalıdır. Yönetim ekibi gerekli gördüğü durumlarda bu işlemleri inceleme ve oyunculardan rol gerekçelerini açıklamalarını talep etme hakkını saklı tutar.
+
+> Bu kuralın amacı, sunucu ekonomisinin adil, sürdürülebilir ve tamamen Roleplay odaklı şekilde ilerlemesini sağlamaktır. Oyun dışı ilişkilerin veya oyuncu tercihinin oyun içi ekonomik dengeyi etkilemesine izin verilmez.
 
 ---
 
 ## 12) Silah Kullanımı ve Shortcut Kuralları
 
-> Silah kullanımı tamamen gerçekçilik çerçevesinde ilerlemelidir. Herhangi bir silahı emote kullanmadan role dahil edemezsiniz. Bu küçük silahlarda ya da sopalarda da geçerlidir. Emote yazmadan silahı dahil edebileceğiniz tek senaryo size saldırı yapıldığı sırada olabilir, bunun dışındaki rol dışındaki silah kullanımları kurala dahildir.
+> Fast Roleplay'de silah kullanımı, karakter davranışlarının en ciddi unsurlarından biridir ve tamamen gerçekçilik çerçevesinde değerlendirilir. Karakterinizin taşıdığı, çıkardığı veya kullanmaya hazır hâle getirdiği her silah, uygun Roleplay emoteları ile desteklenmelidir. Silahların herhangi bir rol süreci işletilmeden ani şekilde kullanılması rol bütünlüğünü bozan ciddi bir kural ihlalidir.
 
-Aşağıdaki davranışlar kesinlikle yasaktır:
-- Araçtan iner inmez ani rifle kullanmak.
-- Büyük silahları görünmez şekilde taşımak.
-- Çatışma başlamadan önce role yansıtmadan ağır silah hazır bulundurmak.
+Aşağıdaki davranışlar kesin olarak yasaktır:
 
-Karakterin taşıdığı silahlar çevrede dikkat çekici etki oluşturmalıdır.
+- Herhangi bir ateşli silahı, kesici-delici aleti veya yakın dövüş ekipmanını uygun emote kullanmadan role dahil etmek.
+- Araçtan iner inmez herhangi bir rol etkileşimi olmadan doğrudan uzun namlulu silah kullanmak.
+- Çatışma başlamadan önce karakterin silahını role yansıtmadan hazır hâlde bulundurmak.
+- Karakterin ulaşamayacağı veya gerçekçi şekilde taşıyamayacağı ekipmanları üzerinde varmış gibi kullanmak.
+
+Silahın emote kullanılmadan role dahil edilebileceği tek istisna; karakterinizin ani ve beklenmedik bir saldırıya uğraması nedeniyle silah çekmeye ilişkin rol sürecini makul şekilde gerçekleştiremeyecek durumda olmasıdır. Bunun dışında tüm silah kullanımları uygun Roleplay süreciyle desteklenmelidir.
+
+Karakterinizin taşıdığı uzun namlulu silahlar ve dikkat çekici ekipmanlar çevrede bulunan kişiler tarafından fark edilebilir niteliktedir. Bu tür ekipmanların görünmezmiş gibi değerlendirilmesi veya çevrenin bunları fark etmeyeceği varsayımıyla rol yapılması kabul edilmez.
+
+> Bu kuralın amacı, silah kullanımını yavaşlatmak değil; çatışmaların daha gerçekçi, okunabilir ve karşılıklı rol etkileşimine dayalı şekilde ilerlemesini sağlamaktır.
 
 ---
 
 ## 13) Reklam Sistemi Kuralları
 
-> Reklam sistemi yalnızca yasal rol ortamını desteklemek amacıyla kullanılabilir.
+> Reklam sistemi, Fast Roleplay'de yalnızca yasal ticari faaliyetleri, işletmeleri ve gerçekçi rol etkileşimlerini desteklemek amacıyla kullanılabilir. Reklam sistemi hiçbir koşulda yasa dışı faaliyetleri doğrudan veya dolaylı şekilde desteklemek, gizlemek ya da oyuncuları yanıltmak amacıyla kullanılamaz.
 
-Aşağıdaki içerikler reklam sisteminde kullanılamaz:
-- Uyuşturucu satışı, Silah satışı, kaçak eşya ticareti, kiralık katil ilanları, Örtülü illegal reklamlar, tuzak amaçlı ilanlar, gasp amacıyla verilen sahte ilanlar, spam reklam.
+Aşağıdaki içeriklerin reklam sistemi üzerinden paylaşılması kesin olarak yasaktır:
 
-Aşağıdaki reklamların yayınlanması yasaktır:
-- Aynı reklamı sürekli paylaşmak,
-- Farklı kişiler üzerinden reklam spamı yapmak,
-- Reklamda belirtilen işletme açık olmadığı halde reklam paylaşmak,
-- Oyuncuları gasp etmek, kaçırmak, dolandırmak amacıyla sahte satış veya sahte hizmet ilanı oluşturmak.
+- Uyuşturucu, silah veya kaçak eşya satışı.
+- Kiralık katil, yasa dışı organizasyon veya suç faaliyetlerine yönelik ilanlar.
+- İllegal faaliyetleri ima eden veya örtülü şekilde reklamını yapan içerikler.
+- Oyuncuları gasp etmek, kaçırmak, dolandırmak veya pusuya düşürmek amacıyla oluşturulan sahte ilanlar.
+- Spam niteliğinde veya reklam sisteminin amacını aşan paylaşımlar.
 
-Reklam Sistemi vasıtasıyla illegal taleplerinizi maskeleyerek reklam oluşturamazsınız. Oyuncak Su Tabancası satılıyor, Çamaşır Deterjanında şok indirim, Uygun fiyatlı masöz için ara ve sonsuza kadar çoğaltılabilecek benzer örnekli reklam paylaşımları yasaklanmıştır. 
+Aşağıdaki davranışlar da kural ihlali kapsamında değerlendirilir:
+
+- Aynı veya benzer reklamları kısa aralıklarla tekrar paylaşmak.
+- Farklı karakterler veya oyuncular üzerinden reklam spamı yapmak.
+- Faaliyette olmayan bir işletme veya sunulmayan bir hizmet adına reklam vermek.
+- Gerçek olmayan ürün veya hizmetler üzerinden oyuncuları yanıltmaya çalışmak.
+- Reklam sistemini rol dışı iletişim aracı olarak kullanmak.
+
+İllegal taleplerin, ürünlerin veya hizmetlerin farklı isimler altında gizlenerek reklamının yapılması yasaktır. Yasa dışı faaliyetleri ima eden veya oyuncular tarafından kolaylıkla bu amaçla yorumlanabilecek örtülü reklamlar da doğrudan kural ihlali olarak değerlendirilir.
+
+Örnek olarak aşağıdaki türde reklamlar kabul edilmez:
+
+- "Oyuncak su tabancası satılır."
+- "Çamaşır deterjanında büyük indirim."
+- "Uygun fiyatlı masöz."
+- Yasa dışı ürün veya hizmetleri gizlemek amacıyla kullanılan benzeri örtülü ifadeler.
+
+> Reklam sistemi dürüst ticari faaliyetleri desteklemek amacıyla oluşturulmuştur. Oyuncuların sistemi kötüye kullanarak yasa dışı faaliyetleri gizlemeye çalışması veya reklam sistemini amacından saptırması, ağır kural ihlali olarak değerlendirilir.
 
 ---
 
 ## 14) Hapishane Rol Kuralları
 
-> Hapishane ortamı yüksek güvenlikli alan olarak değerlendirilir. Mahkum karakterler sürekli gözetim altında olduklarını kabul etmelidir. Kör noktalar dışında rahat suç işleyemez ve personel varlığını yok sayamazlar.
+> Fast Roleplay'de hapishane, yüksek güvenlikli ve sürekli gözetim altında bulunan bir devlet kurumudur. Mahkûm karakterler; güvenlik kameraları, gardiyan devriyeleri, gözetleme kuleleri ve diğer güvenlik unsurlarının varlığını her zaman göz önünde bulundurmalıdır. Hapishane ortamı, normal şehir yaşamından farklı kurallara ve güvenlik prosedürlerine sahiptir.
 
-#### Yasaklı Davranışlar
-- Hapishaneyi boş alan gibi kullanmak.
-- Personel yokmuş gibi davranmak.
-- Kamera sistemlerini tamamen yok saymak.
-- Sebepsiz sürekli kavga çıkarmak.
-- Gerçekçilikten uzak prison gang davranışları sergilemek.
+Aşağıdaki davranışlar kesin olarak yasaktır:
 
-Hapishane güvenlik kameraları, kuleler, gardiyan devriyeleri ile sürekli kontrol altında kabul edilir. Mahkumların bunu role yansıtması gerekir.
+- Hapishaneyi güvenlik personeli bulunmayan sıradan bir alan gibi değerlendirmek.
+- Gardiyanların, güvenlik kameralarının veya diğer güvenlik unsurlarının varlığını tamamen yok saymak.
+- Makul bir rol gerekçesi olmaksızın sürekli kavga, isyan veya saldırı ortamı oluşturmak.
+- Hapishane düzenini ve güvenlik seviyesini hiçe sayacak gerçekçilikten uzak prison gang rolleri gerçekleştirmek.
+- Güvenlik önlemlerini hiçbir hazırlık veya rol süreci olmaksızın kolayca aşılabilir gibi göstermek.
+- Hapishane içerisinde gerçekleştirilen olayların hiçbir sonucu olmayacakmış gibi hareket etmek.
+
+Mahkûmlar yalnızca güvenlik açısından makul şekilde kör noktada kalan alanlarda veya uygun rol gerekçesi bulunan durumlarda personelden gizli hareket edebilirler. Güvenlik kameraları, gardiyan devriyeleri ve gözetleme kuleleri aksi role yansıtılmadığı sürece (Yönetim tarafından) aktif olarak görev yapıyor kabul edilir.
+
+> Hapishane rolleri; sürekli çatışma üretmek veya güvenlik sistemlerini yok saymak amacıyla değil, yüksek güvenlikli bir devlet kurumunun gerçekçi şekilde canlandırılması amacıyla gerçekleştirilmelidir. Oyuncuların bulundukları ortamın güvenlik seviyesine uygun şekilde hareket etmeleri beklenmektedir.
 
 ---
 
 ## 15) İşletme Haracı
 
-> Bir işletmeden düzenli şekilde para talep etmek belirli roleplay standartlarına bağlıdır.
+> Fast Roleplay'de işletmelerden düzenli olarak haraç veya koruma ücreti talep edilmesi, yalnızca güçlü bir Roleplay altyapısına sahip olması halinde mümkündür. Haraç rolleri; ekonomik kazanç elde etmek amacıyla rastgele gerçekleştirilen eylemler değil, uzun vadeli hikâyelerin ve bölgesel güç dengelerinin doğal bir sonucu olmalıdır.
 
-Aşağıdaki durumlar zorunludur:
-- İşletmeyle bağlantılı rol geçmişi, Bölgesel hakimiyet, Mantıklı tehdit unsuru, Süreklilik sağlayan hikâye.
+Bir işletmeden düzenli olarak haraç talep edilebilmesi için aşağıdaki şartların sağlanması beklenir:
 
-Aşağıdaki davranışlar yasaktır:
-- Rastgele işletmelere gidip para istemek, Her işletmeden aynı miktarda haraç talep etmek, Sırf para kazanmak için protection rolü yapmak, İşletmeyi sebepsiz tehdit etmek.
+- İşletme ile daha önce kurulmuş ve süreklilik gösteren bir rol geçmişinin bulunması.
+- İşletmenin bulunduğu bölgede fiili veya hikâyesel bir hakimiyet kurulmuş olması.
+- Haraç talebini destekleyen gerçekçi bir baskı veya tehdit unsurunun bulunması.
+- Talebin yalnızca maddi kazanç amacı taşımaması ve devam eden bir hikâyeye katkı sağlaması.
 
-**Bu kural ile ilgili detaylar arttırılacak ve madde güncellenecektir.**
+Aşağıdaki davranışlar kesin olarak yasaktır:
+
+- Rastgele işletmelere giderek haraç veya koruma parası talep etmek.
+- Aynı yöntem ve miktarla çok sayıda işletmeden sistematik şekilde para istemek.
+- Yalnızca gelir elde etmek amacıyla "koruma" veya "protection" rolleri oluşturmak.
+- Gerçekçi bir gerekçe bulunmaksızın işletmeleri tehdit etmek veya baskı altına almak.
+- İşletme sahiplerine sürekli baskı uygulayarak rol yapmaya zorlamak.
+- Haraç talebini, karşı tarafın rol yapma isteğini ortadan kaldıracak veya oyun deneyimini olumsuz etkileyecek şekilde sürdürmek.
+
+Bir işletmeden talep edilebilecek **maksimum haftalık haraç miktarı $10.000**'dır. Aynı işletmeden, aynı hafta içerisinde bu tutarın üzerinde haraç talep edilemez veya farklı gerekçeler öne sürülerek ek ödeme istenemez.
+
+
+> İşletme haracı rolleri; işletme sahiplerine yalnızca ekonomik yük oluşturmak amacıyla değil, iki tarafın da katkı sağlayabileceği uzun vadeli hikâyeler oluşturmak amacıyla gerçekleştirilmelidir. Yönetim ekibi, yeterli rol altyapısına sahip olmadığı değerlendirilen haraç süreçlerini durdurma veya geçersiz sayma hakkını saklı tutar.
 
 ---
 
 ## 16) Chicken Run
 
-Rol ortamında karakterlerin, kendilerine yöneltilen saldırılardan veya çatışmalardan gerçekçilik sınırlarını aşan şekilde sürekli yön değiştirerek, zigzag çizerek veya insan reflekslerini aşacak hareketlerle kaçmaya çalışması Chicken Run (CR) olarak değerlendirilir.
+> Chicken Run, karakterlerin çatışma veya saldırı sırasında yalnızca oyun mekaniklerinden faydalanarak isabet alma ihtimalini gerçekçilik sınırlarının ötesinde azaltmaya çalışmasıdır. Karakterlerin insan reflekslerini aşacak şekilde sürekli yön değiştirmesi, düzensiz hareket etmesi veya oyun mekaniklerini kötüye kullanarak avantaj sağlaması Fast Roleplay standartlarına aykırıdır.
 
-Gerçek hayatta bir kişinin ateş altında veya fiziksel saldırı sırasında uzun süre boyunca düzensiz, sürekli yön değiştirerek hiçbir dezavantaj yaşamadan hareket etmesi mümkün değildir. Bu nedenle karakterlerin yalnızca oyun mekaniklerinden faydalanarak isabet almayı zorlaştıracak veya karşı tarafın rol deneyimini olumsuz etkileyecek hareketlerde bulunması yasaktır.
+Gerçek hayatta bir kişinin ateş altında veya fiziksel saldırı sırasında uzun süre boyunca sürekli zikzak çizerek, ani yön değişiklikleri yaparak ve hiçbir olumsuzluk yaşamadan hareket etmesi mümkün değildir. Bu nedenle oyuncuların yalnızca oyun mekaniklerinden yararlanarak karşı tarafın etkileşimini zorlaştıracak veya isabet alma ihtimalini yapay şekilde azaltacak davranışlarda bulunması yasaktır.
 
-Aşağıdaki davranışlar Chicken Run kapsamında değerlendirilir:
-- Ateş altında sürekli ve gerçek dışı şekilde sağa-sola zikzak çizerek koşmak.
+Aşağıdaki davranışlar Chicken Run (CR) kapsamında değerlendirilir:
+
+- Ateş altında sürekli ve gerçekçilikten uzak şekilde sağa-sola zikzak çizerek koşmak.
 - Yakın mesafe çatışmalarında karakterin fiziksel sınırlarını aşacak ani yön değişiklikleri yapmak.
-- Sadece oyun mekaniklerinden faydalanarak vurulmayı zorlaştıracak şekilde düzensiz hareket etmek.
-- Rol gerçekçiliğini hiçe sayarak sürekli hareket hâlinde kalıp karşı tarafın makul şekilde etkileşim kurmasını engellemek.
+- Sürekli zıplayarak, yön değiştirerek veya düzensiz hareket ederek isabet almayı zorlaştırmak.
+- Yalnızca oyun mekaniklerinden faydalanarak karşı tarafın makul şekilde etkileşim kurmasını engellemek.
+- Rol gerçekçiliğini hiçe sayacak ölçüde sürekli hareket hâlinde kalarak çatışmadan avantaj elde etmeye çalışmak.
 
-Çatışma sırasında siper almak, bulunduğunuz konumu değiştirmek veya can güvenliğinizi sağlamaya çalışmak doğaldır. Ancak bu hareketlerin gerçekçilik sınırları içerisinde kalması ve yalnızca oyun mekaniklerinden avantaj elde etmeye yönelik olmaması beklenir.
+Çatışma sırasında siper almak, bulunduğunuz konumu değiştirmek, uygun anı kollayarak koşmak veya can güvenliğinizi sağlamaya çalışmak tamamen doğaldır. Ancak bu hareketlerin gerçekçilik sınırları içerisinde kalması ve yalnızca oyun mekaniklerinden avantaj elde etmeye yönelik olmaması beklenmektedir.
+
+> Bu kuralın amacı, oyuncuların hayatta kalma reflekslerini kısıtlamak değil; çatışmaların oyun mekaniklerinden ziyade Roleplay, karakter davranışı ve gerçekçilik çerçevesinde ilerlemesini sağlamaktır.
 
 ---
 
 ## 17) Türkçe'nin Düzgün Kullanımı
 
-Fast Roleplay, metin tabanlı (Text Roleplay) bir sunucudur. Bu nedenle oyuncuların kullandığı yazı dili, rol kalitesinin en önemli unsurlarından biridir. Yazılan her mesajın anlaşılır, akıcı ve Türkçe yazım kurallarına uygun olması zorunludur. Oyunculardan Türkçe dil bilgisi ve yazım kurallarına özen göstermeleri beklenir. Yazım hataları, noktalama eksiklikleri veya özensiz mesajlar yalnızca bireysel rol kalitesini değil, sahnedeki tüm oyuncuların deneyimini olumsuz etkiler.
+> Fast Roleplay, metin tabanlı bir sunucudur. Bu nedenle oyuncuların kullandığı yazı dili, rol kalitesinin temel unsurlarından biridir. Yazılan her mesajın anlaşılır, akıcı ve Türkçe yazım kurallarına uygun olması zorunludur. Oyunculardan yalnızca ne yazdıklarına değil, nasıl yazdıklarına da özen göstermeleri beklenmektedir. Yazım ve noktalama kurallarına uygun olmayan mesajlar, sahnedeki diğer oyuncuların rol deneyimini doğrudan olumsuz etkileyebilir.
 
 Rol sırasında aşağıdaki kurallara uyulması zorunludur:
+
 - Cümleler büyük harfle başlamalı ve uygun noktalama işaretleri ile tamamlanmalıdır.
-- Özel isimler, şehir isimleri, kurum isimleri ve benzeri özel adlar büyük harfle yazılmalıdır.
-- "de" ve "da" bağlaçları, Türkçe yazım kurallarına uygun şekilde ayrı yazılmalıdır.
+- Özel isimler, şehirler, kurumlar ve benzeri özel adlar Türkçe yazım kurallarına uygun şekilde büyük harfle yazılmalıdır.
+- "de" ve "da" bağlaçları doğru kullanımına uygun olarak ayrı yazılmalıdır.
 - "mi, mı, mu, mü" soru ekleri ayrı yazılmalıdır.
 - Gerektiği durumlarda kesme işareti (') doğru şekilde kullanılmalıdır.
 - Türkçe karakterler (Ç, Ğ, İ, Ö, Ş, Ü) eksiksiz kullanılmalıdır.
-- Anlam bütünlüğünü bozacak seviyede yazım veya imla hataları yapılmamalıdır.
-- Rol mesajlarında internet dili, aşırı kısaltmalar veya argo yazım biçimleri kullanılmamalıdır. *(Örn: slm, nbr, mrb, tmm, knk, geliom, sew, qnq, aq vb.)*
+- Anlam bütünlüğünü bozacak seviyede yazım, imla veya noktalama hataları yapılmamalıdır.
+- İnternet dili, aşırı kısaltmalar veya rol atmosferini bozacak yazım biçimleri kullanılmamalıdır. *(Örn: slm, nbr, mrb, tmm, knk, geliom, sew, qnq, aq vb.)*
 
-**Emote kullanımı da belirli bir yazım düzenine tabidir.**
+### Emote Kullanımı
+
+Emote komutları da belirli bir yazım standardına tabidir.
+
 - `/me` komutundan sonra başlayan ifade küçük harfle başlamalıdır.
 - `/do` komutundan sonra başlayan ifade büyük harfle başlamalıdır.
+- Emote'lar, karakterin gerçekleştirebileceği gerçekçi eylemleri veya ortamı açıklamak amacıyla kullanılmalıdır. Emote aracılığıyla karşı tarafın eylemleri, duyguları veya kararları belirlenemez.
 
-Örnek kullanım:
-- /me cebinden anahtarını çıkarır.
-- /do Aracın kapısı kilitlidir.
+**Örnek kullanım:**
 
-Oyuncuların yazım kurallarına uymaması durumunda yönetim ekibi; oyuncuyu düzeltmesini isteyebilir, rolün yeniden yazılmasını talep edebilir veya ihlalin devam etmesi halinde gerekli yaptırımları uygulayabilir.
+- `/me cebinden anahtarını çıkarır.`
+- `/do Aracın kapısı kilitlidir.`
+
+Yönetim ekibi, okunabilirliği ciddi ölçüde bozan veya yazım kurallarını sürekli ihlal eden oyunculardan mesajlarını düzeltmelerini isteyebilir, rolün yeniden yazılmasını talep edebilir veya ihlalin devam etmesi hâlinde gerekli yaptırımları uygulayabilir.
+
+> Bu kuralın amacı kusursuz Türkçe kullanımını zorunlu kılmaktır ve Fast Roleplay'in en önem verdiği standartlar arasındadır.
 
 ---
 
 ## 18) Mikro Emote (Yetersiz Emote Kullanımı)
 
-Fast Roleplay'de yapılan her emote, rolün kalitesini artıracak ve sahnedeki oyuncuların olayları doğru şekilde canlandırabilmesini sağlayacak ayrıntıyı içermelidir. Tek kelimelik veya yetersiz açıklamalar içeren emote'lar, rol akışını olumsuz etkilediği gibi karşı tarafın sahneyi doğru yorumlamasını da zorlaştırmaktadır. Oyuncuların, gerçekleştirdikleri eylemleri mümkün olduğunca açık, anlaşılır ve yeterli detayla anlatmaları beklenmektedir.
+> Fast Roleplay'de kullanılan her emote, sahnede gerçekleşen eylemi açık, anlaşılır ve yeterli ayrıntıyla betimlemelidir. Emote'ların amacı yalnızca yapılan hareketi belirtmek değil; diğer oyuncuların karakterinizin ne yaptığını doğru şekilde hayal edebilmesini ve role sağlıklı şekilde tepki verebilmesini sağlamaktır. Yetersiz, tek kelimelik veya sahneyi açıklamayan emote'lar rol kalitesini düşürdüğü için kabul edilmez.
 
-Aşağıdaki emote örnekleri yetersiz (mikro) emote olarak değerlendirilir:
-- ❌ /me vurur.
-- ❌ /me alır.
-- ❌ /me bakar.
-- ❌ /me oturur.
-- ❌ /me koşar.
+Aşağıdaki emote örnekleri mikro emote (yetersiz emote) olarak değerlendirilir:
 
-Bu tür emote'lar yerine, yapılan eylemi açıklayan ve sahneyi betimleyen ifadeler kullanılmalıdır.
+- ❌ `/me çeker vurur.`
+- ❌ `/me alır.`
+- ❌ `/me bakar.`
+- ❌ `/me oturur.`
+- ❌ `/me koşar.`
 
-Doğru kullanım örnekleri:
+Bu tür emote'lar yerine, gerçekleştirilen eylemin nasıl yapıldığını ve sahneye nasıl yansıdığını açıklayan ifadeler kullanılmalıdır.
+
+**Doğru kullanım örnekleri:**
+
 - ✔ `/me sağ yumruğunu sıkarak Cleopatra'nın çene hizasına kontrollü bir kroşe savurur.`
-- ✔ `/me masanın üzerindeki araç anahtarını sağ eliyle kavrayıp cebine yerleştirir.`
-- ✔ `/me çevresini dikkatlice inceleyerek içeride bulunan kişileri süzmeye başlar.`
-- ✔ `/me sandalyeyi hafifçe geriye çekip üzerine oturur.`
+- ✔ `/me masanın üzerindeki araç anahtarını sağ eliyle kavrayıp ceketinin sağ cebine yerleştirir.`
+- ✔ `/me bulunduğu ortamı dikkatlice inceleyerek içeride bulunan kişileri tek tek süzmeye başlar.`
+- ✔ `/me sandalyeyi hafifçe geriye çekip üzerine kontrollü şekilde oturur.`
 - ✔ `/me bulunduğu noktadan hızla uzaklaşarak sokağın köşesine doğru koşmaya başlar.`
 
-Emote'lar gereksiz şekilde uzatılmamalı, ancak yapılan eylemi yeterli düzeyde açıklayacak ayrıntıyı içermelidir. Rol kalitesini düşüren, sürekli tekrar edilen veya sahneyi anlamayı zorlaştıran mikro emote kullanımları yönetim tarafından düşük kaliteli rol kapsamında değerlendirilebilir.
+Emote'lar gereksiz ayrıntılarla uzatılmamalı, ancak gerçekleştirilen eylemi karşı tarafın doğru şekilde anlayabileceği seviyede açıklamalıdır. Aynı şekilde emote'lar; karşı tarafın eylemlerini, tepkilerini veya kararlarını belirleyecek şekilde yazılamaz.
+
+> Bu kuralın amacı oyuncuları uzun emote yazmaya zorlamak değil; her eylemin anlaşılır, okunabilir ve rol kalitesini destekleyecek düzeyde betimlenmesini sağlamaktır. Sürekli mikro emote kullanımı, Fast Roleplay standartlarının altında rol yapmak olarak değerlendirilebilir.
 
 ---
 
 ## 19) Maske Kullanımı
 
-Fast Roleplay içerisinde kullanılan maske, kar maskesi, motosiklet kaskı veya yüzü büyük ölçüde kapatan diğer ekipmanlar; karakterin kimliğini gizlemek amacıyla kullanılabilir. Ancak maske kullanımı, karakteri tamamen tanınamaz veya tespit edilemez hâle getirmez. Maske kullanan karakterlerin yüz hatları doğrudan teşhis edilemez. Bununla birlikte karakterin boyu, kilosu, vücut yapısı, kıyafetleri, dövmeleri, konuşma şekli, aksanı ve diğer dikkat çekici fiziksel özellikleri rol içerisinde gözlemlenebilir ve hatırlanabilir.
+> Fast Roleplay'de kullanılan kar maskesi, motosiklet kaskı veya yüzü büyük ölçüde kapatan diğer ekipmanlar, karakterin kimliğini gizlemeye yardımcı olabilir. Ancak maske kullanımı karakteri tamamen tanınamaz veya tespit edilemez hâle getirmez. Maske yalnızca yüz hatlarının doğrudan teşhis edilmesini zorlaştırır; karakterin boyu, kilosu, vücut yapısı, yürüyüşü, konuşma tarzı, aksanı, dövmeleri, kıyafetleri ve diğer ayırt edici özellikleri rol içerisinde gözlemlenebilir, tarif edilebilir ve hatırlanabilir.
 
-Toplum düzeni ve kamu güvenliği gereği, yüzü tamamen kapatan maske veya benzeri ekipmanlarla bazı alanlarda bulunulması gerçekçi değildir. Bu nedenle aşağıdaki bölgelerde yüzü tamamen kapatan maske, kar maskesi veya benzeri ekipmanların kullanılması yasaktır:
-- Hastaneler, Polis merkezleri, Devlet kurumları ve resmî binalar, Bankalar, Aktif işletmeler, Etkinlik alanları, Kalabalık organizasyonlar, Güvenli Bölge kapsamında değerlendirilen diğer tüm alanlar.
+Şehir yaşamının doğal düzeni ve kamu güvenliği gereği, yüzü tamamen kapatan ekipmanlarla belirli alanlarda bulunmak gerçekçi değildir. Bu nedenle aşağıdaki bölgelerde, geçerli bir rol gerekçesi bulunmadığı sürece maske kullanılması yasaktır:
 
-Bu alanlara maskeli şekilde giriş yapılabilmesi yalnızca devam eden ve makul bir rol senaryosunun parçası olması hâlinde mümkündür. *(Örneğin; banka soygunu, rehine olayı veya benzeri yönetim kurallarına uygun suç senaryoları.)*
+- Hastaneler
+- Polis merkezleri
+- Devlet kurumları ve resmî binalar
+- Bankalar
+- Aktif işletmeler
+- Etkinlik alanları
+- Kalabalık organizasyonlar
+- Güvenli Bölge kapsamında değerlendirilen diğer tüm alanlar
+
+Bu bölgelere maskeli şekilde giriş yapılabilmesi yalnızca devam eden ve gerçekçi bir rol senaryosunun parçası olması hâlinde mümkündür. *(Örneğin; banka soygunu, rehine olayı veya yönetim tarafından uygun görülen benzeri suç senaryoları.)*
 
 Aşağıdaki davranışlar kural ihlali olarak değerlendirilir:
+
 - Günlük yaşam içerisinde sürekli yüzü kapalı şekilde dolaşmak.
-- Güvenli bölgelerde veya aktif işletmelerde rol gerekçesi olmaksızın maske kullanmak.
-- Maske kullanımını yalnızca kimliğini gizlemek amacıyla sürekli aktif tutmak.
+- Güvenli bölgelerde veya aktif işletmelerde geçerli bir rol gerekçesi olmaksızın maske kullanmak.
+- Maskeyi yalnızca kimliğini sürekli gizlemek amacıyla kullanmak.
 - Maske taktığı gerekçesiyle karakterinin hiçbir şekilde teşhis edilemeyeceğini iddia etmek.
+- Rol içerisinde fark edilebilecek fiziksel özelliklerini yok saymak veya başkalarının bu özellikleri hatırlayamayacağını öne sürmek.
 
-Maske, yalnızca yüz hatlarının doğrudan teşhis edilmesini zorlaştırır. Bunun dışında kalan tüm gözlemler, tanık ifadeleri ve rol içerisinde elde edilen deliller geçerliliğini korur. Bu kuralın amacı; maske kullanımını gerçekçilik çerçevesinde değerlendirmek, şehir yaşamının doğal düzenini korumak ve maske kullanımının oyun mekaniği avantajı elde etmek amacıyla kullanılmasının önüne geçmektir.
+Maske kullanımı yalnızca yüz tanınmasını zorlaştırır; bunun dışında rol sırasında elde edilen tanık ifadeleri, fiziksel gözlemler ve diğer deliller geçerliliğini korur.
 
----
+> Bu kuralın amacı maske kullanımını yasaklamak değil; gerçekçi sınırlar içerisinde değerlendirmek, şehir yaşamının doğal düzenini korumak ve maske kullanımının oyun mekaniği avantajı elde etmek amacıyla kullanılmasını önlemektir.
 
-## 20) Maskeli Kişilerin Kimlik Tespiti
+### Maskeli Kişilerin Kimlik Tespiti
 
-Fast Roleplay'de bir karakterin kimliğinin tespit edilmesi, yalnızca rol içerisinde makul ve gerçekçi gerekçelere dayanmalıdır. Oyuncuların, kısa süreli gözlemlerden veya yetersiz ipuçlarından kesin teşhis yapmaları rol gerçekçiliğini zedeler.
+> Fast Roleplay'de bir karakterin kimliğinin tespit edilebilmesi, yalnızca rol içerisinde elde edilen yeterli ve gerçekçi delillere dayanmalıdır. Oyuncuların yetersiz gözlemler veya varsayımlar üzerinden kesin teşhis yapmaları, rol bütünlüğünü ve gerçekçiliğini zedeler.
 
-Bir karakterin yüzü tamamen veya büyük ölçüde gizlenmişse, yalnızca kıyafetinden, yürüyüşünden, sesinden, boyundan veya benzeri tek bir unsurdan kesin kimlik tespiti yapılamaz. Bu tür unsurlar, karakter hakkında yalnızca tahminde bulunulmasını sağlayabilir. Bir karakterin kimliğinin kesin olarak tespit edilebilmesi için rol içerisinde yeterli ve makul delillerin oluşmesi gerekmektedir.
+Yüzü tamamen veya büyük ölçüde kapatılmış bir karakter; yalnızca sesi, boyu, kilosu, yürüyüşü, kıyafeti, dövmeleri veya benzeri tek bir fiziksel özelliği dikkate alınarak kesin olarak teşhis edilemez. Bu tür unsurlar, karakter hakkında yalnızca şüphe oluşturabilir veya tahminde bulunulmasını sağlayabilir.
 
 Aşağıdaki davranışlar kural ihlali olarak değerlendirilir:
+
 - Maskeli veya yüzü gizlenmiş bir karakteri yalnızca sesinden kesin olarak teşhis etmek.
-- Karakteri yalnızca kıyafetinden, saçından, dövmesinden veya fiziksel özelliklerinden kesin olarak tanımak.
-- Kısa süreli bir karşılaşma sonrasında karakterin kimliğini kesin olarak bildiğini iddia etmek.
-- OOC bilgileri kullanarak karakter kimliğini role yansıtmak.
+- Karakteri yalnızca kıyafetinden, boyundan, yürüyüşünden, saçından, dövmesinden veya benzeri fiziksel özelliklerinden kesin olarak tanımak.
+- Kısa süreli veya yetersiz bir karşılaşma sonrasında karakterin kimliğini kesin olarak bildiğini iddia etmek.
+- Rol içerisinde elde edilmeyen veya OOC yollarla öğrenilen bilgileri kullanarak kimlik tespiti yapmak.
 
 Aşağıdaki durumlar ise kimlik tespiti için geçerli gerekçeler oluşturabilir:
-- Karakterin yüzünün açık ve yeterli süre boyunca net şekilde görülmesi.
-- Kimliğin rol içerisinde resmî belgeler, tanık ifadeleri veya diğer makul yöntemlerle doğrulanması.
-- Rol akışı boyunca birden fazla somut delilin aynı karakteri işaret etmesi.
 
-Maskeli bir karakterin boyu, kilosu, yürüyüşü veya kıyafetleri hatırlanabilir; ancak bu özellikler tek başına kesin kimlik tespiti için yeterli değildir.
+- Karakterin yüzünün yeterli süre boyunca açık ve net şekilde görülmesi.
+- Kimliğin rol içerisinde resmî belgeler, güvenlik kayıtları, tanık ifadeleri veya benzeri makul delillerle doğrulanması.
+- Rol süreci boyunca birbirini destekleyen birden fazla somut delilin aynı karakteri işaret etmesi.
+
+Maskeli bir karakterin fiziksel özellikleri, giyim tarzı veya davranışları hatırlanabilir ve daha sonraki rollerde değerlendirilebilir. Ancak bu unsurlar, tek başına kesin kimlik tespiti için yeterli kabul edilmez. Kimlik tespiti; elde edilen delillerin bütünü değerlendirilerek yapılmalıdır.
+
+> Bu kuralın amacı, maske kullanımını mutlak anonimlik sağlayan bir mekanik hâline getirmek veya kimlik tespitini tamamen imkânsız kılmak değildir. Amaç; teşhis süreçlerinin varsayımlarla değil, gerçekçi rol gelişimi ve somut deliller doğrultusunda ilerlemesini sağlamaktır.
 
 ---
 
-## 21) Alt Karakter Kuralları
+## 20) Alt Karakter Kuralları
 
-Fast Roleplay'de her karakter, birbirinden tamamen bağımsız bir birey olarak değerlendirilir. Aynı oyuncuya ait olmaları, karakterler arasında herhangi bir bağ bulunduğu anlamına gemez. Oyuncuların sahip olduğu tüm karakterler; bilgi, mal varlığı, ilişkiler ve hikâye bakımından birbirinden tamamen bağımsız olmalıdır.
+> Fast Roleplay'de her karakter, birbirinden tamamen bağımsız bir birey olarak değerlendirilir. Aynı oyuncuya ait olmaları, karakterler arasında herhangi bir bağ bulunduğu anlamına gelmez. Oyuncuların sahip olduğu tüm karakterler; bilgi, mal varlığı, ilişkiler, organizasyon bağlantıları ve hikâye bakımından tamamen bağımsız olmak zorundadır.
 
-Bir karakter tarafından edinilen oyun içi bilgiler, diğer karakterler tarafından hiçbir şekilde kullanılamaz. Aynı şekilde karakterler arasında doğrudan veya dolaylı şekilde avantaj sağlamaya yönelik davranışlarda bulunulması yasaktır.
+Bir karakter tarafından edinilen oyun içi bilgiler, diğer karakterler tarafından hiçbir şekilde kullanılamaz. Aynı şekilde karakterler arasında doğrudan veya dolaylı şekilde avantaj sağlamaya yönelik her türlü davranış kural ihlali olarak değerlendirilir.
 
-Aşağıdaki davranışlar kural ihlali olarak değerlendirilir:
+Aşağıdaki davranışlar kesin olarak yasaktır:
+
 - Bir karakterle edinilen bilgileri başka bir karaktere aktarmak veya kullanmak.
-- Karakterler arasında para, araç, eşya veya mal varlığı transferi yapmak.
-- Aynı oyuncuya ait karakterleri birbirlerine avantaj sağlayacak şekilde kullanmak.
-- Bir karakterin ilişkilerini, bağlantılarını veya itibarını diğer karaktere taşımak.
-- Aynı oyuncuya ait farklı karakterleri kullanarak aynı olay veya organizasyon üzerinde avantaj elde etmeye çalışmak.
-- Bir karakterin yaşadığı olumsuz sonuçlardan kaçınmak amacıyla başka bir karaktere geçiş yapmak.
+- Karakterler arasında para, araç, eşya, mülk veya diğer mal varlıklarını doğrudan ya da dolaylı şekilde transfer etmek.
+- Aynı oyuncuya ait karakterleri birbirlerine ekonomik, sosyal veya organizasyonel avantaj sağlayacak şekilde kullanmak.
+- Bir karakterin sahip olduğu ilişkileri, bağlantıları, itibarı veya nüfuzu diğer karaktere taşımak.
+- Aynı oyuncuya ait farklı karakterlerle aynı olay, organizasyon veya hikâye üzerinde avantaj elde etmeye çalışmak.
+- Bir karakterin karşılaştığı olumsuz sonuçlardan kaçınmak amacıyla başka bir karaktere geçiş yapmak.
+- Aynı organizasyon, oluşum veya hikâye içerisinde birden fazla karakter bulundurarak bilgi veya avantaj elde etmek.
+- Devam eden bir rolü, çatışmayı veya soruşturmayı farklı bir karakterle sürdürmeye çalışmak.
 
-Her karakter, kendi hikâyesini, çevresini, ekonomik durumunu ve sosyal ilişkilerini rol içerisinde bağımsız olarak oluşturmalıdır. Bir karakterin yaptığı eylemler veya aldığı kararlar, diğer karakterleri etkilemez. Yönetim ekibi, alt karakterlerin sunucu ekonomisini, organizasyon düzenini veya rol bütünlüğünü olumsuz etkileyecek şekilde kullanıldığını tespit etmesi hâlinde gerekli yaptırımları uygulama hakkına sahiptir.
+Her karakter; kendi hikâyesini, sosyal çevresini, ekonomik durumunu ve ilişkilerini rol içerisinde bağımsız olarak oluşturmalıdır. Bir karakterin yaşadığı olaylar veya aldığı kararlar, diğer karakterler için doğrudan bir bilgi veya avantaj oluşturmaz.
 
-# Son Hükümler, Değişiklik Hakları ve Yükümlülük
+Yönetim ekibi, alt karakterlerin sunucu ekonomisini, organizasyon düzenini veya rol bütünlüğünü olumsuz etkileyecek şekilde kullanıldığını tespit etmesi hâlinde gerekli yaptırımları uygulama hakkını saklı tutar.
 
-> Bu dokümanda yer alan tüm kurallar, Fast Roleplay sunucusundaki adil, gerçekçi ve saygılı rol ortamının korunması amacıyla dinamik olarak yürütülmektedir.
+> Bu kuralın amacı, her karakterin kendi hikâyesini bağımsız şekilde yaşayabilmesini sağlamak, çoklu karakter kullanımından doğabilecek haksız avantajları önlemek ve rol bütünlüğünü korumaktır.
 
-- Hesap başvurusu onaylanmış her oyuncu, bu kuralların tamamını okumuş, anlamış ve kayıtsız şartsız kabul etmiş sayılır. "Kuralı bilmiyordum" veya "Gözümden kaçmış" gibi gerekçeler hiçbir koşulda bir mazeret olarak kabul edilmez.
-- Yönetim ekibi; sunucu dinamikleri, topluluk ihtiyaçları veya rol kalitesini artırma hedefleri doğrultusunda bu kuralları önceden haber vermeksizin değiştirme, güncelleme veya yeni maddeler ekleme hakkını saklı tutar. Oyuncular, kurallardaki güncellemeleri ve duyuruları düzenli olarak takip etmekle yükümlüdür.
-- Fast Roleplay yönetiminin temel gayesi cezalandırmak değil; herkes için sürdürülebilir, kaliteli ve keyifli bir hikaye evreni inşa etmektir. Kuralların yazılı metninden ziyade rolün ruhuna ve karşılıklı saygı esasına odaklanmanız, topluluğumuzun en büyük önceliğidir.
+## 21) Rolden Kaçmak
+
+> Fast Roleplay'de başlayan her rol, tüm taraflar için sonuçlanana kadar devam ettirilmelidir. Oyuncuların, karakterlerinin karşılaşacağı olumsuz sonuçlardan kaçınmak amacıyla rolü kasıtlı olarak terk etmesi, bağlantısını kesmesi veya farklı yöntemlerle rol sürecini sonlandırması rol bütünlüğünü bozan ağır bir kural ihlalidir.
+
+Aşağıdaki davranışlar rolden kaçmak kapsamında değerlendirilir:
+
+- Devam eden bir rol sırasında oyundan kasıtlı olarak çıkış yapmak.
+- Rol sürecinden kaçınmak amacıyla bağlantısını bilinçli şekilde kesmek veya internet bağlantısını sonlandırmak.
+- Karakterini güvenli bir konuma ulaştırmak veya olumsuz sonuçlardan kurtarmak amacıyla oyundan ayrılmak.
+- Yönetim tarafından devam ettirilmesi istenen bir rolü gerekçesiz şekilde terk etmek.
+- Devam eden rolü sonlandırmak amacıyla karakter değiştirmek veya farklı yöntemlerle rol sürecinden kaçınmaya çalışmak.
+
+Bağlantı kopması, oyun çökmesi, elektrik kesintisi veya benzeri teknik sorunlar yaşanabilir. Bu gibi durumlarda oyuncuların, maksimum 10 dakika içerisinde sunucuya yeniden bağlanarak kaldıkları rolü sürdürmeleri beklenmektedir. Teknik sorunun bu süre içerisinde giderilememesi hâlinde oyuncu, durumu resmî iletişim kanalları üzerinden rolün diğer tarafına veya gerekli durumlarda yönetim ekibine bildirmekle yükümlüdür. Teknik sorun ortadan kalktıktan sonra, ilk uygun fırsatta sunucuya giriş yapılarak yarım kalan rolün devam ettirilmesi talep edilmelidir. Teknik sorunları rolün olumsuz sonuçlarından kaçınmak amacıyla kullanmak veya mazeret göstermek ağır kural ihlali olarak değerlendirilir.
+
+---
+
+## 22) Korku Rolleri, Yaşamın Değeri (FearRP)
+
+> Fast Roleplay'de her karakter kendi yaşamını koruma içgüdüsüne sahiptir. Karakterler, karşı karşıya kaldıkları tehlikeleri gerçekçi şekilde değerlendirmeli ve can güvenliklerini ön planda tutmalıdır. Karakterin bulunduğu durumun oluşturduğu riskleri tamamen yok sayması veya yalnızca oyun mekaniklerine güvenerek hayatını hiçe sayacak davranışlarda bulunması Fear RP ihlali olarak değerlendirilir.
+
+Aşağıdaki davranışlar FearRP ihlali kapsamında değerlendirilir:
+
+- Silahlı veya açık şekilde üstün konumdaki kişilere makul bir gerekçe olmaksızın meydan okumak.
+- Sayıca veya ekipman bakımından belirgin şekilde üstün gruplara hiçbir korku belirtisi göstermeden karşı koymak.
+- Karakterin hayatını ciddi şekilde tehlikeye atacak davranışları, gerçekçi bir gerekçe olmaksızın gerçekleştirmek.
+- Esir alınmış, rehin tutulmuş veya etkisiz hâle getirilmiş olmasına rağmen durumu yok sayarak hareket etmek.
+- Ağır yaralanmasına rağmen hiçbir fiziksel veya psikolojik etkilenme yaşamamış gibi davranmak.
+- Can güvenliğini hiçe sayarak yalnızca oyun içi avantaj elde etmeye yönelik kararlar almak.
+
+Korku Rolleri, karakterin her durumda teslim olması gerektiği anlamına gelmez. Karakterler, içinde bulundukları koşullara göre kaçmayı deneyebilir, uygun fırsatlarda karşılık verebilir veya farklı çözümler üretebilir. Ancak alınan kararların karakterin hayatta kalma içgüdüsüyle ve olayın gerçekçiliğiyle uyumlu olması beklenmektedir.
+
+---
+
+## 23) Devlet Görevlilerine Karşı Davranış Kuralları
+
+> Fast Roleplay'de devlet görevlileri (LSPD, LSSD, LSFD, PHMC, DOJ ve diğer resmî kurum personelleri), görevlerini yerine getirirken kamu düzenini temsil etmektedir. Devlet görevlilerine yönelik gerçekleştirilen tüm rol senaryoları gerçekçi, saygılı ve hikâye odaklı olmalıdır. Oyuncuların yalnızca aksiyon üretmek, görevlileri provoke etmek veya rol ortamını sabote etmek amacıyla hareket etmesi kabul edilmez.
+
+Aşağıdaki davranışlar kesin olarak yasaktır:
+
+- Geçerli bir rol gerekçesi olmaksızın devlet görevlilerine saldırmak, tehdit etmek veya onları sürekli hedef almak.
+- Devlet görevlilerine karşı yalnızca aksiyon üretmek amacıyla suç senaryoları oluşturmak.
+- Görevini yapan devlet personeline OOC veya IC olarak toksik davranışlarda bulunmak, alay etmek, küçümsemek veya sürekli sözlü sataşmalarla rol ortamını bozmak.
+- Polis merkezleri, sorgu odaları, hastaneler veya diğer resmî kurumlarda gerçekçilikten uzak şekilde taşkınlık çıkarmak, sürekli hakaret etmek veya bulunduğu ortamın ciddiyetini yok saymak.
+- Gözaltı, sorgu, tutuklama veya tedavi süreçlerini kasıtlı olarak sabote etmek, rolün ilerlemesini engellemek veya görevlilerin görevlerini yerine getirmesine bilinçli şekilde engel olmak.
+- Hastane personeline veya kolluk kuvvetlerine, gerçekçi bir rol gerekçesi olmaksızın sürekli zorluk çıkarmak veya provokatif davranışlar sergilemek.
+- Devlet görevlilerini yalnızca kişisel husumet nedeniyle sürekli hedef almak veya aynı olay zincirini tekrar tekrar oluşturmaya çalışmak.
+
+Devlet görevlileriyle gerçekleştirilen tüm etkileşimlerde oyuncuların bulundukları ortamın ciddiyetine uygun davranmaları beklenmektedir. Polis merkezleri, sorgu odaları, hastaneler ve diğer resmî kurumlar; günlük sokak ortamından farklı güvenlik ve disiplin standartlarına sahiptir. Karakterler bu ortamların gerektirdiği davranış biçimini role yansıtmalıdır.
+
+Devlet görevlilerinin görevleri kapsamında gerçekleştirdiği rutin işlemler (kimlik kontrolü, üst araması, trafik çevirmesi, gözaltı, tutuklama, ceza yazılması, ifade alma, mahkeme süreci vb.) tek başına düşmanlık veya husumet gerekçesi oluşturmaz. Bir karakter, yalnızca görevini yerine getirdiği için bir devlet görevlisine kin besleyemez, onu hedef alamaz veya intikam amacıyla hareket edemez. Devlet görevlilerine yönelik husumet yalnızca görev sınırlarını aşan, olağanüstü ve rol içerisinde gelişen makul olaylar sonucunda oluşabilir.
+
+- Aynı şekilde devlet görevlileri de görevleri sırasında karşılaştıkları kişilere kişisel husumet besleyemez, görevlerini kişisel çıkarları doğrultusunda kullanamaz veya görev dışında resmî yetkilerini kullanarak intikam almaya yönelik davranışlarda bulunamaz. Devlet görevlileri ile siviller arasındaki tüm husumetler, görev kapsamında yaşanan rutin işlemlerden değil; rol içerisinde gelişen olağanüstü ve makul olaylardan doğmalıdır.
+
+---
+
+# Son Hükümler, Değişiklik Hakları ve Oyuncu Yükümlülükleri
+
+> Bu dokümanda yer alan kurallar, Fast Roleplay'de adil, gerçekçi ve yüksek kaliteli bir Roleplay ortamını korumak amacıyla hazırlanmıştır. Kurallar yalnızca belirli davranışları sınırlandırmayı değil, aynı zamanda sunucunun temel rol standartlarını ve topluluk kültürünü sürdürülebilir kılmayı hedeflemektedir.
+
+- Hesap başvurusu onaylanan her oyuncu; bu kuralların tamamını okumuş, anlamış ve kabul etmiş sayılır. Kuralların bilinmemesi, yanlış yorumlanması veya gözden kaçırılması hiçbir koşulda mazeret olarak kabul edilmez.
+- Fast Roleplay yönetim ekibi; sunucunun ihtiyaçları, topluluk yapısı ve rol kalitesinin korunması doğrultusunda bu kuralları değiştirme, güncelleme, kaldırma veya yeni kurallar ekleme hakkını saklı tutar. Oyuncuların yapılan duyuru ve güncellemeleri düzenli olarak takip etmesi kendi sorumluluğundadır.
+- Bu dokümanda yer almayan ancak rol bütünlüğünü, sunucu ekonomisini, topluluk düzenini veya oyuncu deneyimini olumsuz etkileyen davranışlar da, yönetim ekibi tarafından Fast Roleplay standartları kapsamında değerlendirilebilir. Kuralların açıklarını kullanmaya veya kuralların amacını dolanmaya yönelik girişimler, yazılı kural ihlaliyle eşdeğer şekilde değerlendirilir.
+- Fast Roleplay yönetiminin temel amacı oyuncuları cezalandırmak değil; kaliteli, sürdürülebilir ve herkes için adil bir Roleplay ortamı oluşturmaktır. Oyunculardan yalnızca kuralların yazılı hâline değil, kuralların amacına ve rolün ruhuna uygun şekilde hareket etmeleri beklenmektedir.
+
+> Fast Roleplay, kaliteli Roleplay'in yalnızca kurallarla değil; oyuncuların sağduyusu, karşılıklı saygısı ve ortak sorumluluk anlayışıyla mümkün olduğuna inanır. Bu nedenle tüm oyuncuların, topluluğun gelişimine katkı sağlayacak şekilde hareket etmesi ve rol kalitesini her zaman ön planda tutması beklenmektedir.
 
 ---

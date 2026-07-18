@@ -1,5 +1,5 @@
-<h1><img src="https://i.hizliresim.com/8fj5f8v.png" width="60"> Property Management</h1>
 
+![alt text](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/pmlogo.png)
 Los Santos genelinde satın alınabilir veya kiralanabilir mülkler için kullanılabilir iç mekan seçenekler ve galeride satışı olmayan araçlar bu katalog altında listelenmektedir.
 
 Property Management Departmanı tarafından yönetilen bu sistem, oyuncuların karakter hikâyelerine ve kullanım amaçlarına uygun mülkleri seçebilmelerini amaçlamaktadır. Tüm rezidanslar, garajlar, ofisler, depolar ve işletmeler aşağıda kategorilere ayrılmış şekilde sunulmuştur.
