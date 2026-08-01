@@ -648,3 +648,5 @@ Kapalı alanlarda veya yalnızca ilgili oyuncuların bulunduğu sahnelerde gerç
 > Fast Roleplay'de kaliteli rol sahneleri; yalnızca kurallara uymakla değil, oyuncuların sağduyusu, karşılıklı saygısı ve ortak sorumluluk anlayışıyla mümkündür. Bu nedenle tüm oyuncuların, topluluğun gelişimine katkı sağlayacak şekilde hareket etmesi ve her sahnede rol kalitesini ön planda tutması beklenmektedir. Çünkü iyi bir rol; kazanmakla değil, başka insanlarla birlikte hikâyeler yazabilmekle ölçülür. Fast Roleplay'in temel amacı da tam olarak budur.
 
 Son Güncelleme: 01.08.2026
+
+---
