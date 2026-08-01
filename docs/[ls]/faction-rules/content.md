@@ -4,15 +4,15 @@
 
 > Bu madde, kuralların nasıl yorumlanıp uygulanacağını oyuncuların net şekilde anlayabilmesi amacıyla oluşturulmuştur
 
-Fast'in temel amacı, yalnızca kurallara uyulan değil; gerçekçi, tutarlı ve uzun soluklu hikâyelerin oluşturulduğu kaliteli bir Roleplay ortamı sağlamaktır. Bu nedenle oyunculardan yalnızca yazılı kurallara uymaları değil, aynı zamanda kuralların amacını ve sunucunun rol anlayışını benimseyerek hareket etmeleri beklenmektedir.
+Fast'in temel amacı, yalnızca kurallara uyulan değil; gerçekçi, tutarlı ve uzun soluklu hikâyelerin oluşturulduğu kaliteli bir rol ortamı sağlamaktır. Bu nedenle oyunculardan yalnızca yazılı kurallara uymaları değil, aynı zamanda kuralların amacını ve sunucunun rol anlayışını benimseyerek hareket etmeleri beklenmektedir.
 
-Fast Roleplay bünyesinde karakter oluşturan her oyuncu, karakter başvurusu sırasında verdiği cevapları bildiğini, bu cevaplara uygun şekilde rol yapacağını ve sunucunun belirlediği Roleplay standartlarını kabul ettiğini beyan etmiş sayılır. Yönetim ekibi, standartların altında kalan rol anlayışını geliştirmek amacıyla oyuncuları yönlendirebilir ve gerekli gördüğü durumlarda yaptırım uygulayabilir.
+Fast Roleplay bünyesinde karakter oluşturan her oyuncu, karakter başvurusu sırasında verdiği cevapları bildiğini, bu cevaplara uygun şekilde rol yapacağını ve sunucunun belirlediği rol standartlarını kabul ettiğini beyan etmiş sayılır. Yönetim ekibi, standartların altında kalan rol anlayışını geliştirmek amacıyla oyuncuları yönlendirebilir ve gerekli gördüğü durumlarda yaptırım uygulayabilir.
 
 Tüm olası ihlallerin yazılı kurallarla tek tek örneklendirilmesi mümkün değildir. Bu nedenle bir davranışın kurallarda açıkça yasaklanmamış olması, o davranışın serbest olduğu anlamına gelmez. Kuralların açıklarını kullanarak avantaj sağlamaya çalışmak, kuralların ruhunu dolanmak veya sunucunun gerçekçilik anlayışına zarar veren davranışlar yönetici inisiyatifi kapsamında değerlendirilir.
 
-Yönetim ekibi, başka oyuncuların oyun deneyimini olumsuz etkileyen, rol kalitesini düşüren veya sunucunun hedeflediği gerçekçi Roleplay atmosferiyle bağdaşmayan davranışlara, yazılı kuralların kapsamına girsin veya girmesin müdahale etme hakkını saklı tutar. Yönetici inisiyatifi her zaman kişisel görüş doğrultusunda değil; adalet, tutarlılık, rol kalitesi ve sunucunun genel çıkarları gözetilerek kullanılır.
+Yönetim ekibi, başka oyuncuların oyun deneyimini olumsuz etkileyen, rol kalitesini düşüren veya sunucunun hedeflediği gerçekçi rol atmosferiyle bağdaşmayan davranışlara, yazılı kuralların kapsamına girsin veya girmesin müdahale etme hakkını saklı tutar. Yönetici inisiyatifi her zaman kişisel görüş doğrultusunda değil; adalet, tutarlılık, rol kalitesi ve sunucunun genel çıkarları gözetilerek kullanılır.
 
-Fast Roleplay'de amaç, her koşulda kazanmak değil; karakterlerin doğal gelişimini esas alan, başarının da başarısızlığın da hikâyeye katkı sağladığı gerçekçi bir Roleplay deneyimi oluşturmaktır. Oyunculardan, kendi çıkarlarından önce rolün bütünlüğünü ve sahnenin kalitesini ön planda tutmaları beklenmektedir.
+Fast Roleplay'de amaç, her koşulda kazanmak değil; karakterlerin doğal gelişimini esas alan, başarının da başarısızlığın da hikâyeye katkı sağladığı gerçekçi bir rol deneyimi oluşturmaktır. Oyunculardan, kendi çıkarlarından önce rolün bütünlüğünü ve sahnenin kalitesini ön planda tutmaları beklenmektedir.
 
 Hiçbir oyuncu, kurallarda açıkça belirtilmeyen bir davranışı iyi niyet ilkesine aykırı şekilde yorumlayarak kendisine avantaj sağlayamaz. Kuralların amacı, yalnızca ihlalleri listelemek değil; Fast Roleplay'in gerçekçilik ve rol kalitesi standartlarını korumaktır.
 
@@ -62,20 +62,20 @@ Bu kuralların temel amacı; herkesin eşit şartlarda, dengeli ve sürükleyici
 - Kolluk kuvvetlerinden veya diğer karakterlerden kaçarken yalnızca oyun mekaniklerinden faydalanarak gerçek dışı sürüş teknikleri kullanmak, araçları fizik kurallarını yok sayacak şekilde değerlendirmek veya aracın dayanıklılığını insanüstü seviyede varsaymak rol bütünlüğünü zedeler.
 - Polis kovalamacaları veya acil durumlar, trafik kurallarının tamamen yok sayılabileceği anlamına gelmez. Karakterler içinde bulundukları durumun aciliyetine göre risk alabilir; ancak bu riskler gerçekçi sınırlar içerisinde kalmalı, araçlarını ve kendi hayatlarını değersiz görüyormuş gibi davranmamalıdır.
 
-Araç kullanımı yalnızca bir ulaşım yöntemi değil, Roleplay'in önemli bir parçasıdır. Oyunculardan; kullandıkları aracın performansını, çevre koşullarını, trafik kurallarını ve karakterlerinin can güvenliğini göz önünde bulundurarak gerçekçi sürüş sergilemeleri beklenmektedir.
+Araç kullanımı yalnızca bir ulaşım yöntemi değil, rol sahnelerinin önemli bir parçasıdır. Oyunculardan; kullandıkları aracın performansını, çevre koşullarını, trafik kurallarını ve karakterlerinin can güvenliğini göz önünde bulundurarak gerçekçi sürüş sergilemeleri beklenmektedir.
 
 ---
 
 ## 3) Metagaming, Karakter-Oyuncu Ayrımı
 
-> Oyun içi (IC) ve oyun dışı (OOC) süreçlerin birbirinden kesin olarak ayrılması, gerçekçi ve adil bir Roleplay ortamının temel şartlarından biridir. Her karakter yalnızca kendi yaşadığı, gözlemlediği, araştırdığı veya rol içerisinde doğal yollarla öğrendiği bilgiler doğrultusunda hareket edebilir. Oyuncunun sahip olduğu bilgi ile karakterinin sahip olduğu bilgi birbirinden bağımsızdır. Bu ayrımı ihlal eden her davranış Metagaming kapsamında değerlendirilir.
+> Oyun içi (IC) ve oyun dışı (OOC) süreçlerin birbirinden kesin olarak ayrılması, gerçekçi ve adil bir rol ortamının temel şartlarından biridir. Her karakter yalnızca kendi yaşadığı, gözlemlediği, araştırdığı veya rol içerisinde doğal yollarla öğrendiği bilgiler doğrultusunda hareket edebilir. Oyuncunun sahip olduğu bilgi ile karakterinin sahip olduğu bilgi birbirinden bağımsızdır. Bu ayrımı ihlal eden her davranış Metagaming kapsamında değerlendirilir.
 
 - Hiçbir oyuncu; Discord, sosyal medya, özel mesajlar, yayınlar, arkadaş sohbetleri veya oyun dışındaki herhangi bir iletişim kanalı üzerinden elde ettiği bilgileri karakterinin biliyormuş gibi kullanamaz. Aynı şekilde oyun içerisinde edinilen bilgilerin oyun dışına taşınarak avantaj sağlanması da yasaktır.
 - Oyun dışı iletişim kanalları kullanılarak rol içerisinde avantaj elde edilmeye çalışılamaz. Bir oyuncunun konumunu sormak, devam eden bir rolün sonucunu öğrenmek, bir karakterin planlarını rol dışında araştırmak veya henüz rol içerisinde ortaya çıkmamış bilgileri öğrenmeye çalışmak bu kapsamda değerlendirilir.
 - Devam eden veya tamamlanmış bir rolün gidişatını değiştirmek, yönlendirmek ya da sonucunu etkilemek amacıyla OOC iletişim kurulması yasaktır. Oyuncular arasında yapılan OOC anlaşmalar, baskılar veya yönlendirmeler rolün doğal akışına müdahale olarak değerlendirilir.
 - Oyun dışı arkadaşlıklar, husumetler veya kişisel ilişkiler karakter davranışlarını etkileyemez. Aynı şekilde oyun içerisinde yaşanan olaylar da oyun dışındaki iletişime taşınamaz. Oyuncular, karakterlerini kendi duygularından ve kişisel ilişkilerinden bağımsız olarak yönetmekle yükümlüdür.
 - Bir karakterin sahip olmadığı bilgiye dayanarak hareket etmek, olaylara hazırlıklı olmak, risklerden kaçınmak veya avantaj elde etmek Metagaming kapsamında değerlendirilir. Karakteriniz, yalnızca rol içerisinde ulaşabileceği bilgilere göre karar vermelidir.
-> Bu kuralın amacı; tüm oyuncuların eşit şartlarda, sürprizlerin, araştırmanın ve doğal hikâye akışının korunabildiği bir Roleplay ortamı oluşturmaktır. IC ve OOC ayrımının korunması yalnızca bir kural değil, kaliteli Roleplay'in temel prensiplerinden biridir. Bu ayrımı bilinçli veya ihmal sonucu ihlal eden davranışlar ciddi kural ihlali olarak değerlendirilir.
+> Bu kuralın amacı; tüm oyuncuların eşit şartlarda, sürprizlerin, araştırmanın ve doğal hikâye akışının korunabildiği bir rol ortamı oluşturmaktır. IC ve OOC ayrımının korunması yalnızca bir kural değil, kaliteli rolün temel prensiplerinden biridir. Bu ayrımı bilinçli veya ihmal sonucu ihlal eden davranışlar ciddi kural ihlali olarak değerlendirilir.
 
 ---
 
@@ -121,7 +121,7 @@ Devam eden bir çatışmaya, karakterinizin rol içerisinde makul şekilde haber
 
 ## 6) Düşmanlık Gerekçeleri, Ofansif Roller ve Kısıtlamaları
 
-> Fast Roleplay'de karakterler arasında düşmanlık, tehdit, baskı, hakaret veya psikolojik üstünlük kurmaya yönelik etkileşimler Roleplay'in doğal bir parçasıdır. Ancak bu etkileşimlerin tamamı karakter motivasyonuna, gelişen olaylara ve gerçekçi gerekçelere dayanmalıdır. Hiçbir oyuncu, yalnızca karşı tarafı rahatsız etmek, küçük düşürmek veya oyun deneyimini olumsuz etkilemek amacıyla rol gerçekleştiremez.
+> Fast Roleplay'de karakterler arasında düşmanlık, tehdit, baskı, hakaret veya psikolojik üstünlük kurmaya yönelik etkileşimler rol sahnelerinin doğal bir parçasıdır. Ancak bu etkileşimlerin tamamı karakter motivasyonuna, gelişen olaylara ve gerçekçi gerekçelere dayanmalıdır. Hiçbir oyuncu, yalnızca karşı tarafı rahatsız etmek, küçük düşürmek veya oyun deneyimini olumsuz etkilemek amacıyla rol gerçekleştiremez.
 
 - Ofansif roller; hikâyeye katkı sağladığı ve gerçekçi gerekçelere dayandığı sürece serbesttir. Ancak bu roller hiçbir zaman oyuncuyu hedef alan kişisel saldırılara, tacize veya rol dışı rahatsızlığa dönüşemez.
 - Hakaret, tehdit, aşağılama, psikolojik baskı, ayrımcılık veya benzeri davranışlar yalnızca karakterler arasında yaşanmalıdır. Bu davranışların oyuncuya yöneltilmesi veya OOC sürece taşınması kesin olarak yasaktır.
@@ -157,7 +157,7 @@ Karakterler Türk ismine sahip olamaz ve Türk kültürel kimliğini benimsemiş
 gibi Türk ve İslam kültür havzasına dahil tüm bölgeleri kapsamaktadır. Dünya üzerinde Türk ve İslam kültürünü benimsemiş ve bu kültürlere bağlı yaşayan her bir bölgeyi isimlendirmek imkansızdır. Dolayısıyla listede olmasa bile bu kültürel kimliği benimsemiş karakterler yaratamazsınız.
 
 - Karakterlerin Türkçe kökenli olup İngilizce karşılığı bulunmayan kelimeleri, argoları veya yerel deyimleri kullanması yasaktır.
-- Karakter kimliği oluşturulurken, sunucu evreninin kültürel dengesi ve rol çeşitliliği göz önünde bulundurulmalıdır. Bu doğrultuda bazı kültürel ve dini arka planların kullanımı belirli prosedürlere bağlıdır. Karakterin Arap kökenli olması ve/veya İslam dinine mensup olarak kurgulanması (veya bu inancı roleplay içerisinde benimsemiş gibi davranması) mümkündür. Ancak bu tür karakter kurguları önceden onay sürecine tabidir. Bu onay süreci bireysel karakterler için Roleplay Quality Management (RPQM) ekibi üzerinden yürütülürken, organizasyon veya oluşum bazlı karakter planlamalarında Faction Management (FM) ekibine başvurulması gerekmektedir. Gerekli onay alınmadan oluşturulan karakterlerin isimleri yönetim tarafından değiştirilebilir veya gerekli görülmesi halinde karakter tamamen silinebilir.
+- Karakter kimliği oluşturulurken, sunucu evreninin kültürel dengesi ve rol çeşitliliği göz önünde bulundurulmalıdır. Bu doğrultuda bazı kültürel ve dini arka planların kullanımı belirli prosedürlere bağlıdır. Karakterin Arap kökenli olması ve/veya İslam dinine mensup olarak kurgulanması (veya bu inancı rol sahnesi içerisinde benimsemiş gibi davranması) mümkündür. Ancak bu tür karakter kurguları önceden onay sürecine tabidir. Bu onay süreci bireysel karakterler için Roleplay Quality Management (RPQM) ekibi üzerinden yürütülürken, organizasyon veya oluşum bazlı karakter planlamalarında Faction Management (FM) ekibine başvurulması gerekmektedir. Gerekli onay alınmadan oluşturulan karakterlerin isimleri yönetim tarafından değiştirilebilir veya gerekli görülmesi halinde karakter tamamen silinebilir.
 - Karakterler; belirli bir etnik kökeni, dini, kültürü veya sosyal kimliği aşağılayıcı, karikatürize edici ya da stereotipleştirici şekilde kurgulanamaz.
 - Tüm karakterlerin minimum 18 yaşında olması zorununludur. 
 - Karakter boyları da kısıtlamalarla birlikte gelir. Fast Roleplay’ın sunduğu karakter boyu ayarlama sistemiyle beraber boyutlandırdığınız karakterler, o karakter için belirlediğiniz yaşa uygun boyda olmalıdır.
@@ -168,7 +168,7 @@ gibi Türk ve İslam kültür havzasına dahil tüm bölgeleri kapsamaktadır. D
 
 ## 9) PK/CK ve Ölüm Sonrası Rol Kuralları
 
-> Fast Roleplay'de ölüm, yalnızca teknik bir oyun mekaniği değil; karakter hikâyesini doğrudan etkileyen önemli bir Roleplay unsurudur. Karakterinizin yaşadığı ağır yaralanmalar, bilinç kaybı veya ölümle sonuçlanan olaylar rol içerisinde kalıcı sonuçlar doğurabilir. Oyunculardan bu sonuçları gerçekçi şekilde role yansıtmaları beklenmektedir.
+> Fast Roleplay'de ölüm, yalnızca teknik bir oyun mekaniği değil; karakter hikâyesini doğrudan etkileyen önemli bir rol unsurudur. Karakterinizin yaşadığı ağır yaralanmalar, bilinç kaybı veya ölümle sonuçlanan olaylar rol içerisinde kalıcı sonuçlar doğurabilir. Oyunculardan bu sonuçları gerçekçi şekilde role yansıtmaları beklenmektedir.
 
 ### Player Kill (PK)
 
@@ -254,13 +254,13 @@ Aşağıdaki davranışlar ağır kural ihlali kapsamında değerlendirilir:
 
 Karakterler arasında gerçekleştirilen yüksek değerli para, araç, mülk veya eşya transferlerinin tamamı rol geçmişi, karakter ilişkileri ve gerçekçi bir ticari gerekçeye dayanmalıdır. Yönetim ekibi gerekli gördüğü durumlarda bu işlemleri inceleme ve oyunculardan rol gerekçelerini açıklamalarını talep etme hakkını saklı tutar.
 
-> Bu kuralın amacı, sunucu ekonomisinin adil, sürdürülebilir ve tamamen Roleplay odaklı şekilde ilerlemesini sağlamaktır. Oyun dışı ilişkilerin veya oyuncu tercihinin oyun içi ekonomik dengeyi etkilemesine izin verilmez.
+> Bu kuralın amacı, sunucu ekonomisinin adil, sürdürülebilir ve tamamen rol odaklı şekilde ilerlemesini sağlamaktır. Oyun dışı ilişkilerin veya oyuncu tercihinin oyun içi ekonomik dengeyi etkilemesine izin verilmez.
 
 ---
 
 ## 12) Silah Kullanımı ve Shortcut Kuralları
 
-> Fast Roleplay'de silah kullanımı, karakter davranışlarının en ciddi unsurlarından biridir ve tamamen gerçekçilik çerçevesinde değerlendirilir. Karakterinizin taşıdığı, çıkardığı veya kullanmaya hazır hâle getirdiği her silah, uygun Roleplay emoteları ile desteklenmelidir. Silahların herhangi bir rol süreci işletilmeden ani şekilde kullanılması rol bütünlüğünü bozan ciddi bir kural ihlalidir.
+> Fast Roleplay'de silah kullanımı, karakter davranışlarının en ciddi unsurlarından biridir ve tamamen gerçekçilik çerçevesinde değerlendirilir. Karakterinizin taşıdığı, çıkardığı veya kullanmaya hazır hâle getirdiği her silah, uygun rol emoteları ile desteklenmelidir. Silahların herhangi bir rol süreci işletilmeden ani şekilde kullanılması rol bütünlüğünü bozan ciddi bir kural ihlalidir.
 
 Aşağıdaki davranışlar kesin olarak yasaktır:
 
@@ -269,7 +269,7 @@ Aşağıdaki davranışlar kesin olarak yasaktır:
 - Çatışma başlamadan önce karakterin silahını role yansıtmadan hazır hâlde bulundurmak.
 - Karakterin ulaşamayacağı veya gerçekçi şekilde taşıyamayacağı ekipmanları üzerinde varmış gibi kullanmak.
 
-Silahın emote kullanılmadan role dahil edilebileceği tek istisna; karakterinizin ani ve beklenmedik bir saldırıya uğraması nedeniyle silah çekmeye ilişkin rol sürecini makul şekilde gerçekleştiremeyecek durumda olmasıdır. Bunun dışında tüm silah kullanımları uygun Roleplay süreciyle desteklenmelidir.
+Silahın emote kullanılmadan role dahil edilebileceği tek istisna; karakterinizin ani ve beklenmedik bir saldırıya uğraması nedeniyle silah çekmeye ilişkin rol sürecini makul şekilde gerçekleştiremeyecek durumda olmasıdır. Bunun dışında tüm silah kullanımları uygun rol süreciyle desteklenmelidir.
 
 Karakterinizin taşıdığı uzun namlulu silahlar ve dikkat çekici ekipmanlar çevrede bulunan kişiler tarafından fark edilebilir niteliktedir. Bu tür ekipmanların görünmezmiş gibi değerlendirilmesi veya çevrenin bunları fark etmeyeceği varsayımıyla rol yapılması kabul edilmez.
 
@@ -331,7 +331,7 @@ Mahkûmlar yalnızca güvenlik açısından makul şekilde kör noktada kalan al
 
 ## 15) İşletme Haracı
 
-> Fast Roleplay'de işletmelerden düzenli olarak haraç veya koruma ücreti talep edilmesi, yalnızca güçlü bir Roleplay altyapısına sahip olması halinde mümkündür. Haraç rolleri; ekonomik kazanç elde etmek amacıyla rastgele gerçekleştirilen eylemler değil, uzun vadeli hikâyelerin ve bölgesel güç dengelerinin doğal bir sonucu olmalıdır.
+> Fast Roleplay'de işletmelerden düzenli olarak haraç veya koruma ücreti talep edilmesi, yalnızca güçlü bir rol altyapısına sahip olması halinde mümkündür. Haraç rolleri; ekonomik kazanç elde etmek amacıyla rastgele gerçekleştirilen eylemler değil, uzun vadeli hikâyelerin ve bölgesel güç dengelerinin doğal bir sonucu olmalıdır.
 
 Bir işletmeden düzenli olarak haraç talep edilebilmesi için aşağıdaki şartların sağlanması beklenir:
 
@@ -372,7 +372,7 @@ Aşağıdaki davranışlar Chicken Run (CR) kapsamında değerlendirilir:
 
 Çatışma sırasında siper almak, bulunduğunuz konumu değiştirmek, uygun anı kollayarak koşmak veya can güvenliğinizi sağlamaya çalışmak tamamen doğaldır. Ancak bu hareketlerin gerçekçilik sınırları içerisinde kalması ve yalnızca oyun mekaniklerinden avantaj elde etmeye yönelik olmaması beklenmektedir.
 
-> Bu kuralın amacı, oyuncuların hayatta kalma reflekslerini kısıtlamak değil; çatışmaların oyun mekaniklerinden ziyade Roleplay, karakter davranışı ve gerçekçilik çerçevesinde ilerlemesini sağlamaktır.
+> Bu kuralın amacı, oyuncuların hayatta kalma reflekslerini kısıtlamak değil; çatışmaların oyun mekaniklerinden ziyade rol, karakter davranışı ve gerçekçilik çerçevesinde ilerlemesini sağlamaktır.
 
 ---
 
@@ -570,19 +570,6 @@ Devlet görevlilerinin görevleri kapsamında gerçekleştirdiği rutin işlemle
 
 ---
 
-# Son Hükümler, Değişiklik Hakları ve Oyuncu Yükümlülükleri
-
-> Bu dokümanda yer alan kurallar, Fast Roleplay'de adil, gerçekçi ve yüksek kaliteli bir Roleplay ortamını korumak amacıyla hazırlanmıştır. Kurallar yalnızca belirli davranışları sınırlandırmayı değil, aynı zamanda sunucunun temel rol standartlarını ve topluluk kültürünü sürdürülebilir kılmayı hedeflemektedir.
-
-- Hesap başvurusu onaylanan her oyuncu; bu kuralların tamamını okumuş, anlamış ve kabul etmiş sayılır. Kuralların bilinmemesi, yanlış yorumlanması veya gözden kaçırılması hiçbir koşulda mazeret olarak kabul edilmez.
-- Fast Roleplay yönetim ekibi; sunucunun ihtiyaçları, topluluk yapısı ve rol kalitesinin korunması doğrultusunda bu kuralları değiştirme, güncelleme, kaldırma veya yeni kurallar ekleme hakkını saklı tutar. Oyuncuların yapılan duyuru ve güncellemeleri düzenli olarak takip etmesi kendi sorumluluğundadır.
-- Bu dokümanda yer almayan ancak rol bütünlüğünü, sunucu ekonomisini, topluluk düzenini veya oyuncu deneyimini olumsuz etkileyen davranışlar da, yönetim ekibi tarafından Fast Roleplay standartları kapsamında değerlendirilebilir. Kuralların açıklarını kullanmaya veya kuralların amacını dolanmaya yönelik girişimler, yazılı kural ihlaliyle eşdeğer şekilde değerlendirilir.
-- Fast Roleplay yönetiminin temel amacı oyuncuları cezalandırmak değil; kaliteli, sürdürülebilir ve herkes için adil bir Roleplay ortamı oluşturmaktır. Oyunculardan yalnızca kuralların yazılı hâline değil, kuralların amacına ve rolün ruhuna uygun şekilde hareket etmeleri beklenmektedir.
-
-> Fast Roleplay, kaliteli Roleplay'in yalnızca kurallarla değil; oyuncuların sağduyusu, karşılıklı saygısı ve ortak sorumluluk anlayışıyla mümkün olduğuna inanır. Bu nedenle tüm oyuncuların, topluluğun gelişimine katkı sağlayacak şekilde hareket etmesi ve rol kalitesini her zaman ön planda tutması beklenmektedir.
-
----
-
 ## 24) Erotik Roleplay ve Cinsel İçerikli Roller
 
 > Fast Roleplay'de erotik veya cinsel içerikli rol sahneleri, yalnızca tüm ilgili oyuncuların açık OOC rızası bulunduğu sürece gerçekleştirilebilir. Hiçbir oyuncu istemediği bir role dahil edilemez veya istemediği içeriklere maruz bırakılamaz. Oyuncuların kişisel sınırları, rol gerekçesinin her zaman önünde gelir.
@@ -623,8 +610,41 @@ Aşağıdaki davranışlar kesin olarak yasaktır:
 - ERP'yi kullanarak herhangi bir oyuncuyu rahatsız etmek, baskı altına almak veya yıldırmaya çalışmak.
 - Açık OOC onayı bulunmayan oyuncuları erotik role tanık olmaya zorlamak.
 - ERP'yi sunucu atmosferini bozacak, diğer oyuncuları rahatsız edecek veya topluluk düzenine zarar verecek şekilde gerçekleştirmek.
-- Pedofili, hebefili, efebofili, zoofili, nekrofili veya benzeri ağır sapkınlıkları konu alan, teşvik eden, normalleştiren ya da bunları roleplay unsuru olarak kullanan hiçbir karakter, hikâye veya rol sahnesine izin verilmez. Bu yasak, tarafların karşılıklı OOC rızası bulunsa dahi geçerlidir ve ağır disiplin ihlali olarak değerlendirilir.
+- Pedofili, hebefili, efebofili, zoofili, nekrofili veya benzeri ağır sapkınlıkları konu alan, teşvik eden, normalleştiren ya da bunları rol unsuru olarak kullanan hiçbir karakter, hikâye veya rol sahnesine izin verilmez. Bu yasak, tarafların karşılıklı OOC rızası bulunsa dahi geçerlidir ve ağır disiplin ihlali olarak değerlendirilir.
+
+### 24.5) ERP'nin Karakterin Tek Amacı Hâline Getirilmesi
+
+Erotik Roleplay, karakter gelişimini destekleyen yan bir rol unsuru olarak değerlendirilebilir; ancak bir karakterin varlığını yalnızca ERP üzerine kurması kabul edilemez.
+
+Karakterlerin sosyal hayata, mesleklerine, organizasyonlarına, arkadaş çevrelerine veya şehirdeki diğer rol unsurlarına hiçbir şekilde dahil olmadan; yalnızca sosyal medya, mesajlaşma uygulamaları veya benzeri yöntemlerle oyuncularla iletişim kurup ERP gerçekleştirmek amacıyla oyuna giriş yapmaları, ardından bir sonraki ERP sahnesine kadar karakterlerini kullanmamaları sunucunun rol anlayışıyla bağdaşmaz.
+
+Fast Roleplay'de ERP, karakterin ana amacı değil; doğal karakter gelişimi içerisinde oluşabilecek yan bir rol unsurudur. ERP odaklı karakter kurguları ve yalnızca bu amaç doğrultusunda kullanılan karakterler yönetim tarafından gerçekçi rol anlayışına aykırı olarak değerlendirilir.
 
 > Erotik Roleplay'in amacı oyuncuları rahatsız etmek veya kişisel sınırlarını zorlamak değildir. Fast Roleplay'de gerçekleştirilen tüm erotik ve cinsel içerikli rol sahneleri; karşılıklı güven, açık oyuncu rızası ve diğer oyuncuların oyun deneyimine saygı esas alınarak yürütülmelidir. Pedofili, hebefili, efebofili, zoofili, nekrofili, ensest veya benzeri ağır sapkınlıkları konu alan, teşvik eden ya da normalleştiren hiçbir karakter konsepti, hikâye veya rol sahnesine hiçbir koşulda izin verilmez. Tarafların karşılıklı OOC rızası bulunsa dahi bu tür içerikler Fast Roleplay standartlarıyla bağdaşmaz ve ağır disiplin ihlali olarak değerlendirilir. Fast Roleplay, bu tür içeriklere hiçbir koşulda taviz vermez. Bu içerikleri oluşturan, teşvik eden veya meşrulaştırmaya çalışan "insanlar" sunucuda barındırılmaz.
 
 ---
+
+## 25) İntihar ve Kendine Zarar Verme Rolleri
+
+İntihar, intihar girişimi veya kendine zarar verme temalı rol sahneleri; içerdiği hassasiyet nedeniyle dikkatli ve sorumluluk bilinciyle yürütülmelidir. Bu tür rollerin amacı ilgi toplamak, oyuncuları rahatsız etmek veya sunucu düzenini bozmak olamaz.
+
+Oyuncularla karşılaşılabilecek kamusal alanlarda gerçekleştirilecek intihar, intihar girişimi veya kendine zarar verme rolleri **yalnızca yönetim ekibinin önceden vereceği onay ile** gerçekleştirilebilir.
+
+Kapalı alanlarda veya yalnızca ilgili oyuncuların bulunduğu sahnelerde gerçekleştirilen bu tür rollerde dahi, rolün karakter gelişimine ve hikâye bütünlüğüne katkı sağlaması beklenir. Sadece dikkat çekmek, kaos oluşturmak veya diğer oyuncuları rahatsız etmek amacıyla yapılan intihar temalı roller uygun görülmez.
+
+> Fast Roleplay'de bu tür içerikler, hassasiyetleri nedeniyle özel olarak değerlendirilir. Yönetim ekibi, rolün sunucu atmosferine veya diğer oyuncuların oyun deneyimine zarar verdiğini değerlendirdiği her durumda sahneye müdahale etme ve rolü sonlandırma hakkını saklı tutar.
+
+---
+
+# Son Hükümler, Değişiklik Hakları ve Oyuncu Yükümlülükleri
+
+> Bu dokümanda yer alan kurallar, Fast Roleplay'de adil, gerçekçi ve yüksek kaliteli rol ortamını korumak amacıyla hazırlanmıştır. Kurallar yalnızca belirli davranışları sınırlandırmayı değil, aynı zamanda sunucunun temel rol standartlarını ve topluluk kültürünü sürdürülebilir kılmayı hedeflemektedir.
+
+- Hesap başvurusu onaylanan her oyuncu; bu kuralların tamamını okumuş, anlamış ve kabul etmiş sayılır. Kuralların bilinmemesi, yanlış yorumlanması veya gözden kaçırılması hiçbir koşulda mazeret olarak kabul edilmez.
+- Fast Roleplay yönetim ekibi; sunucunun ihtiyaçları, topluluk yapısı ve rol kalitesinin korunması doğrultusunda bu kuralları değiştirme, güncelleme, kaldırma veya yeni kurallar ekleme hakkını saklı tutar. Oyuncuların yapılan duyuru ve güncellemeleri düzenli olarak takip etmesi kendi sorumluluğundadır.
+- Bu dokümanda yer almayan ancak rol bütünlüğünü, sunucu ekonomisini, topluluk düzenini veya oyuncu deneyimini olumsuz etkileyen davranışlar da, yönetim ekibi tarafından Fast Roleplay standartları kapsamında değerlendirilebilir. Kuralların açıklarını kullanmaya veya kuralların amacını dolanmaya yönelik girişimler, yazılı kural ihlaliyle eşdeğer şekilde değerlendirilir.
+- Fast Roleplay yönetiminin temel amacı oyuncuları cezalandırmak değil; kaliteli, sürdürülebilir ve herkes için adil bir rol ortamı oluşturmaktır. Oyunculardan yalnızca kuralların yazılı hâline uymaları değil, aynı zamanda kuralların amacını benimsemeleri ve her durumda rolün ruhuna uygun hareket etmeleri beklenmektedir.
+
+> Fast Roleplay'de kaliteli rol sahneleri; yalnızca kurallara uymakla değil, oyuncuların sağduyusu, karşılıklı saygısı ve ortak sorumluluk anlayışıyla mümkündür. Bu nedenle tüm oyuncuların, topluluğun gelişimine katkı sağlayacak şekilde hareket etmesi ve her sahnede rol kalitesini ön planda tutması beklenmektedir. Çünkü iyi bir rol; kazanmakla değil, başka insanlarla birlikte hikâyeler yazabilmekle ölçülür. Fast Roleplay'in temel amacı da tam olarak budur.
+
+Son Güncelleme: 01.08.2026
