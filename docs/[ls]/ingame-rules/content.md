@@ -636,6 +636,182 @@ Kapalı alanlarda veya yalnızca ilgili oyuncuların bulunduğu sahnelerde gerç
 
 ---
 
+## 26) Meslekler ve Sistemsel Çalışma
+
+Fast Roleplay'de sistemsel olarak sunulan meslekler, oyuncuların yalnızca para kazanabilmesi amacıyla oluşturulmuş ekonomik araçlar değildir. Bu mesleklerin temel amacı; karakterlerin şehir içerisindeki yaşamını, ekonomik durumunu, sosyal çevresini ve günlük rutinlerini desteklemek, oyunculara doğal rol sahneleri oluşturabilecekleri alanlar sağlamaktır.
+
+Sistemsel mesleklerden elde edilen gelir, karakterin ekonomik hayatını destekleyen bir unsur olarak değerlendirilmelidir. Meslek sisteminin varlığı, oyunculara herhangi bir rol gerçekleştirmeden yalnızca oyun içerisindeki para miktarını artırma imkânı sunmak amacı taşımaz. Bu nedenle bir karakterin bir mesleği gerçekleştirmesi hâlinde, mesleğin sistemsel mekaniklerinden yararlanmanın yanında ilgili mesleğe uygun Roleplay gerçekleştirmesi beklenmektedir.
+
+### 26.1) Mesleklerin Rol Amacı
+
+Sistemsel meslekler, karakterin rolünü destekleyen araçlardır. Karakterin bütün yaşamının sistemsel mesleklerden para kazanmak üzerine kurulması veya meslek sisteminin karakter gelişiminin önüne geçirilmesi Roleplay anlayışıyla bağdaşmaz.
+
+Bir karakterin meslek sahibi olması;
+
+* Karakterin geçmişi,
+* Yaşam biçimi,
+* Maddi durumu,
+* Karakter özellikleri,
+* Günlük yaşamı,
+* Sosyal çevresi,
+* Uzun vadeli hedefleri
+
+ile mümkün olduğunca tutarlı olmalıdır.
+
+Örneğin karakterini şehirde yeni bir hayat kurmaya çalışan bir elektrik teknisyeni olarak kurgulayan bir oyuncunun elektrikçi mesleğini kullanması karakter gelişimini destekleyen doğal bir unsur olabilir. Ancak aynı karakterin yalnızca sistemsel gelir elde etmek amacıyla hiçbir müşteriyle etkileşime girmeden, hiçbir rol gerçekleştirmeden ve karakterinin mesleğini yaşamının bir parçası hâline getirmeden sürekli olarak meslek görevlerini tamamlaması Fast Roleplay'in standartları ile bağdaşmaz.
+
+### 26.2) Meslek Yaparken Roleplay Zorunluluğu
+
+Sistemsel bir meslek gerçekleştirildiği sırada rol yapılması esastır.
+
+Oyuncuların sistemsel meslek görevlerini yalnızca görevleri tamamlamak ve para kazanmak amacıyla gerçekleştirmesi, mesleğin gerektirdiği etkileşimleri ve rol unsurlarını tamamen göz ardı etmesi uygun değildir.
+
+Meslek sırasında ortaya çıkabilecek durumlara karakter üzerinden tepki verilmesi, çevreyle etkileşim kurulması ve yapılan işin karakterin günlük yaşamının bir parçası olarak oynanması beklenmektedir.
+
+Örneğin;
+
+* Taksi şoförünün müşterileriyle yolculuk sırasında iletişim kurması,
+* Mekanik çalışanın araç sahibiyle araç hakkında konuşması,
+* Teslimat çalışanının teslimat yaptığı işletme veya kişilerle etkileşime girmesi,
+* Çöp toplama çalışanının yaptığı işin gerektirdiği fiziksel ve çevresel şartlara uygun hareket etmesi,
+* Balıkçının bulunduğu ortamı, ekipmanını ve yaptığı işi karakter üzerinden yansıtması,
+* Yapılan mesleğin ilerleyiş etaplarının emotelar ile desteklenmesi
+
+gibi etkileşimler mesleğin role dönüştürülmesini sağlar.
+
+Sistem tarafından verilen görevin tamamlanması tek başına yeterli görülmez. Oyuncunun, sistemsel mekanik ile karakter rolünü mümkün olduğunca bütünleştirmesi beklenir.
+
+### 26.3) Mesleklerin Para Kasmak İçin Kullanılması
+
+Meslek sistemleri, karakterin servetini mümkün olan en kısa sürede artırmak amacıyla kullanılmamalıdır.
+
+Oyuncunun yalnızca sistemsel gelir elde etmek için saatler boyunca aynı mesleği tekrarlaması, mesleği herhangi bir rol oluşturmadan gerçekleştirmesi veya karakterinin yaşamını tamamen para kazanma döngüsüne indirgemesi Fast Roleplay kalitesine aykırı değerlendirilebilir.
+
+Fast Roleplay'de ekonomik ilerleme, karakter gelişiminin doğal bir sonucu olmalıdır. Karakterin zenginleşmesi veya ekonomik durumunun değişmesi yalnızca sistemsel görevlerin tekrar tekrar tamamlanması üzerinden değerlendirilmemelidir.
+
+Oyuncuların;
+
+* Saatlerce aynı görevi yalnızca gelir amacıyla tekrarlaması,
+* Meslek sırasında hiçbir rol gerçekleştirmemesi,
+* Sistemsel görevi mümkün olan en kısa sürede tamamlamaya odaklanması,
+* Karakterin mesleğini yalnızca para kaynağı olarak görmesi,
+* Meslek süresince gerçekçi araç kullanım kurallarına uymayacak hareketler sağlamak,
+* Meslek sistemini karakter rolünün önüne koyması
+
+yönetim tarafından değerlendirmeye alınabilir.
+
+### 26.4) AFK, Pasif ve Etkileşimsiz Meslek Kullanımı
+
+Oyuncunun oyunun başında veya belirli bir noktada karakterini meslek sistemine bağlayarak uzun süre boyunca herhangi bir rol gerçekleştirmemesi ve yalnızca sistemsel kazanç elde etmeyi amaçlaması kabul edilmez.
+
+Karakterin fiziksel olarak oyunda bulunması, tek başına rol yapıldığı anlamına gelmez.
+
+Örneğin oyuncunun;
+
+> Meslek görevini başlatması → herhangi bir oyuncuyla veya çevreyle etkileşime girmemesi → yalnızca sistemsel görevi tamamlaması → kazancı alması → aynı işlemi tekrar etmesi
+
+şeklinde sürekli bir döngü oluşturması, meslek sisteminin rol amacı dışında kullanılmasına örnek olarak değerlendirilebilir.
+
+Meslek sistemlerinin AFK para kazanma, pasif gelir oluşturma veya sürekli tekrarlanan bir grind mekanizması gibi kullanılması yasaktır.
+
+### 26.5) Mesleğin Karakterle Uyumu
+
+Oyuncuların seçtikleri meslekleri karakterlerinin genel konseptiyle uyumlu şekilde kullanmaları beklenmektedir.
+
+Her karakterin her mesleği aynı şekilde gerçekleştirmesi gerekmez. Ancak meslek tercihi karakterin geçmişi ve yaşam biçimiyle tamamen çelişiyorsa, oyuncunun bu durumu rol içerisinde açıklayabilecek makul bir gerekçeye sahip olması beklenebilir.
+
+Bir karakterin;
+
+* Daha önce ilgili işle hiçbir bağlantısı bulunmamasına rağmen bir anda uzmanmış gibi davranması,
+* Mesleğin gerektirdiği bilgi ve deneyime sahip olmadan profesyonel bir karakter gibi hareket etmesi,
+* Aynı anda gerçekçilik açısından birbirinden tamamen kopuk çok sayıda mesleği yürütmesi,
+* Meslek değişikliklerini yalnızca sistemsel kazancı artırmak amacıyla gerçekleştirmesi
+
+karakter bütünlüğü açısından değerlendirilebilir.
+
+Meslek değişikliğinin kendisi yasak değildir. Ancak değişikliklerin karakterin yaşamına ve hikâyesine uygun şekilde gerçekleştirilmesi beklenmektedir.
+
+### 26.6) Meslek Rolünün Devamlılığı
+
+Bir karakterin meslek sahibi olması yalnızca sistemsel görevin başlatıldığı anlarla sınırlı değildir.
+
+Karakterin mesleği, uygun olduğu ölçüde günlük yaşamına ve hikâyesine yansıtılmalıdır.
+
+Örneğin bir karakterin uzun süredir taksi şoförlüğü yaptığı belirtiliyorsa, karakterin bu mesleğe ilişkin deneyimlerinden, çalışma arkadaşlarından, müşterilerinden, iş ortamından veya mesleğiyle bağlantılı geçmiş olaylardan rol içerisinde yararlanması beklenebilir.
+
+Bunun amacı oyuncuyu sürekli olarak meslek hakkında konuşmaya zorlamak değil; mesleğin karakterin hayatında gerçekten var olan bir unsur olarak değerlendirilmesini sağlamaktır.
+
+### 26.7) Mesleklerin Sistemsel Avantaj İçin Suistimal Edilmesi
+
+Sistemsel mesleklerin, oyuncuya rol dışında ekonomik veya mekanik avantaj sağlamak amacıyla kullanılması yasaktır.
+
+Meslek sistemindeki herhangi bir mekanik;
+
+* Para kasmak,
+* Eşya veya araç edinmek,
+* Karakterler arasında sistemsel değer aktarmak,
+* Başka bir sistemin gerekliliklerini hızlı şekilde tamamlamak,
+* Ekonomik ilerlemeyi yapay şekilde hızlandırmak
+
+amacıyla rolden bağımsız şekilde kullanılmamalıdır.
+
+Bir meslek sisteminin teknik olarak kullanılabilir olması, oyuncunun bu sistemi rol amacından bağımsız olarak istediği şekilde kullanabileceği anlamına gelmez.
+
+### 26.8) Meslek Esnasında Diğer Oyuncularla Etkileşim
+
+Meslekler, şehirdeki diğer oyuncularla doğal etkileşim oluşturabilecek önemli rol alanlarından biridir.
+
+Oyuncuların karşılaştıkları diğer karakterleri yalnızca sistemsel görevin tamamlanması açısından değerlendirmeleri yerine, uygun durumlarda bu karşılaşmaları rol sahnelerine dönüştürmeleri beklenmektedir. Bununla birlikte hiçbir oyuncu, meslek yaptığı gerekçesiyle diğer oyuncuları zorla rol sahnelerine dahil edemez. Etkileşimlerin doğal, karşılıklı ve sahnenin koşullarına uygun olması gerekir.
+
+Bir meslek sistemi içerisinde diğer oyuncularla etkileşim kurulması mümkün değilse, oyuncunun bu durumu zorla rol oluşturarak yapay şekilde değiştirmesi de gerekli değildir. Temel ölçüt, ortaya çıkan fırsatların rol açısından değerlendirilmesidir.
+
+### 26.9) Mesleklerin Tekrarlanması ve Roleplay Çeşitliliği
+
+Bir mesleğin sistemsel olarak tekrar edilebilir olması, karakterin sürekli olarak aynı davranışları sergilemesini gerektirmez.
+
+Oyuncuların karakterlerinin günlük yaşamlarını yalnızca tek bir sistemsel faaliyete indirgememeleri, mümkün olduğu ölçüde farklı sosyal ve karakter gelişimi odaklı rollere katılmaları beklenmektedir.
+
+Fast Roleplay'de ekonomik ilerleme, karakterin şehir içerisindeki hayatının yalnızca bir parçasıdır. Oyuncunun bütün oyun süresini sistemsel meslek görevleriyle geçirerek diğer rol alanlarından tamamen uzaklaşması, karakterin gelişimini ve sunucudaki sosyal etkileşimi olumsuz etkileyebilir.
+
+### 26.10) Meslek Gelirinin IC Değeri
+
+Sistemsel olarak kazanılan para, karakter açısından IC bir ekonomik değer taşır. Ancak sistemde görünen miktar, karakterin bu parayı gerçek hayatta olduğu gibi sınırsız veya düşüncesiz şekilde kullanabileceği anlamına gelmez.
+
+Oyuncular, mesleklerden elde ettikleri geliri karakterlerinin ekonomik durumuyla uyumlu şekilde değerlendirmelidir.
+
+Meslekten elde edilen paranın;
+
+* Karakterin yaşam standartları,
+* Düzenli giderleri,
+* Mesleğin gerçekçi gelir seviyesi,
+* Karakterin geçmişi,
+* Şehirdeki ekonomik konumu
+
+ile uyumlu şekilde ele alınması beklenmektedir.
+
+Sistemsel olarak kısa sürede yüksek miktarda para kazanılmış olması, karakterin aynı süre içerisinde IC olarak zenginleşmiş ve yüksek yaşam standartlarına ulaşmış olduğu anlamına gelmeyebilir. Bu gibi durumlarda Roleplay Quality Management, karakteriniz ve mal varlıklarınız hakkında yaptırım hakkına sahiptir.
+
+### 26.11) Mesleklerin Karakter Gelişimine Katkısı
+
+Meslekler, karakterin hikâyesini ilerletmek için kullanılabilecek araçlardan biridir.
+
+Bir meslek;
+
+* Yeni insanlarla tanışma,
+* Sosyal çevre oluşturma,
+* Karakterin geçmişini geliştirme,
+* Ekonomik hedefler oluşturma,
+* Yeni hikâyeler başlatma,
+* Şehir içerisindeki farklı gruplarla bağlantı kurma
+
+gibi birçok rol unsurunun başlangıç noktası olabilir.
+
+Oyuncuların meslekleri yalnızca para kazanılan sistem olarak değil, karakterlerinin şehirdeki hayatını şekillendiren bir unsur olarak değerlendirmeleri beklenmektedir.
+
+> Fast Roleplay'de meslek yapmak, bir görevi sistem üzerinden tamamlamak anlamına gelmez. Oyuncunun o işi karakteriyle birlikte yaşatması, çevresiyle etkileşime sokması ve karakterinin hikâyesine dahil etmesi beklenir. 
+
+---
+
 # Son Hükümler, Değişiklik Hakları ve Oyuncu Yükümlülükleri
 
 > Bu dokümanda yer alan kurallar, Fast Roleplay'de adil, gerçekçi ve yüksek kaliteli rol ortamını korumak amacıyla hazırlanmıştır. Kurallar yalnızca belirli davranışları sınırlandırmayı değil, aynı zamanda sunucunun temel rol standartlarını ve topluluk kültürünü sürdürülebilir kılmayı hedeflemektedir.
@@ -647,6 +823,5 @@ Kapalı alanlarda veya yalnızca ilgili oyuncuların bulunduğu sahnelerde gerç
 
 > Fast Roleplay'de kaliteli rol sahneleri; yalnızca kurallara uymakla değil, oyuncuların sağduyusu, karşılıklı saygısı ve ortak sorumluluk anlayışıyla mümkündür. Bu nedenle tüm oyuncuların, topluluğun gelişimine katkı sağlayacak şekilde hareket etmesi ve her sahnede rol kalitesini ön planda tutması beklenmektedir. Çünkü iyi bir rol; kazanmakla değil, başka insanlarla birlikte hikâyeler yazabilmekle ölçülür. Fast Roleplay'in temel amacı da tam olarak budur.
 
-Son Güncelleme: 01.08.2026
-
 ---
+**Son Güncelleme:** 10.08.2026 - 18.34
