@@ -4,9 +4,9 @@
 
 |  Bağlantılar |  Açıklama |
 |---------------|------------|
-| [💿 GTA 5 Kurulumu](#gta-v-kurulumu) | Buradan nasıl GTA:V kurulumu yapabileceğinizi görüntüleyebilirsiniz. |
-| [🧩 FiveM Kurulumu](#fivem-kurulumu) | Buradan FiveM kurulumunu görüntüleyebilirsiniz. |
-| [🚀 Son](#son) | FiveM üzerinden sunucuya nasıl giriş yapabileceğinizi görüntüleyebilirsiniz. |
+| [GTA 5 Kurulumu](#gta-v-kurulumu) | Buradan nasıl GTA:V kurulumu yapabileceğinizi görüntüleyebilirsiniz. |
+| [FiveM Kurulumu](#fivem-kurulumu) | Buradan FiveM kurulumunu görüntüleyebilirsiniz. |
+| [Son](#son) | FiveM üzerinden sunucuya nasıl giriş yapabileceğinizi görüntüleyebilirsiniz. |
 
 ---
 
@@ -21,7 +21,7 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 ##  Rockstar Games Kurulumu
 
 1.  Yüklenen GTA:V'yi çalıştırın.  
-    1.1 🌍 Karşınıza gelen Language Select ekranından "English" seçeneğini seçip devam edin.  
+    1.1 Karşınıza gelen Language Select ekranından "English" seçeneğini seçip devam edin.  
     ![](https://raw.githubusercontent.com/fastroleplay/wiki/refs/heads/main/images/language-select.png)
 
 2. ▶ Açılan pencereden "Continue" butonuna tıklayarak devam edin.  
@@ -39,9 +39,9 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 
 ##  FiveM Kurulumu
 
-1. 🔗 Linke tıklayarak "Download Client" üzerinden FiveM'i yükleyin.
+1. Linke tıklayarak "Download Client" üzerinden FiveM'i yükleyin.
 [FiveM İndir](https://fivem.net/)
-2. 📥 Açılan pencereden devam edin. Kurulum dosyasını çalıştırın ve dosyanın istediği etapları takip edin.
+2. Açılan pencereden devam edin. Kurulum dosyasını çalıştırın ve dosyanın istediği etapları takip edin.
 ![](<../../images/fivem installation.png>)
 
 ---
@@ -50,4 +50,3 @@ Satın aldıktan sonra yükleyin ve bir sonraki aşamaya geçin.
 
  Artık FiveM'e girdiğinize göre ister "Browse Server" sekmesinden, ister F8> 'connect xxx.xx.xxx.xx' şeklinde Fast'in tadını çıkarabilirsiniz:
 ```xxx.xx.xxx.xx```
-![alt text](../../images/fivemf8.png)
