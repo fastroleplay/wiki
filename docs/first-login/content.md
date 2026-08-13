@@ -2,7 +2,7 @@
 <center>Tebrikler! Sonunda monoton, klasikleşmiş ve haksız yönetilen sunuculardan kurtuldun ve gerçekten oynamaya değer bir roleplay sunucusu buldun! 🎉🥳</center>
 
 ### Fast'teki İlk Adımların:
-🚀 Fast'e hoş geldin!
+ Fast'e hoş geldin!
 1. Fast:UCP üzerinden karakter başvurusunda tarafına sorulan soruları kurallar çerçevesinde cevapla ve biz o başvuruyu okurken sen de rol planını gözden geçirmeye başla! Biz başvurunu okuyup onayladıktan sonra bildirim alacaksın! O zamana kadar aşağıda senin için hazırladıklarımızı incelemende fayda var.
 ## Karakterini Oluştur
 1. Başvurun onaylandıktan ve karakterine giriş yaptıktan sonra karakter oluşturma bölümüne gireceksin, işte uzun süre kullanacağın o yüzü belirleme ekranı karşında!

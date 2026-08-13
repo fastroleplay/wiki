@@ -1,29 +1,67 @@
-# 🏙️ LOS SANTOS BÖLGE HİKAYELERİ
+# After Life
 
->**İstihbarat Notu:** Bu doküman, Los Santos sokaklarında hayatta kalmak, doğru ittifaklar kurmak ve kimin damarına basmamanız gerektiğini anlamanız için hazırlanmış resmi olmayan bir yeraltı rehberidir. Şehre yeni ayak bastıysanız, adımlarınızı buradaki yazılmayan kurallara göre atın.
+Fast Roleplay'e hoş geldin. Şehre adım attıktan sonra Los Santos'un nasıl işlediğini, hangi kurallara göre hareket etmen gerektiğini ve rolünü nasıl sürdürebileceğini öğrenmek için öncelikle aşağıdaki içerikleri incelemen gerekir. Sunucuya giriş yaptıktan sonra yalnızca oyun içerisindeki mekanikleri öğrenmek yeterli değildir; Fast Roleplay'in hikâyesini, rol anlayışını ve kullandığın platformların kurallarını da bilmen beklenir.
 
----
+## Önce Los Santos'u Tanı
 
-### 💎 Hawick: Lüksün Arkasındaki Kirli Camlar
-Hawick, dışarıdan bakıldığında lüks giyim mağazaları, premium kuaförleri ve caddelerinde turlayan son model spor arabalarıyla Los Santos’un en ışıltılı vitrinidir. Ancak bu parlak vitrinin arkası, sosyetenin kirli sırlarını saklayan bambaşka bir dünyaya açılır. Son yıllarda şehrin üst düzey iş insanları, yozlaşmış politikacıları ve lüks meraklısı uyuşturucu bağımlıları, Hawick’in elit mekanlarını birer kara para aklama merkezi olarak kullanmaya başlamıştır. Burada sokak çetelerinden ziyade takım elbiseli beyaz yaka suç örgütleri, gizli kapılar ardında dönen finansal dolandırıcılıklar ve elit kesime hitap eden pahalı uyuşturucu ticareti hakimdir. Siviller için sosyete dedikoduları, magazin muhabirliği, lüks mağaza işletmeciliği ve podyum etkinlikleri gibi zengin bir sosyalleşme alanı sunan bölge, görkemli yaşamların arkasındaki yozlaşmayı görmek isteyen insanlar için biçilmiş kaftandır[cite: 1, 2].
+Oyuna başlamadan önce Fast Roleplay'in sunucu hikâyesini mutlaka oku. Los Santos'un geçmişini, şehirdeki genel düzeni ve sunucunun oluşturduğu rol evrenini anlaman, karakterinin bu dünyaya daha doğal şekilde uyum sağlamasına yardımcı olur.
 
----
+**Sunucu Hikâyesi:**
+https://ucp.fast-rp.com/ls/story
 
-### 🌊 Vespucci: Güneş, Kum ve Gizli Hesaplaşmalar
-Vespucci Canals ve sahil şeridi, eskiden sadece turistlerin, patencilerin ve sörfçülerin uğrak noktasıyken, şimdilerde Los Santos'un en tehlikeli gri bölgelerinden birine dönüşmüştür. Kanalların labirent gibi uzanan karmaşık yapısı ve dar sokakları, kolluk kuvvetlerinin devriye atmasını zorlaştırdığı için illegal faaliyetlere mükemmel bir kaçış zemini hazırlar. Gündüzleri sahil kafelerinde kahve içip güneşin tadını çıkaran insanlar varken, geceleri kanalların kuytu köşektedir deniz yoluyla şehre sokulan kaçak silah ve mühimmatların gizli dağıtımı yapılmaktadır. Bölge, sahil şeridini mesken tutmuş hırçın sörfçü çetelerine, denizyolu kaçakçılarına ve kanalları sığınak olarak kullanan suç şebekelerine ev sahipliği yapar. Aynı zamanda beach club işletmeciliği, dövmecilik, cankurtaranlık ve sokak sanatçılığı gibi kültürlere en çok denk gelinen dinamik bölgedir.
+Sunucu hikâyesini okuduktan sonra karakterinin geçmişini ve şehirdeki davranışlarını bu evrene uygun şekilde şekillendirebilirsin.
 
----
+## Oyun Kurallarını Öğren
 
-### 🎡 Del Perro: Kayıp Hayaller ve Büyük Kumar
-Del Perro, ünlü iskelesi, devasa plajı ve neon ışıklı eğlence merkezleriyle şehrin hiç uyumayan kalbidir. Ancak son dönemde bölgeye dikilen devasa finans gökdelenleri ve lüks rezidanslar, burayı tam bir "büyük balık, küçük balığı yer" arenasına çevirmiştir. İskelenin altındaki evsizlerin ve çaresizlerin dramı ile birkaç yüz metre ötedeki ultra lüks yaşamın ihtişamı arasındaki uçurum, bölgedeki suç oranını ve acımasızlığı körüklemektedir. Kumarbazlar, profesyonel dolandırıcılar, tefeciler ve zenginleri gözüne kestiren hırsızlık şebekeleri, Del Perro’nun kalabalığından faydalanarak avlanır. Finans danışmanlığı, emlakçılık, lunapark ve restoran işletmeciliği ya da avukatlık büroları gibi yüksek profilli temiz işler için harika bir merkez olan bu bölge, paranın getirdiği güç ve yasadışı kumar organizasyonlarının getirdiği tehlike arasında ince bir çizgide yürür.
+Los Santos'a girdikten sonra karşılaşacağın rol sahnelerinin nasıl yürütüldüğünü öğrenmek için **Genel Oyun Kuralları** bölümünü incelemen gerekir. Buradaki kurallar; rol bütünlüğü, gerçekçilik, IC/OOC ayrımı, metagaming, çatışmalar, karakter yönetimi, araç kullanımı ve benzeri birçok temel konuyu kapsar.
 
----
+Kuralları yalnızca bir ihlal durumunda bakılacak bir belge olarak değil, oyuna başlamadan önce öğrenilmesi gereken temel bilgiler olarak değerlendir.
 
-### ⛓️ Davis: Sokağın Kurallarını Yazan Topraklar
-Davis, Los Santos’un en sert, en acımasız ama kendi içinde en sadık ve adil bölgesidir. Polis sirenlerinin hiç susmadığı, duvarların renkli grafitilerle konuştuğu bu getto, yıllardır süregelen köklü çete savaşlarının ve sokak kültürünün merkez üssüdür. Buradaki insanlar için adalet mahkeme salonlarında değil, sokak köşelerinde ve namluların ucunda aranır; Davis sakinleri dış dünyaya ve yabancılara karşı aşırı mesafeli ve şüphecidir. Bölgede hayatta kalmak isteyen bir kişinin ya sokak çetelerinden birinin rengine sadık olması ya da gözlerini yere dikip sadece kendi işine bakması gerekir. Köşe başı uyuşturucu satıcılığı, gasp, lowrider kültürüyle harmanlanmış illegal sokak yarışları ve çete çatışmaları bölgenin günlük rutiniyken; yerel tamirhaneler, mahalle berberleri, sosyal yardımlaşma rolleri ve burada düzeni sağlamaya çalışan agresif deputylerle Davis, şehirde en gergin anlara ev sahipliği yapar.
+**Genel Oyun Kuralları:**
+https://ucp.fast-rp.com/wiki/ls/ig-rules
 
-### 💵 Richman: Dokunulmazların Sığınağı ve İpekten Maskeler
-Richman, Los Santos’un tepelerine kurulmuş, devasa malikaneleri, kusursuz kesilmiş çimleri ve yüksek güvenlik duvarlarıyla adeta şehirden bağımsız bir prensliktir. Burada yaşayan eski paranın sahipleri, teknoloji milyarderleri ve şehir yönetimini parmağında oynatan aileler, aşağı mahallelerdeki kaosun sesini asla duymazlar; çünkü onların dünyası kapalı kapılar ardındaki vakıf geceleri, gizli lobicilik faaliyetleri ve milyar dolarlık ihalelerle döner. Buranın sokaklarında yürürken göreceğiniz tek hareketlilik, lüks spor araçlar ve özel güvenlik ordularıdır; zira Richman sakinleri kendi adaletsizliklerini örtbas etmek için şehrin en iyi hukuk bürolarını ve yüksek rütbeli polis şeflerini resmen maaşa bağlamıştır. Ancak bu sessizlik sizi aldatmasın; malikanelerde dönen yüksek profilli uluslararası kaçakçılık anlaşmaları, şantaj ağları ve siyasi suikast planları, aşağı mahallelerdeki bir çete savaşından çok daha fazla can almaktadır.
+## Fastagram'ı Kullanırken
 
-### 🎭 Vinewood Bulvarı: Şöhret Kaldırımları ve Neon Işıklı Kabuslar
-Yıldızların isimlerinin kazındığı o ünlü kaldırımlar, tiyatrolar ve gece kulüpleriyle Vinewood Bulvarı, Los Santos rüyasının doğduğu ama aynı zamanda genç beyinlerin çürüdüğü yerdir. Gündüzleri turist kafilelerinin, sokak taklitçilerinin ve hevesli aktörlerin doldurduğu bu parıltılı cadde, güneş battığı andan itibaren yerini uyuşturucu satıcılarına, şantajcı paparazzilere ve gece kulüplerinin kapısını tutan eski polis memurlarına bırakır. Bulvarın arkasında kalan loş stüdyolar ve VIP localar, şöhret basamaklarını tırmanmak için ruhunu satmaya hazır insanlarla doludur ve bu durum yeraltı dünyası için bitmek bilmez bir insan ticareti, şantaj ve elit fuhuş pazarı yaratır. Eğer burada ayakta kalmak istiyorsanız ya o neon ışıkların altında spot ışıklarını üzerinize çeken popüler bir figür olmalı ya da o ışıkların kör ettiği insanları gölgelerden izleyen bir avcı olmayı öğrenmelisiniz.
+Fastagram, Los Santos içerisindeki sosyal medya deneyiminin bir parçasıdır. Burada yaptığın paylaşımlar ve gerçekleştirdiğin etkileşimler de rolün bir parçası olarak değerlendirilir. Platformu kullanmaya başlamadan önce Fastagram'a özel kuralları öğrenmelisin.
+
+**Fastagram Kuralları:**
+https://ucp.fast-rp.com/wiki/ls/fastagram-rules
+
+Fastagram üzerinde yaptığın bir paylaşımın oyun içerisindeki karakterin tarafından yapılmış olduğunu unutma. Bu nedenle burada gerçekleştirilen eylemler de karakterinin hikâyesi ve rol bütünlüğüyle uyumlu olmalıdır.
+
+## Forum ve Topluluk Alanları
+
+Fast Roleplay'in forumu; oyuncuların çeşitli konularda iletişim kurduğu, içerik oluşturduğu ve sunucu içerisindeki bazı süreçleri yürüttüğü alanlardan biridir. Forumda konu açmadan veya etkileşimde bulunmadan önce forum kurallarını incelemen gerekir.
+
+**Forum Kuralları:**
+https://ucp.fast-rp.com/wiki/ls/forum-rules
+
+Forumdaki davranışların oyun içerisindeki rolünden bağımsız olarak topluluk kuralları kapsamında değerlendirilebileceğini unutma.
+
+## Mülk Edinmeden Önce
+
+Los Santos'ta bir ev, işletme veya başka bir mülk edinmek istiyorsan öncelikle **Mülk Yönetim Kuralları** bölümünü incele. Mülklerin kullanımı, yönetimi ve mülklere ilişkin süreçler bu kurallar doğrultusunda yürütülür.
+
+**Mülk Yönetim Kuralları:**
+https://ucp.fast-rp.com/wiki/ls/property-rules
+
+Bir mülke sahip olmak, o mülkü kurallardan bağımsız şekilde kullanabileceğin anlamına gelmez. Mülkün kullanımından doğan rollerin ve işlemlerin de Fast Roleplay standartlarına uygun olması gerekir.
+
+## Oyun İçerisinde Bir Şey Yapmadan Önce
+
+Fast Roleplay'de bir işlem yaparken yalnızca sunucu kurallarını değil, platformun kendi kurallarını da dikkate almalısın. Özellikle oyunun kurulumu, istemci dosyaları ve platformla ilgili konularda **Platform Kuralları** bölümünü incelemen gerekir.
+
+**Platform Kuralları:**
+https://ucp.fast-rp.com/wiki/platform-rules
+
+Platform tarafından izin verilmeyen veya oyun deneyimini değiştirmeye yönelik yöntemleri kullanmak, Fast Roleplay içerisinde ayrıca yaptırıma tabi olabilir.
+
+## Kısacası
+
+Los Santos'a girdikten sonra yapman gerekenler oldukça basit:
+
+**Sunucu hikâyesini öğren → Genel Oyun Kurallarını oku → Fastagram ve Forum kurallarını öğren → Mülk edinmeden önce mülk kurallarını incele → Oyun içerisinde işlem yaparken platform kurallarına uy.**
+
+Bunları öğrendikten sonra karakterini oluşturabilir, şehirde insanlarla tanışabilir, bir meslek edinebilir, kendi hikâyeni oluşturabilir ve Los Santos'taki rolüne başlayabilirsin.
+
+Fast Roleplay'de amaç yalnızca oyuna girmek değil; karakterinin bu dünyanın içerisinde gerçekten yaşayan bir insan gibi hikâyesini oluşturmaktır.
